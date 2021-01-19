@@ -9,6 +9,8 @@ Lanuages used are bash and Python.
 
 # Special Notes
 
+I uploaded the whole directory here. So there might be things you don't really need. I'm removing them right now.
+
 Each Http request has an interval of 3 seconds to 6 seconds, depending on my mood when I implemented the scripts.
 
 The 3 to 6 seconds pauses are nessarcy to avoid being recognized as a robot, 
