@@ -1,0 +1,31 @@
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Private Albertus-Magnus-Realschule
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Realschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">St. Ingbert</span>
+                  </span>
+                    <div >
+                      <dl>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#97;&#109;&#114;&#45;&#105;&#103;&#98;&#46;&#100;&#101;" title="E-Mail senden an: &#105;&#110;&#102;&#111;&#64;&#97;&#109;&#114;&#45;&#105;&#103;&#98;&#46;&#100;&#101;" >&#105;&#110;&#102;&#111;&#64;&#97;&#109;&#114;&#45;&#105;&#103;&#98;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06894 2242</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06894 3287</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Thomas Bonerz</dd>
+                                </dl>
+                    </div>
+                    <p>Auf der Meß 16, 66386 St. Ingbert</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          </div>
+                </div>
+

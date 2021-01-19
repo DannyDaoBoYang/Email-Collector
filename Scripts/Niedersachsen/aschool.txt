@@ -1,0 +1,253 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="">
+	<link rel="stylesheet" type="text/css" href="http://www.nibis.de/nli1/nli.css">
+	<style type="text/css">
+<!--
+body {
+	font-size: 75%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+html>body {
+	font-size: 12px;
+}
+input.check {
+	display: inline;
+	float: left;
+}
+form br {
+	clear: both;
+	line-height: 0px;
+	font-size: 0px;
+	height: 0px;;
+}
+legend {
+	border: 1px solid #CCCCCC;
+	font-weight: bold;
+	background-color: #CCCCCC;
+	margin-top:0em;
+	padding-right: 0.416em;
+	padding-left: 0.416em;
+}
+div.nebeneinander {
+	display: inline;
+	float: left;
+	width: 11.66em;
+}
+div.nebenbreit {
+	display: inline;
+	float: left;
+}
+div.center {
+	width:50em;
+	text-align:center;
+}
+fieldset {
+	width:24.166em;
+	width:24em;
+	border: 1px solid #CCCCCC;
+	float: left;
+	padding:0.416em;
+	margin-bottom:0.833em;
+	margin-left:0.833em;
+	padding-top:0.833em;
+}
+#gliederung, #bereiche {
+	height: 16.833em;
+}
+#kreis {
+	height: 11.416em;
+}
+#sonst, #dezschl {
+	width:50em;
+}
+.sonstlabel {
+	width: 11.666em;
+	display:block;
+	float:left;
+}
+select {
+	float: left;
+	margin: 0.416em;
+}
+hr {
+	width:90%;
+	height:1px;
+	background-color: #CCCCCC;
+	border: none;
+}
+.show {
+	display:block;
+}
+.hide {
+	display:none;
+}
+-->
+</style>
+</HEAD>
+<body bgcolor="#FFFFFF"> 
+
+<!--
+<center>
+<div class="ueber">
+</div>
+</center>
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+   <TITLE>Schulinformationen</TITLE>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="">
+	<link rel="stylesheet" type="text/css" href="http://www.nibis.de/nli1/nli.css">
+	<style type="text/css">
+<!--
+body {
+	font-size: 75%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+html>body {
+	font-size: 12px;
+}
+input.check {
+	display: inline;
+	float: left;
+}
+form br {
+	clear: both;
+	line-height: 0px;
+	font-size: 0px;
+	height: 0px;;
+}
+legend {
+	border: 1px solid #CCCCCC;
+	font-weight: bold;
+	background-color: #CCCCCC;
+	margin-top:0em;
+	padding-right: 0.416em;
+	padding-left: 0.416em;
+}
+div.nebeneinander {
+	display: inline;
+	float: left;
+	width: 11.66em;
+}
+div.nebenbreit {
+	display: inline;
+	float: left;
+}
+div.center {
+	width:50em;
+	text-align:center;
+}
+fieldset {
+	width:24.166em;
+	width:24em;
+	border: 1px solid #CCCCCC;
+	float: left;
+	padding:0.416em;
+	margin-bottom:0.833em;
+	margin-left:0.833em;
+	padding-top:0.833em;
+}
+#gliederung, #bereiche {
+	height: 16.833em;
+}
+#kreis {
+	height: 11.416em;
+}
+#sonst, #dezschl {
+	width:50em;
+}
+.sonstlabel {
+	width: 11.666em;
+	display:block;
+	float:left;
+}
+select {
+	float: left;
+	margin: 0.416em;
+}
+hr {
+	width:90%;
+	height:1px;
+	background-color: #CCCCCC;
+	border: none;
+}
+.show {
+	display:block;
+}
+.hide {
+	display:none;
+}
+-->
+</style>
+</HEAD>
+<body bgcolor="#FFFFFF"> 
+
+<!--
+<center>
+<div class="ueber">
+Schulinformationen</div>
+</center>
+-->
+<!-- Anzeige von I-Klassen auskommentiert WMO , 24.06.15 -->
+<center>
+<table cellpadding=5 cellspacing=0 border=1 class="fliess">
+<tr>
+  <td colspan="2">
+  Wenn die Daten dieser Schule nicht mehr aktuell sind,<br>teilen Sie dies bitte dem NiBiS-Team per E-Mail an service@nibis.de mit
+  </td>
+</tr>
+<tr>
+  <td>Schule:</TD>
+  <td><b>Freie Martinsschule -Förderschule Schw<br>Lernen und geistige Entwicklung i.fr.T</b></TD>
+</tr>
+
+<tr>
+  <td>Stra&szlig;e:</TD>
+  <td>Am Südtor 15 &nbsp;</TD>
+</tr>
+<tr>
+  <td>Ort:</TD>
+  <td>30880&nbsp;Laatzen</TD>
+</tr>
+<tr>
+  <td>Tel:</TD>
+  <td>0511 82199630</TD>
+</tr>
+	<tr><td valign="top">
+		Schul-<br>gliederung(en):</TD>
+	<td>
+		FöS Lernen Ganztagsschule<br>FöS Emotionale+soziale Entw.<br>FöS Geistige Entwicklung<br>IGS/FWS - SEK I - &nbsp;		</TD>
+	</tr>
+  <tr>
+  <td>Homepage:</TD>
+  <td>
+      		    <A HREF="http://www.freie-martinsschule.de/" target="_blank">
+		    http://www.freie-martinsschule.de/</A> 	
+		</tr>
+ 
+<tr>
+  <td>E-Mail:</TD>
+  <td>
+          	    <A HREF="mailto:kontakt@freie-martinsschule.de">
+		    kontakt@freie-martinsschule.de</A>
+      	</TD>
+</tr>	
+<tr>
+  <td>Schulnummer:</TD>
+  <td>90219</td>
+</tr>	    
+
+</table>
+<p>
+  <a href="admin/eingeben.php?schulnr=90219&aendern=4"><img border=0 height="10" src="../../../icon/a1.gif"></a>&nbsp;
+  <input class="fliess" type="button" value="Fenster schlie&szlig;en" onClick="self.close()">
+  &nbsp;<a href="admin1/schule_edit.php?schulnr=90219"><img border=0 height="10" src="../../../icon/a1.gif"></a>
+</center>
+</html>
+</body>

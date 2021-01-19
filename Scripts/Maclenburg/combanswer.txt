@@ -1,0 +1,471 @@
+school,email,e1,e2,e3
+1. Grundschule Georg Friedrich Kersting,  Herr  Grothe, kersting-gs@freenet.de
+2. Grundschule Güstrow Fritz Reuter,  Herr  Vieroth, f.reuter-gs@t-online.de
+Albert-Einstein-Gymnasium,  Herr Dr. Kittler, dr_dkittler@gmx.de
+Arche Schule Evangelische Grundschule mit Orientierungsstufe,  Frau  Bielke, info@arche-schule.de
+AWO Spatzenschule Grundschule,  Frau  Lock, info@awo-spatzenschule-neukalen.de
+Baltic-Schule Rostock Regionale Schule,  Frau  Häupl, sekretariat.balticschule@rostock.de
+Benjamin-Schule Evangelische Grundschule mit Orientierungsstufe Mecklenburgische Schweiz,  Herr  Hornburg, m.wild@benjamin-schule.de
+Bildungscampus Rosenow Grundschule mit Orientierungsstufe in freier Trägerschaft,  Frau  Meißner, gs-rosenow@jus-or.de
+BIP Kreativitätsgrundschule mit Orientierungsstufe in freier Trägerschaft,  Herr  Schilling, Schilling@bip-nb.de
+Burgschule Wredenhagen Grundschule,  Frau  Arndt, gsburgschule@aol.com
+Christliche Gemeinschaftsschule Jona Schule Integrierte Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Herr  Schwabe, gemeinschaft@jona-schule.de
+Christliche Münster Schule Bad Doberan Grundschule mit Orientierungsstufe,  Frau  Bönner, leitung@muensterschule-dbr.de
+CJD Christophorusschule Rostock Gymnasium mit Grundschule und Orientierungsstufe,  Herr  Kästner, cjd.rostock@cjd.de
+CJD Christophorusschule Rügen Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Hanna, sekretariat@cjd-sellin.de
+Conventer Schule Rethwisch Regionale Schule mit Grundschule,  Frau  Lemke, info@schule-rethwisch.de
+Dahlien-Grundschule Bad Sülze,  Frau  Witschurke, grundschule-bs@freenet.de
+Daniel Sanders Grundschule,  Frau  Pauly, gs.sanders@neustrelitz.de
+Deutsch-Polnisches Gymnasium Europaschule,  Frau  Metz, dpg-l@t-online.de
+Die andere Grundschule,  Frau  Voss, voss@die-andere-grundschule.de
+Diesterweg-Grundschule Loitz,  Frau  Kühn, diesterweggrundschule.loitz@loitz.de
+Don-Bosco-Schule Katholische Kooperative Gesamt- schule mit gymnasialer Oberstufe und Grundschule,  Herr  Mengel, sekretariat-ws@dbs-hro.de
+ecolea - Internationale Grundschule gGmbH,  Frau  Kamprath, silke.hagemann@seminarcenter.de
+ecolea - Internationale Schule Güstrow Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Kremer, gymnasium.gue@ecolea.de
+ecolea - Internationale Schule Rostock Gymnasium in Freier Trägerschaft,  Frau  Dudeck, gymnasium.hro@ecolea.de
+ecolea - Internationale Schule Schwerin Gymnasium in Freier Trägerschaft,  Frau  Ochsenreither, gymnasium.sn@ecolea.de
+Edith-Stein-Grundschule mit Orientierungsstufe,  Frau  Löning, sekretariat@ess-lwl.de
+Elbe-Gymnasium Boizenburg,  Herr  Kersten, kontakt@elbe-gymnasium.de
+Eldenburg-Gymnasium Lübz,  Herr  Schwarz, scb@gymlbz.de
+Eldetalschule Regionale Schule mit Grundschule,  Herr  Weimer, regionale.schule.domsuehl@web.de
+Erasmus-Gymnasium,  Herr  Schröder, gy-erasmus@rostock.de
+Ernst-Barlach-Gymnasium,  Herr  Pegel, sekretariat@ebg-schoenberg.com
+Ernst-Moritz-Arndt-Gymnasium,  Herr  Racky, info@emagym-bergen.de
+Europäische Gesamtschule Insel Usedom Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Räsch, raesch@kgs-seebad-ahlbeck.de
+Europaschule Arnold Zweig Regionale Schule,  Frau  Hoche, sekretariat@regs-arnold-zweig-pasewalk.de
+Europaschule Gymnasium Teterow,  Frau  Klaaßen, post@egt-mv.de
+Evangelische Grundschule Löwenzahn-Schule,  Frau Dr. Petersen, gsdamgarten@damgarten.de
+Evangelische Grundschule mit Orientierungsstufe Benz,  Frau  Hertich, benz-schule@pek.de
+Evangelische Grundschule mit Orientierungsstufe Neustrelitz,  Frau  Bombowsky, schule@evangelische-schule-neustrelitz.de
+Evangelische Grundschule mit Orientierungsstufe Paulo Freire,  Frau  Finck, info@ev-schule-parchim.de
+Evangelische Inklusive Schule An der Maurine Grundschule mit Orientierungsstufe,  Herr  Jarzombek-Guth, tobias.jarzombek-guth@diakoniewerk-gvm.de
+Evangelische Johannes-Schule Grundschule mit Orientierungsstufe,  Frau  Globisch, schulleitung@johannes-schule.net
+Evangelische Schule  Barth,  Frau  Sauer, Ev-Grundschule-Barth@t-online.de
+Evangelische Schule Dettmannsdorf Regionale Ganztagsschule mit Grundschule,  Frau Dr. Queren, vorstand@schule-dettmannsdorf.de
+Evangelische Schule Dr. Eckart Schwerin Grundschule mit Orientierungsstufe,  Frau  Hühne, schulbuero@ev-schule-hagenow.de
+Evangelische Schule Peeneburg Grundschule mit Orientierungsstufe,  Herr  Möhring, sekretariat@ev-schule-anklam.de
+Evangelische Schule Robert Lansemann Grundschule mit Orientierungsstufe,  Frau  Wolf, info@robert-lansemann-schule.de
+Evangelische Schule Sankt Marien Integrierte Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Herr  Quaschning, info@evs-nb.de
+Evangelische Schule Walkendorf Grundschule mit Orientierungsstufe,  Frau Dr. Bochert, buero@schule-walkendorf.de
+Evangelische Schule Wolgast,  Frau  Gehring, ev-schule-Wolgast@mail.de
+Evangelisches Schulzentrum Katharina von Bora Regionale Schule mit Grundschule,  Herr  Braun, ev.regschule.demmin@freenet.de
+Evangelisches Schulzentrum Martinschule Integrierte Gesamtschule mit gymnasialer Oberstufe, Grundschule und Schule mit dem Förderschwerpunkt geistige Entwicklung,  Herr  Skladny, schulleitung@martinschule-greifswald.de
+Fleesenseeschule Verbundene Regionale Schule und Gymnasium,  Frau  Cordes, schulleitung@fleesenseeschule.de
+Freie Schule Bröbberow Grundschule mit Orientierungsstufe,  Frau  Drewes, info@aktivinmv.de
+Freie Schule Bützow Grundschule mit Orientierungsstufe,  Frau  Trzinski, sekretariat@hpz-buetzow.de
+Freie Schule Glowe Grundschule mit Orientierungsstufe,  Frau  Buss, office@freie-schule-glowe.de
+Freie Schule Güstrow e.V. Integrierte Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Frau  May, Freie_Schule_Guestrow@t-online.de
+Freie Schule Prerow 1. Integrierte Gesamtschule mit gym- nasialer Oberstufe und Grundschule in freier Trägerschaft,  Herr  Schaarschmidt, info@freie-schule-prerow.de
+Freie Schule Rerik Integrierte Gesamtschule mit gymnasialer Oberstufe,  Frau  Kahle, schulleitung@freie-schule-rerik.de
+Freie Schule Rügen Grundschule mit Orientierungsstufe,  Frau  Morawietz, info@freie-schule-ruegen.de
+Freie Schule Wismar Grundschule mit Orientierungsstufe,  Frau  Nowak, info@freie-schule-wismar.de
+Freie Schule Zinnowitz Integrierte Gesamtschule mit gymnasialer Oberstufe,  Herr  Schmidt, igs-zinnowitz@freenet.de
+Friderico-Francisceum-Gymnasium,  Frau  Hacker, mail@ffg-dbr.de
+Friedrich-Franz-Gymnasium,  Herr  Merzsch, Sekretariat@gymnasium-parchim.de
+Friedrich-Ludwig-Jahn-Gymnasium Greifswald,  Herr Dr. Albrecht, kontakt@jahngymnasium.de
+Fritz-Greve-Gymnasium,  Frau  Dürfeld, gymnasiummalchin@t-online.de
+Fritz-Reuter-Grundschule,  Herr  Riedrich, grundschule_stavenhagen@t-online.de
+Fritz-Reuter-Grundschule Kühlungsborn,  Frau  Baumann, grundschule-kborn@t-online.de
+Gehlsdorfer Grundschule,  Frau  Braun, gr-gehlsdorf@rostock.de
+Gerhart-Hauptmann-Gymnasium,  Frau  Albrecht, Schule@ghg-wismar.com
+Geschwister-Scholl-Gymnasium,  Herr  Menzel, gymn_buetzow@yahoo.de
+Goethe-Grundschule Ostseebad  Rerik,  Frau  Ruwolt, gs-rerik@t-online.de
+Goethe-Grundschule Parchim,  Frau  Oberlach, goethegrundschule@parchim.de
+Goethe-Gymnasium,  Herr  Detenhoff, Goethe@gymnasium-ludwigslust.de
+Goethe-Gymnasium,  Herr  Maas, schulleitung@goethegymnasium-schwerin.de
+Goethe-Gymnasium Musikgymnasium,  Herr  Binder, sekretariat@ggdm.de
+Goetheschule Malchow,  Frau  Fischer, sekretariat@goetheschule-malchow.de
+Gotthold-Ephraim-Lessing-Gymnasium,  Frau  Gröhl, sekretariat@lessinggym-nb.de
+Greenhouse School Graal-Müritz Integrierte Gesamtschule mit gymnasialer Oberstufe,  Herr  Kampf, info@greenhouse-school.de
+Greifen-Gymnasium Ueckermünde,  Herr Dr. phil. Dittmann, ssl@gymnasium-ueckermuende.de
+Große Stadtschule Geschwister-Scholl-Gymnasium,  Herr  Sass, stadtschule@scholl-wismar.com
+Grundschule Abtshagen,  Frau  Ruthenberg, info@grundschule-abtshagen.de
+Grundschule Adolf Diesterweg,  Frau  Brendler-Porenski, diesterwegschule-parchim@web.de
+Grundschule Adolf Diesterweg Kalkhorst,  Frau  Thomsen, HRS-Kalkhorst@t-online.de
+Grundschule Ahlbeck,  Frau  Plantikow, gs-ahlbeck-uer@t-online.de
+Grundschule Alexander Behm,  Frau  Marx, maibaum-grundschule@stadt-sternberg.de
+Grundschule Altenhof,  Frau  Sünwoldt, schule-altenhof@t-online.de
+Grundschule Altstadt,  Herr  Bonau, Grundschule_Altstadt_Bergen@t-online.de
+Grundschule am Alten Markt,  Frau  Westphal, gr-alter-markt@rostock.de
+Grundschule am Friedenshof,  Frau  Krüger, GS-am-Friedenshof@wismar.de
+Grundschule am Friedenshof  Wismar,  Herr  Günther, kontakt@grundschule-am-friedenshof.de
+Grundschule Am Friedensring,  Frau  Sagemüller, Schule-am-Friedensring@t-online.de
+Grundschule Am Hellbach,  Frau  Zühlsdorf, Grundschule-Neubukow@t-online.de
+Grundschule Am Klosterberg,  Frau  Bürger, Grundschule-Altentreptow@t-online.de
+Grundschule am Margaretenplatz,  Frau  Beckmann, gr-margaretenplatz@rostock.de
+Grundschule am Mueßer Berg,  Frau  Antemann, info@grundschule-am-muesser-berg.de
+Grundschule Am Mühlenberg,  Frau  Ata, koppelschule.kroepelin@t-online.de
+Grundschule am Mühlenteich,  Frau  Heinz, gr-muehlenteich@rostock.de
+Grundschule Am Papenberg,  Frau  Schabbel, grundschule.am.papenberg.waren@t-online.de
+Grundschule Am Ploggensee,  Frau  Olbrisch, sekretariat@gs-ploggensee.de
+Grundschule Am Rugard,  Frau  Kapust, info@grundschule-am-rugard.de
+Grundschule am Schmooksberg,  Frau  Weber, schule-am-schmooksberg@t-online.de
+Grundschule Am See,  Frau  Erdmann, grundschule-loecknitz@t-online.de
+Grundschule Am Taklerring,  Frau  Babbe, gr-taklerring@rostock.de
+Grundschule Am Wall  Friedland,  Frau  Werth, grundschule.friedland@arcor.de
+Grundschule An den Eichen,  Frau  Hartmann, gs-eichen@boizenburg-elbe.de
+Grundschule an den Weiden Rostock-Toitenwinkel,  Frau  Pagel, gr-an-den-weiden@rostock.de
+Grundschule an der Carbäk,  Herr  Käning, grundschule@amtcarbaek.de
+Grundschule An der Nebel,  Frau  Wolf, GS-andernebel@guestrow.de
+Grundschule Andershof,  Frau  Harfenmeister, grundschule-andershof@stralsund.de
+Grundschule Balow,  Frau  Martens, grundschule-balow@t-online.de
+Grundschule Bentwisch,  Frau  Lübke, info@grundschule-bentwisch.de
+Grundschule Blankenhagen,  Frau  Fröhlich, grundschuleblankenhagen@web.de
+Grundschule Bobitz,  Frau  Zielinski, grundschule-bobitz@t-online.de
+Grundschule Boddenwind Putbus,  Frau  Schumacher, grundschule-putbus@t-online.de
+Grundschule Boizetal Gresse,  Frau  Mittig, grundschule.gresse@web.de
+Grundschule Brandshagen,  Frau  Kieschnick, gs-brandshagen@t-online.de
+Grundschule Brüel,  Frau  Aselmeyer, grundschule@stadt-brueel.de
+Grundschule Brüsewitz,  Frau  Marek-Prahl, info@schule-bruesewitz.de
+Grundschule Burow,  Frau  Röder, grundschuleburow@hotmail.de
+Grundschule Carlow,  Frau  Jürß, grundschule-carlow@gmx.de
+Grundschule Dabel,  Frau  Herrmann, grundschule-dabel@t-online.de
+Grundschule Dargun,  Frau  Schaffrinna, info@grundschule-dargun.de
+Grundschule Datzeberg,  Frau  Kamps, gs.datzeberg@schulen-nb.de
+Grundschule De Likedeeler,  Frau  Görg, info@grundschule-likedeeler.de
+Grundschule Dorf Mecklenburg,  Frau  Schuster, grundschuledm@t-online.de
+Grundschule Dreveskirchen,  Frau  Rehwald-Bauer, gs_dreveskirchen@gmx.de
+Grundschule Dr. Otto Steinfatt,  Frau  Höffer, u.hoeffer@grundschule-wittenförden.de
+Grundschule Dr. Theodor Neubauer,  Frau  Mietzner, gs_dr_th_neubauer@grimmen.de
+Grundschule Dummerstorf,  Frau  Specht, gs-dummerstorf@gmx.de
+Grundschule Eggesin,  Frau  Blume, grundschule@eggesin.de
+Grundschule Eldekinder,  Frau  Fuhrmann, info@grundschule-eldekinder.de
+Grundschule Eldena,  Frau  Ketelhöhn, eldena-grundschule@t-online.de
+Grundschule Erich Weinert,  Frau  Bast, webmaster@weinert-gs.de
+Grundschule Ferdinandshof,  Herr  Seidler, GS-Ferdinandshof@t-online.de
+Grundschule Ferdinand von Schill,  Herr  Michelfeit, schill-schule@stralsund.de
+Grundschule Friedensschule,  Frau  Groß, Friedensschule.SN@t-online.de
+Grundschule Friedrich Wilhelm Wander,  Frau  Rüster, gs_f_w_wander@grimmen.de
+Grundschule Fritz Reuter,  Frau  Arndt, grundschule.warin@t-online.de
+Grundschule Fritz Reuter,  Frau  Darnstädt, gsfr@freenet.de
+Grundschule Fritz Reuter,  Frau  Eberwein, kontakt@fritzreuterschule.de
+Grundschule Fritz Reuter,  Frau  Kodanek, sekretariat@gs-fritz-reuter.de
+Grundschule Fritz Reuter,  Frau  Liepe, gs-kemnitz@gmx.de
+Grundschule Fritz Reuter,  Frau  Schubring, GS-FritzReuter-LWL@t-online.de
+Grundschule Fritz Reuter,  Herr  Günther, Fritz-Reuter-Schule-Wismar@t-online.de
+Grundschule Fritz Reuter Kröslin,  Frau  Rönnau, schule.kroeslin@web.de
+Grundschule Gammelin,  Frau  Lembke, grundschulegammelin@t-online.de
+Grundschule Gebrüder Grimm,  Frau  Manthey, gsgrimm-ank@t-online.de
+Grundschule Gerhart Hauptmann,  Frau  Koch, hauptmann-grundschule-schulleitung@stralsund.de
+Grundschule Gielow Naturverbundene Leseschule,  Frau  Felgner, grundschule-gielow@t-online.de
+Grundschule Grammendorf,  Frau  Buck, schulleitung@schule-grammendorf.de
+Grundschule Greif Greifswald,  Frau  Hennings, greif-gs-hgw@arcor.de
+Grundschule Groß Godems,  Frau  Frericks, GSGr.Godems@t-online.de
+Grundschule Groß Plasten,  Herr  Kaschel, grundschule.Plasten@t-online.de
+Grundschule Halbinsel Jasmund,  Frau  Moldtmann, info.gs-sagard@web.de
+Grundschule Heinrich Heine,  Frau  König, H.Heine-Grundschule@t-online.de
+Grundschule Heinrich Heine,  Frau  Plaumann, gr-heine@rostock.de
+Grundschule Heinrich Zille,  Frau  Sack, gszilledemmin@web.de
+Grundschule Heringsdorf,  Frau  Vehreschild, grundschule.heringsdorf@ahlbeck.de
+Grundschule Hermann Burmeister,  Frau  Rossow, burmeister-grundschule@stralsund.de
+Grundschule Horst,  Herr  Gruchow, grundschule.horst@t-online.de
+Grundschule Jarmen,  Frau  Reich, gs_jarmen@t-online.de
+Grundschule Jatznick,  Frau  Paul, grundschulejatznick@t-online.de
+Grundschule Johann Wolfgang von Goethe,  Frau  Heering, grundschule@neustadt-glewe.de
+Grundschule Johann Wolfgang von Goethe,  Frau  Loerzer, grundschule-gnoien@t-online.de
+Grundschule John Brinckman Europaschule,  Frau  Schmill, Grundschule_John_Brinckman@t-online.de
+Grundschule John Brinckman,  Frau  Leiding, gr-brinckman@rostock.de
+Grundschule John Brinckman,  Frau  Wüster, grundschule.goldberg@googlemail.com
+Grundschule Jürgenstorf,  Frau  Wagenknecht, gs-juergenstorf@gmx.de
+Grundschule Juri Gagarin,  Frau  Döring, gr-gagarin@rostock.de
+Grundschule Juri Gagarin,  Frau  Wittenburg, gagarin-grundschule@stralsund.de
+Grundschule Kantor Carl Ehrich,  Frau  Beck, grundschule.plau@freenet.de
+Grundschule Karl Krull,  Frau  Ising, schule_steinhagen@t-online.de
+Grundschule Karl Krull,  Frau  Müller-Hayer, karl-krull-grundschule@web.de
+Grundschule Karsten Sarnow,  Frau  Schlimper, sarnow-grundschule@stralsund.de
+Grundschule Käthe Kollwitz,  Frau  Prochnow, webmaster@kollwitz-gs.de
+Grundschule Käthe Kollwitz,  Frau  Schuldt, gs-kaethe-kollwitz@t-online.de
+Grundschule Kiefernheide,  Frau  Friese, gs.kiefernheide@t-online.de
+Grundschule Kleine Birke,  Frau  Lorenz, gr-kleine-birke@rostock.de
+Grundschule Kletterrose Burg Stargard,  Frau  Schlender-Kamp, willkommen@grundschule-kletterrose.de
+Grundschule Kummer,  Frau  Borsch, grundschule.kummer@freenet.de
+Grundschule Lankow,  Frau  Schulze, grundschule_lankow2@t-online.de
+Grundschule Lassan,  Frau  Drühl, Grundschule-Lassan@t-online.de
+Grundschule Leopoldshagen,  Frau  Voigt, grundschule-leopoldshagen@amt-am-stettiner-haff.de
+Grundschule  Lewitzrand Matzlow,  Herr  Fynnau, Grundschule.Matzlow@t-online.de
+Grundschule Lichtenhagen-Dorf,  Frau  Adam, gs.lichtenhagen-dorf.mv@t-online.de
+Grundschule Lübow,  Frau  Schünemann, schule.luebow-mv@gmx.de
+Grundschule Lübz,  Frau  Kaltenstein, grundschule@luebz.de
+Grundschule Lüssow,  Frau  Schlesiger, grundschule.luessow@t-online.de
+Grundschule Lütte Nordlichter,  Frau  Lippold, schule-dersekow@t-online.de
+Grundschule Lütt Matten,  Frau  Goldboom, gr-luett-matten@rostock.de
+Grundschule Lütt Matten Wusterhusen,  Herr  Günther, schulewusterhusen@web.de
+Grundschule Marlower Loris,  Frau  Röder, Grundschule-Marlow@t-online.de
+Grundschule Mestlin,  Herr  Petzak, schule@mestlin.de
+Grundschule Mitte Uns Hüsung,  Frau  Ristau, gsmitte@schulen-nb.de
+Grundschule Mölln,  Frau  Fichte, GSMoelln@t-online.de
+Grundschule Moltzow,  Herr  Peters, gs-moltzow@t-online.de
+Grundschule Mönchgut,  Frau  Wolff, Grundschule-Moenchgut@t-online.de
+Grundschule Neukloster,  Frau  Franke-Besener, info@grundschule-neukloster.de
+Grundschule Nils Holgersson,  Frau  Pietsch, nils-holgersson-grundschule@t-online.de
+Grundschule Nord am Reitbahnsee,  Frau  Mews, gs-nord@schulen-nb.de
+Grundschule Ost Hans-Christian Andersen Europaschule,  Herr  Dräger, post@gs-nb.de
+Grundschule Ostseebad Binz,  Herr  Zielke, GrundschuleOstseebadBinz@t-online.de
+Grundschule Ostseebad Boltenhagen,  Frau  Zimmermann, schule-in-boltenhagen@t-online.de
+Grundschule Ostseekinder,  Frau  Ritter, gr-ostseekinder@rostock.de
+Grundschule Pampow,  Frau  Moll, Grundschule-Pampow@t-online.de
+Grundschule Pappelhain Holzendorf,  Frau  Ballach, pappelhain@aol.com
+Grundschule Parkentin,  Frau  John, schule-parkentin@t-online.de
+Grundschule Passow,  Frau  Kube, schule@gemeinde-passow.de
+Grundschule Peenetal,  Frau  Lüdemann, GemeindeGoermin@t-online.de
+Grundschule Penkun,  Frau  Markowsky, info@grundschule-penkun.de
+Grundschule Pestalozzi,  Frau  Teßenow, grundschule-malchin@t-online.de
+Grundschule Rechlin,  Herr  Quaschning, Grundschule-Rechlin@t-online.de
+Grundschule Regenbogen Mirow,  Frau  Rühe, gsmirow@t-online.de
+Grundschule Reutershagen Nordwindkinner,  Frau  Wegehaupt, gr-nordwindkinner@rostock.de
+Grundschule Röbel,  Frau  Schardin, Grundschule-Roebel@t-online.de
+Grundschule Roggendorf,  Frau  Hering, schule-roggendorf@web.de
+Grundschule Rudolf Tarnow,  Frau  Bollbuck, Rudolf-Tarnow-Schule@Wismar.de
+Grundschule Rudolf Tarnow,  Frau  Schulz, gr-tarnow@rostock.de
+Grundschule Sandberg,  Frau  Römpagel, gs.sandberg.ntz@t-online.de
+Grundschule Sanitz,  Frau  Schaffus, grundschule-sanitz@t-online.de
+Grundschule Sarow,  Frau  Engelbrecht, Grundschule-Sarow@t-online.de
+Grundschule Schmarl,  Frau  Kelsch, gr-schmarl@rostock.de
+Grundschule Schönfeld,  Frau  Rech, Grundschule-Schoenfeld@t-online.de
+Grundschule Schwalbennest Dierhagen,  Frau  Bretzke, grundschule_dierhagen@t-online.de
+Grundschule Schwalbennest Krien,  Frau  Rost, gskrien@t-online.de
+Grundschule Schweriner Nordlichter,  Frau  Köhn, info@gs-speicherstrasse-sn.de
+Grundschule Seeblick,  Frau  Machau Aycan, seeblick-schule@wismar.de
+Grundschule Sellin,  Frau  Eckert, Grundschule.Sellin@t-online.de
+Grundschule Selmsdorf,  Frau  Voß, sekretariat@grundschule-selmsdorf.de
+Grundschule Stadt Usedom,  Frau  Witt, schule-usedom@t-online.de
+Grundschule Strasburg,  Frau  Fredrich, grundschule-strasburg@t-online.de
+Grundschule Süderholz,  Frau  Noack, anoack@suederholz.de
+Grundschule Süd Neubrandenburg,  Herr  Borchert, sued@gs-nb.de
+Grundschule Sukow,  Frau  Warkentin, grundschule-sukow@t-online.de
+Grundschule Techentin,  Frau  Dahnke, info@grundschule-techentin.de
+Grundschule Teterow,  Frau  Wagner, grundschule@teterow.de
+Grundschule Theodor Bauermeister,  Frau  Sandberg, mail@bauermeisterschule.de
+Grundschule Theodor Körner Wöbbelin,  Frau  Podlipnik, gswoebbelin@gmx.de
+Grundschule Thomas Müntzer,  Frau  Never, gs-thomas-muentzer@t-online.de
+Grundschule Tutow,  Frau  Wegner, grundschuletutow@aol.com
+Grundschule Ueckertal Pasewalk,  Herr  Schwarz, sekretariat@grundschule-ueckertal.de
+Grundschule und Freizeithaus am Schlossplatz,  Frau  Beuster, schulleitung1108@hotmail.de
+Grundschule Uns lütt Schaul,  Frau  Waschk, grundschule-kargow@t-online.de
+Grundschule Velgast,  Frau  Sperling, grundschule-velgast@gmx.de
+Grundschule Viktor Bausch,  Frau  Dörge, GrundschuleNeukaliss@web.de
+Grundschule Villa Kunterbunt,  Frau  Bölk, gs_villakunterbunt@t-online.de
+Grundschule Warnow,  Frau  Wildermuth, schule_warnow_gs@t-online.de
+Grundschule West Am See,  Frau  Tannert, gswestamsee@schulen-nb.de
+Grundschule West Parchim,  Frau  Plettner, weststadtschule@parchim.de
+Grundschule Wiek,  Frau  Bonau, Grundschule-Wiek@t-online.de
+Grundschule Wolgast,  Frau  Hannemann, grundschule-wolgast@wolgast.de
+Grundschule Zinnowitz,  Frau  Goetz, info@gs-zinnowitz.de
+Grundschule Zum Wasserturm,  Frau  Weckwert, buero@gsneverin.de
+Grundschule Züssow,  Frau  Maron, schulleitung@grundschule-zuessow.de
+Gymnasiales Schulzentrum Barth Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Schmidt, schulzentrum.gym@t-online.de
+Gymnasiales Schulzentrum Felix Stillfried Kooperative Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Herr  Henke, kontakt@schulzentrum-stralendorf.de
+Gymnasiales Schulzentrum Fritz Reuter Dömitz Kooperative Gesamtschule mit gymasialer Oberstufe, Grundschule und Schule mit dem Förderschwerpunkt Lernen,  Frau  Timmermann, info@schulzentrum-doemitz.de
+Gymnasiales Schulzentrum Wittenburg Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Kühnel, info@schulzentrum-wittenburg.de
+Gymnasium Alexander von Humboldt,  Herr  Burmeister, sekretariat@humboldt-greifswald.de
+Gymnasium Am Sonnenberg,  Herr  Kreimer, sekretariat@gymcrivitz.de
+Gymnasium Am Sonnenkamp,  Frau  Paschen, sekretariat@gymnasium-neukloster.de
+Gymnasium am Tannenberg,  Frau  Großmann, office@gymnasium-am-tannenberg.de
+Gymnasium Carolinum,  Herr  Tesch, info@carolinum.de
+Gymnasium Fridericianum,  Frau  Scheibel, Gymnasium.Fridericianum@t-online.de
+Gymnasium Grimmen,  Herr  Kasch, gymgrimmen@gmx.de
+Gymnasium Oskar Picht Europaschule,  Frau  Kühne-Hellmessen, Manuela.Stange@kreis-vg.de
+Gymnasium Reutershagen -Europaschule-,  Herr  Bonin, gy-reutershagen@rostock.de
+Gymnasium Sanitz,  Frau Dr. Schulz, post@gymnasium-sanitz.de
+Haff-Grundschule Ueckermünde,  Frau  Illgen, Grundschule-Ueckermuende@t-online.de
+Hansa-Gymnasium Hansestadt Stralsund,  Herr  Janke, hansa-gymnasium@stralsund.de
+Hans-Fallada-Schule Feldberg Regionale Schule mit Grundschule,  Frau  Friedrich, fallada-schule@feldberg.de
+Heinrich-Schütz-Schule Regionale Schule,  Herr  Baumert, rs-schuetz@rostock.de
+Innerstädtisches Gymnasium,  Herr Dr. Riemer, gy-innerstaedtisch@rostock.de
+Integrierte Gesamtschule Bertolt Brecht mit gymnasialer Oberstufe,  Frau  Arndt, info@brechtschule-schwerin.de
+Integrierte Gesamtschule Erwin Fischer ohne gymnasiale Oberstufe,  Frau  Darm, sekretariat@fischerschule-hgw.de
+Integrierte Gesamtschule Grünthal mit gymnasialer Oberstufe,  Herr  Renneberg, igs-gruenthal@stralsund.de
+Integrierte Gesamtschule Johann Wolfgang von Goethe ohne gymnasiale Oberstufe,  Frau Dr. Obermeier, Sekretariat@igs-wismar.de
+Integrierte Gesamtschule Walter Karbe ohne gymnasiale Oberstufe,  Frau Dr. Klameth-Maronde, igs.sekretariat@neustrelitz.de
+Jenaplanschule Integrierte Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Herr  Plant, gs-jenaplan@rostock.de
+Johann-Christoph-Adelung-Schule Regionale Schule mit Grundschule,  Herr  Ochel, sekretariat@schule-spantekow.de
+Johannesschule Evangelische Grundschule Möllenhagen,  Herr  Quaschning, schulleitung@grundschule-moellenhagen.de
+Johann-Pogge-Schule Regionale Schule mit Grundschule,  Herr  Ackermann, schule-lalendorf@t-online.de
+John-Brinckman-Gymnasium Güstrow,  Herr  Rädke, sekretariat@brinckman.de
+Karl-Scharfenberg-Schule Regionale Schule,  Frau  Ott, karl-scharfenberg-schule@web.de
+Käthe-Kollwitz-Gymnasium Musikgymnasium,  Herr  Zinkann, gy-kollwitz@rostock.de
+Käthe-Kollwitz-Schule Regionale Schule,  Frau  Alsleben, regionale-schule-buetzow@t-online.de
+Kinderkunstakademie Am Wasserturm Grundschule,  Frau  Schulz, Kinderkunstakademie-b@ill-ev.de
+Kinderkunstakademie Greifswald Grundschule mit Orientierungsstufe,  Frau  Rodewald-Dannenberg, Kinderkunstakademie-Greifswald@ill-ev.de
+Kinder-und Jugendkunstakademie Am Schulcampus Gymnasium mit Grundschule und Orientierungsstufe,  Frau  Wilfert, kinderkunstakademie-k@ill-ev.de
+Kleine Dorfschule Lassaner Winkel Grundschule mit Orientierungsstufe,  Frau  Zeiger, jt@kleine-dorfschule.de
+Kleine Grundschule Mewegen Mewegen,  Herr  Anker, KGS.Mewegen@t-online.de
+Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Brüllke, sekretariat@kgs-altentreptow.de
+Kranich-Grundschule Altenpleen,  Frau  Sagner, kranich.gs@t-online.de
+Krusensternschule Regionale Schule,  Frau  Bernhardt, rs-krusenstern@rostock.de
+Landschulcampus Evangelische Grundschule,  Herr  Kammerer, grundschule@rostocker-stadtmission.de
+Landschule Lüchow Grundschule,  Herr  Krüger, post@planung-liess.de
+Leistungsorientiertes Schulzentrum RegioGym Neubrandenburg,  Frau  Schiffner, sekretariat@das-andere-gymnasium.de
+Lessing-Grundschule Bad Doberan,  Frau  Wolff, Lessing-Grundschule-dbr@t-online.de
+Lilienthal-Gymnasium Anklam,  Herr  Ruta, lilienthal-gymnasium-anklam@t-online.de
+Lindenschule Ducherow Regionale Schule mit Grundschule,  Frau  Hytra, schule-ducherow-sl@t-online.de
+Lindenschule Lübtheen Regionale Schule mit Grundschule,  Herr  Cordt, realschule.luebtheen@t-online.de
+Ludwig-Reinhard-Grundschule,  Frau  Schilling, l.r.schule@boizenburg-elbe.de
+Martha-Müller-Grählert-Schule Regionale Schule mit Grundschule,  Frau Dr. Kurtzmann, info@schule-franzburg.de;schulleiterin@schule-fran
+Martin-Andersen-Nexö Grundschule,  Frau  Schmidt, nexoe-gs-hgw@arcor.de
+Michaelschule Schule mit dem Förderschwerpunkt geistige Entwicklung, Grundschule und Integierte Gesamtschule,  Herr  Bennemann, schule@michaelshof.de
+Montessori-Grundschule Lambert Steinwich,  Frau  Grieser-Polak, montessori-grundschule@stralsund.de
+Montessori-Schule Evangelisch Integrative Grundschule mit Orientierungsstufe,  Herr  Vorfahr, montessori@neues-ufer.de
+Montessori Schule Integrierte Gesamtschule mit gymnasialer Oberstufe mit Grundschule,  Herr  Kleemann, info@montessori-schule-greifswald.de
+Nationalparkschule Grundschule Ostseeblick Sassnitz,  Frau  Graeber, grundschule-ostseeblick@t-online.de
+Naturgrundschule Plate,  Frau  Radke, grundschule-plate@t-online.de
+Naturpark-Schule Krakow am See Regionale Schule mit Grundschule,  Frau  Watzke, buero@schule-kas.de
+neue friedländer gesamtschule Verbundene Regionale Schule und Gymnasium,  Herr  Böhnke, sekretariat@nfg24.de
+Neumühler Schule Gymnasium und Regionale Schule mit Grundschule,  Frau  Jähnig, nadja.jaehnig@neumuehler-schule.de
+Niels-Stensen-Schule Katholische Kooperative Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Frau  Bollesen-Brüning, sekretariat-gs@nss-sn.de  (GS)
+Nikolaischule Pasewalk Evangelische Grundschule mit Orientierungsstufe,  Herr  Hartmann, Ev-Grundschule-Psw@web.de
+Nordlicht-Schule Regionale Schule,  Herr  Müller, rs-nordlicht@rostock.de
+ORI-Grundschule Leezen,  Frau  Goy, ori-grundschule@amt-crivitz.de
+Ostsee-Grundschule Graal-Müritz,  Frau  Fechtner, gs-graal-mueritz@t-online.de
+Ostseegymnasium Greifswald Gymnasium und Grundschule mit Orientierungsstufe,  Frau  Witte, BFG-GmbH@t-online.de
+Pädagogium Schwerin Europaschule Gymnasium mit Grundschule und Orientierungsstufe,  Frau  Kramer, info@paedagogium-schwerin.de
+Peeneschule Groß Gievitz Grundschule mit Orientierungsstufe,  Frau  Rathmann, peeneschule@awo-mueritz.de
+Pestalozzi-Grundschule,  Frau  Manteufel, Pestalozzi.grundschule@web.de
+Privatschule Universitas Integrierte Gesamtschule mit mit gymnasialer Oberstufe und Grundschule,  Frau  Theißen, mail@universitas-rostock.de
+Prof.-Franz-Bunke-Schule Schwaan Regionale Schule mit Grundschule,  Herr  Pabusch, regionale-schule@schwaan.info
+RecknitzCampus Laage Kooperative Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Frau  Kaleun, mail@recknitzcampus.de
+Recknitz-Grundschule Ahrenshagen Umweltschule in Europa,  Herr  Telzerow, info@recknitz-grundschule.de
+Regenbogenkinder Grundschule Kritzmow,  Frau  Wietig, regenbogenkinder@grundschule-kritzmow.de
+Regionale Schule Adolph Diesterweg,  Herr  Schwedhelm, diesterweg-schule@stralsund.de
+Regionale Schule Albert Einstein Torgelow,  Frau  Zech, RegS.tgl@t-online.de
+Regionale Schule Am Grünen Berg Bergen,  Frau  Reiher, sekretariat@regs-am-gruenen-berg.de
+Regionale Schule am Kamp,  Herr  Gesicki, regionale-schule-am-kamp@t-online.de
+Regionale Schule Am Klüschenberg,  Herr  Zimmermann, sak.plau@gmail.com
+Regionale Schule Am Lindetal,  Frau  Stieger, RegSchuleVoss@web.de
+Regionale Schule Am Rugard,  Frau  Schädel, rs.am.rugard@stadt-bergen-auf-ruegen.de
+Regionale Schule Am Teufelstein,  Herr  Knorr, schulelubminsekretariat@web.de
+Regionale Schule Am Wasserturm,  Frau  Hallmann, schulleiter@wasserturmschule-gvm.de
+Regionale Schule An der Prohner Wiek,  Herr  Ahlmeyer, buero@rs-prohn.de
+Regionale Schule Bertolt Brecht,  Frau  Upahl, brecht-schule@wismar.de
+Regionale Schule Binz,  Herr  Steinbeiß, sekretariat@regionale-schule-binz.de
+Regionale Schule Burg Stargard,  Frau  Schwenn, schule@regs-burg-stargard.de
+Regionale Schule Caspar David Friedrich,  Herr  Heiden, regs-friedrich@t-online.de
+Regionale Schule Dargun,  Frau  Frankowiak-Gläßer, regionaleschule1@dargun.de
+Regionale Schule Dummerstorf,  Herr  Porteck, regionale.schule.dummerstorf@t-online.de
+Regionale Schule Ehm Welk Ueckermünde,  Herr  Ewert, regionale.schule-ueckermuende@T-Online.de
+Regionale Schule Erich Weinert,  Herr  Neumann, weinert-schule-sn@t-online.de
+Regionale Schule Ernst Moritz Arndt,  Frau  Kehl, regs-arndt-hgw@arcor.de
+Regionale Schule Ernst Thälmann,  Frau  Krumrück, regioschule@eggesin.de
+Regionale Schule,  Frau  Schuhmann, regionaleschule@stadt-brueel.de
+Regionale Schule,  Frau  Silbernagel-Dübel, postbox@schule-banzkow.de
+Regionale Schule Friedrich Dethloff,  Frau  Schmidt, Friedrich-Dethloff-Schule@t-online.de
+Regionale Schule Friedrich Rohr,  Frau  Bloßfeld, regionaleschulegrabow@googlemail.com
+Regionale Schule Friedrich Schiller,  Frau  Obermeit, sekretariat@schillerschule-anklam.de
+Regionale Schule Fritz Reuter,  Frau  Ebert, reuterschule@parchim.de
+Regionale Schule Fritz Reuter,  Herr  Eichhorst, reuterdemmin@gmx.de
+Regionale Schule G. L. Th. Kosegarten,  Frau  Koch, kosegartenschule@wolgast.eu
+Regionale Schule Hanno Günther,  Herr  Beckert, schule.ferdinandshof@web.de
+Regionale Schule Heinrich Schliemann,  Frau  Krüger, regs-moellenhagen@t-online.de
+Regionale Schule Heinrich Schliemann,  Frau  Wagner, mail@schliemannschule.de
+Regionale Schule Hermann Burmeister,  Herr  Sintara, burmeister-schule@stralsund.de
+Regionale Schule,  Herr Dr. Dähn, sekretariat@regionalschule-crivitz.de
+Regionale Schule,  Herr  Polzin, regionale.schule.neukloster@web.de
+Regionale Schule Jarmen Europaschule,  Frau  Ilg, Regionale_Schule_Jarmen@t-online.de
+Regionale Schule Jawaharlal Nehru,  Frau  Hübner, info@nehru-schule.de
+Regionale Schule Johann Wolfgang von Goethe,  Herr  Dreeser, goetheschule@parchim.de
+Regionale Schule Käthe Kollwitz,  Frau  Laue, RegSchule-Kollwitz-SL@t-online.de
+Regionale Schule Klütz,  Frau  Malek, realschule-kluetz@t-online.de
+Regionale Schule Löcknitz,  Frau  Harting, rsloecknitz@gmx.de
+Regionale Schule Loitz,  Herr  Fandrich, schule.loitz@t-online.de
+Regionale Schule Lübz,  Frau  Birnitzer, regionale-schule@luebz.de
+Regionale Schule Marie Curie,  Frau  Koch, curie-schule@stralsund.de
+Regionale Schule mit Grundschule Am Burgwall,  Frau  Laue, schule.garz@t-online.de
+Regionale Schule mit Grundschule Am Kirschgarten,  Herr  Djalek, Schule.Blankensee@web.de
+Regionale Schule mit Grundschule Am Rietberg,  Frau  Hartstock, Regionale-Schule.Neuburg@gmx.de
+Regionale Schule mit Grundschule Am Schweriner See,  Frau  Vandreier, bad-kleinen-schule@t-online.de
+Regionale Schule mit Grundschule Anne Frank,  Herr  Ziolkowski, ziolkowski@afs-tessin.de
+Regionale Schule mit Grundschule Astrid Lindgren,  Herr  Metzler, lindgren-schule.sn@t-online.de
+Regionale Schule mit Grundschule bernsteinSchule Ribnitz,  Frau  Bonke, ds@bernsteinschule.de
+Regionale Schule mit Grundschule Buchenberg,  Herr  Thietke, buchenbergschule@t-online.de
+Regionale Schule mit Grundschule C. W. B. Heberlein Wolgast,  Frau  Fennert, schule.heberlein@t-online.de
+Regionale Schule mit Grundschule Dassow,  Frau  Kurda, schule@stadt-dassow.de
+Regionale Schule mit Grundschule Dr. Ernst Alban,  Frau  Splisteser, sekretariat@eas-rastow.de
+Regionale Schule mit Grundschule Europaschule,  Frau  Heubner, bueromaeuse@europaschule-hagenow.eu
+Regionale Schule mit Grundschule,  Frau  Affeldt, schule-tuetzpatz@web.de
+Regionale Schule mit Grundschule,  Frau  Diesterbeck, info@schule-bernitt.de
+Regionale Schule mit Grundschule,  Frau  Hoffmann, info@schule-schoenberg.de
+Regionale Schule mit Grundschule,  Frau  Kalkhorst, schule-luetzow@t-online.de
+Regionale Schule mit Grundschule,  Frau  Lehmann, regionale.schule.gdb@gmx.de
+Regionale Schule mit Grundschule,  Frau  Quade, regsmalliss@t-online.de
+Regionale Schule mit Grundschule,  Frau  Stolarek, info@regionale-schule-zingst.de
+Regionale Schule mit Grundschule Fritz Reuter,  Frau  Hollstein, werger@schule-zarrentin.de
+Regionale Schule mit Grundschule Heinrich Heine,  Frau  Schönberg, H.-Heine-Schule-Karlshagen@t-online.de
+Regionale Schule mit Grundschule,  Herr  Beyrau, sekretariat@schule-proseken.de
+Regionale Schule mit Grundschule,  Herr  Booß, info@regionale-schule-vellahn.de
+Regionale Schule mit Grundschule,  Herr  Federmann, sekretariat@schule.schlagsdorf.de
+Regionale Schule mit Grundschule,  Herr  Hill, schule-zehna@t-online.de
+Regionale Schule mit Grundschule,  Herr  Klöpfel, sekretariat-gs@schule-luedersdorf.de
+Regionale Schule mit Grundschule,  Herr  Mostek, schulegingst@hotmail.com
+Regionale Schule mit Grundschule Hiddensee,  Frau  Dahlke, schulleitung@schule-hiddensee.de
+Regionale Schule mit Grundschule Insel Poel Prof. Dr. h. c. Dr. h. c. Hans Lembke,  Frau  Seifferth, regionalschule-insel-poel@freenet.de
+Regionale Schule mit Grundschule Johann Heinrich Voss,  Herr  Hofmann, regionale-schule@voss-schule-penzlin.com
+Regionale Schule mit Grundschule Käthe Kollwitz,  Herr  Barsch, info@schule-rehna.de
+Regionale Schule mit Grundschule Mühlen Eichsen,  Frau  Schläger, sekretariat@schule-muehlen-eichsen.de
+Regionale Schule mit Grundschule Peenetal Gützkow,  Herr  Hadrath, schulleitung@peenetal-schule.de
+Regionale Schule mit Grundschule Pestalozzi - Europaschule,  Herr  Rieck, pestalozzi-schule-demmin@t-online.de
+Regionale Schule mit Grundschule Professor Gustav Pflugradt,  Herr  Steffen, mail@schule-niepars.de
+Regionale Schule mit Grundschule Recknitz-Trebeltal,  Frau  Fruhriep, regionale.schule.tribsees@t-online.de
+Regionale Schule mit Grundschule Schule am Bodden,  Herr  Leu, info@schuleambodden.de
+Regionale Schule mit Grundschule Schule am Inselsee,  Frau  Mahn, schuleaminselsee-gue@freenet.de
+Regionale Schule mit Grundschule Schule am Mühlenberg,  Frau  Grimm, regionale-schule-cambs@t-online.de
+Regionale Schule mit Grundschule Theodor Körner,  Herr  Tiede, schulepicher@web.de
+Regionale Schule mit Grundschule Werner Lindemann,  Frau  Pentzien, info@schule-luebstorf.de
+Regionale Schule mit Grundschule Wesenberg,  Frau  Schöniger, sekretariat@wesenberg-schule.de
+Regionale Schule mit Grundschule Wilhelm Höcker,  Herr  Zuber, schule@schulewoldegk.de
+Regionale Schule Mitte Fritz Reuter,  Frau  Dornig, fritz-reuter-schule@schulen-nb.de
+Regionale Schule Nord,  Frau  Mundry-Göthe, rgs-nord@schulen-nb.de
+Regionale Schule Ostsee-Schule,  Frau  Brindle, ostsee-schule@wismar.de
+Regionale Schule Otto-Lilienthal,  Herr  Plattner, rs-lilienthal@rostock.de
+Regionale Schule Penkun,  Herr  Ganske, regschulepenkun@t-online.de
+Regionale Schule Peter Joseph Lenné,  Frau  Zachow, Lenne-Schule-LWL@t-online.de
+Regionale Schule Prof. Dr. Friedrich Heincke,  Herr  Helmrich, Realschule-II-Hagenow@t-online.de
+Regionale Schule Rechlin,  Frau  Höhn, bhoehn@schule-rechlin.de
+Regionale Schule Reinberg,  Frau  Pannowitsch, rsreinberg@yahoo.de
+Regionale Schule Richard Wossidlo,  Frau  Jahnke, sekretariat@wossidloschule-guestrow.de
+Regionale Schule Robert Koch,  Frau  Harder, rs_r_koch@grimmen.de
+Regionale Schule Rudolf Harbig,  Frau  Schaperjahn, realschule-damgarten@t-online.de
+Regionale Schule Rudolf Tarnow,  Herr  Busch, verwaltung@rts-boizenburg.de
+Regionale Schule Sanitz,  Frau  Welk, schulleitung@RegionaleSchuleSanitz.de
+Regionale Schule Sassnitz,  Frau  Appelbohm, regio_schul_sassnitz@web.de
+Regionale Schule Schule am Wasserturm,  Frau  Sauer, realschule-strasburg@t-online.de
+Regionale Schule Siegfried Marcus,  Herr  Schmidt, Marcus_Schule_MC@gmx.de
+Regionale Schule Teterow,  Frau  Herz, reg-schule@teterow.de
+Regionale Schule Thomas Müntzer,  Frau  Siegesmund, thomas.muentzer@freenet.de
+Regionale Schule Tom Beyer,  Frau  Schröder, regionalschule-goehren@t-online.de
+Regionale Schule Ückeritz Ostseeschule,  Herr  Biedenweg, schule-ueckeritz@gmx.de
+Regionale Schule Walter Husemann,  Frau  Hög, info@whs-goldberg.de
+Regionale Schule Waren/West,  Frau  Hänsel, schule@rww24.de
+Regionale Schule Werner von Siemens,  Frau  Schuldt, siemenssnsl@gmx.de
+Regionale Schule  Weststadt-Campus,  Frau  Teschner, 
+Regionale Schule Windland,  Frau  Knebusch, schule.altenkirchen@freenet.de
+Reuterstädter Gesamtschule -Europaschule- Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Trautmann, reuterstaedter.gesamtschule@t-online.de
+Richard-Wossidlo-Gymnasium,  Herr  Behrns, joop@gym-waren.de
+Richard-Wossidlo-Gymnasium Ribnitz-Damgarten,  Frau  Schermuk, mail@wossidlogymnasium.de
+Robert-Stock-Gymnasium,  Frau  Noack, info@rsg-hgn.de
+Runge-Gymnasium,  Herr  Roggow, Runge-Gymnasium@kreis-vg.de
+Schloß Torgelow Privates Internatsgymnasium,  Frau  Franke, sekretariat@schlosstorgelow.de
+Schulcampus Röbel Verbundene Regionale Schule und Gymnasium,  Herr  Richter, info@schulcampus-roebel.de
+Schulcampus Rostock-Evershagen Kooperative Gesamtschule mit gymnasialer Oberstufe,  Herr  Tuschner, gs-schulcampus@rostock.de
+Schule am Ruhner Berg Regionale Schule mit Grundschule,  Frau  Janke, info@schule-marnitz.de
+Schule am See Regionale Schule mit Grundschule,  Frau  Walter, info@schule-satow.de
+Schulzentrum am Sund Kooperative Gesamtschule mit gymnasialer Oberstufe,  Frau  Landt, schulzentrum@stralsund.de
+Schulzentrum Kühlungsborn Verbundene Regionale Schule und Gymnasium,  Frau  Schmidt, info@schulzentrum-kborn.de
+Schweriner Haus des Lernens Integrierte Gesamtschule mit gymnasialer Oberstufe mit Grundschule,  Frau  Dieckmann, grundschule@sws-schulen.de
+Sportgymnasium mit Regionalschulklassen,  Frau  Knospe, Sekretariat
+Sportgymnasium mit Regionalschulklassen,  Herr  Westphal, sportgym.sn@t-online.de
+Stadtschule am Mühlenteich Grundschule,  Frau  Ewert, stadtschule.hagenow@t-online.de
+Stella - Kooperative Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Herr  Gritzner, ralf.gritzner@internationaler-bund.de
+St.-Georg-Grundschule,  Frau  Roch-Haufe, gr-st-georg@rostock.de
+Storchenschule Cammin Grundschule mit Orientierungsstufe,  Frau  Brosig, info@storchenschule-cammin.de
+Störtebeker-Schule Regionale Schule,  Frau  Elstner, rs-stoertebeker@rostock.de
+Türmchenschule Reutershagen Grundschule,  Frau  Schwerdtfeger, gr-tuermchen@rostock.de
+Verbundene Regionale Schule und Gymnasium David Franck,  Frau  Langpap, Sekretariat@kgs-sternberg.de
+Verbundene Regionale Schule und Gymnasium Rövershagen Europaschule,  Frau Dr. Wolk, gymroev@t-online.de
+Verbundene Regionale Schule und Gymnasium Tisa von der Schulenburg,  Frau Dr. Skodda, sekretariat@kgsdm.de
+Vineta Grundschule Koserow,  Frau  Kamin, grundschule-koserow@t-online.de
+Volle Halbtagsgrundschule Kranichblick Samtens,  Frau  Meißner, GSSamtens@web.de
+Warbel-Schule  Regionale Schule,  Herr  Schlaak, regs-gnoien@web.de
+Warnowschule Regionale Schule mit Grundschule,  Frau  Aloulou, info@warnowschule.de
+Werkstattschule in Rostock Integrierte Gesamtschule mit gymnasialer Oberstufe und Grundschule,  Herr  Pahl, info@werkstattschule-in-rostock.de
+Werner-Lindemann-Grundschule,  Herr  Masur, gr-lindemann@rostock.de
+Zentrale Grundschule Friedrich-Adolf-Nobert,  Frau  Roßmann, nobert-schule@stadt-barth.de

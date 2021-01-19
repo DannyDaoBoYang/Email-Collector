@@ -1,0 +1,1273 @@
+
+
+<!doctype html>
+<html lang="de">
+<head>
+  <base href="https://www.saarland.de/"/>
+  <meta charset="UTF-8"/>
+  <title>Saarland  -  
+
+Schuldatenbank</title>
+  <meta name="title" content="
+
+Schuldatenbank"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=1"/>
+  <meta name="generator" content="Government Site Builder"/>
+
+  
+
+
+    
+    
+    
+  
+  <!--
+     Realisiert mit dem Government Site Builder.
+     Die Content Management Lösung der Bundesverwaltung.
+     www.government-site-builder.de
+   -->
+
+  <link rel="canonical"
+        href="https://www.saarland.de/mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?queryResultId=null&amp;pageNo=0&amp;gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D5&amp;schulformKurzbez_str=gem"/>
+
+      <link rel="license" href="mbk/DE/portale/bildungsserver/services/impressum/impressum_node.html" type="text/html" title="Impressum"/>
+            <link rel="start" href="mbk/DE/portale/bildungsserver/home/home_node.html" type="text/html" title="Homepage"/>
+        <link rel="contents" href="mbk/DE/portale/bildungsserver/services/inhaltsverzeichnis/inhaltsverzeichnis_node.html" type="text/html" title="&Uuml;bersicht"/>
+        <link rel="search" href="mbk/DE/portale/bildungsserver/services/suche/suche_node.html" type="text/html" title="Suche"/>
+    
+
+
+<link rel="shortcut icon" href="/SiteGlobals/Frontend/Images/favicon.ico?__blob=normal&amp;v=2" type="image/ico"/>
+<link rel="icon" href="/SiteGlobals/Frontend/Images/favicon-16x16.png?__blob=normal&amp;v=2" type="image/png" sizes="16x16"/>
+<link rel="icon" href="/SiteGlobals/Frontend/Images/favicon-32x32.png?__blob=normal&amp;v=2" type="image/png" sizes="32x32"/>
+<link rel="icon" href="/SiteGlobals/Frontend/Images/favicon-96x96.png?__blob=normal&amp;v=2" type="image/png" sizes="96x96"/>
+<link rel="icon" href="/SiteGlobals/Frontend/Images/favicon-180x180.png?__blob=normal&amp;v=2" type="image/png" sizes="180x180"/>
+<link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-57x57.png?__blob=normal&amp;v=2" type="image/png" sizes="57x57"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-60x60.png?__blob=normal&amp;v=2" type="image/png" sizes="60x60"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-72x72.png?__blob=normal&amp;v=2" type="image/png" sizes="72x72"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-76x76.png?__blob=normal&amp;v=2" type="image/png" sizes="76x76"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-114x144.png?__blob=normal&amp;v=2" type="image/png" sizes="114x144"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-120x120.png?__blob=normal&amp;v=2" type="image/png" sizes="120x120"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-144x144.png?__blob=normal&amp;v=2" type="image/png" sizes="144x144"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-152x152.png?__blob=normal&amp;v=2" type="image/png" sizes="152x152"/>
+  <link rel="apple-touch-icon" href="/SiteGlobals/Frontend/Images/favicon-apple-180x180.png?__blob=normal&amp;v=2" type="image/png" sizes="180x180"/>
+  <meta name="msapplication-TileImage" content="/SiteGlobals/Frontend/Images/favicon-144x144.png?__blob=normal&amp;v=2"/>
+  <meta name="msapplication-square70x70logo" content="/SiteGlobals/Frontend/Images/favicon-ms-70x70.png?__blob=normal&amp;v=2"/>
+  <meta name="msapplication-square150x150logo" content="/SiteGlobals/Frontend/Images/favicon-ms-150x150.png?__blob=normal&amp;v=2"/>
+  <meta name="msapplication-wide310x150logo" content="/SiteGlobals/Frontend/Images/favicon-ms-310x150.png?__blob=normal&amp;v=2"/>
+  <meta name="msapplication-square310x310logo" content="/SiteGlobals/Frontend/Images/favicon-ms-310x310.png?__blob=normal&amp;v=2"/>
+  <link rel="mask-icon" href="/SiteGlobals/Frontend/Images/favicon-safari-svg.svg?__blob=normal&amp;v=2" type="image/svg+xml"/>
+  <meta name="apple-mobile-web-app-title" content="SAARLAND">
+<meta name="msapplication-TileColor" content="#ffffff"/>
+<meta name="msapplication-config" content="none"/>
+<meta name="application-name" content="SAARLAND">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="manifest.webmanifest?view=render">  
+
+
+  
+
+
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/_libs.css?v=2" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/small.css?v=9" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/medium.css?v=6" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/large.css?v=6" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/xlarge.css?v=3" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/custom.css?v=1" type="text/css"/>
+<!--[if IE 9]><link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/addon_iefix_9.css?v=1" type="text/css"/><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" href="SiteGlobals/Frontend/Styles/addon_iefix.css?v=1" type="text/css" /><![endif]-->
+<link rel="stylesheet" href="SiteGlobals/Frontend/Styles/addon_print.css?v=2" type="text/css" media="print" />
+
+
+  <!-- Matomo -->
+  <script type="text/javascript" src="SiteGlobals/Frontend/JavaScript/init/addon_matomo.js?v=5"></script> <!-- End Matomo Code -->
+</head>
+                <body class="gsb js-off lang-de fixed js-news-pusher" data-nn="4f580d64-ee10-4fe2-9536-a2179ebd8050-5e348e33-8a4c-4ef4-9dfe-d20cc494b378"
+        data-news-push-src="SiteGlobals/Functions/PushNotifications/ChangedNews.json?view=newsChanges&since={since}"
+      data-news-push-polling-interval="20"
+  >
+    
+    <noscript><p><img src="//matomo/matomo.php?idsite=$sI&rec=1" style="border:0;" alt="" /></p></noscript>
+    
+  
+
+  <div class="wrapperInner">
+    <h1 class="aural">Landesportal Saarland</h1>
+    <a id="Start"></a>
+  <div id="wrapperDivisions" class="wrapperDivisions">
+    <header class="header" aria-labelledby="headerhead">
+      <h1 class="aural" id="headerhead">Navigation und Service</h1>
+      <nav class="navskip" role="navigation" aria-labelledby="navskiphead">
+        <p id="navskiphead" class="navSkip">
+          <em>Springe direkt zu:</em>
+        </p>
+        <ul class="navSkip">
+          <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?nn=4f580d64-ee10-4fe2-9536-a2179ebd8050&amp;queryResultId=null&amp;pageNo=0&amp;gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D5&amp;schulformKurzbez_str=gem#rs_start">Inhalt</a></li>
+          <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?nn=4f580d64-ee10-4fe2-9536-a2179ebd8050&amp;queryResultId=null&amp;pageNo=0&amp;gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D5&amp;schulformKurzbez_str=gem#navPrimary">Hauptmenü</a></li>
+          <li><a class="js-click-target" data-click-target="#searchService" href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?nn=4f580d64-ee10-4fe2-9536-a2179ebd8050&amp;queryResultId=null&amp;pageNo=0&amp;gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D5&amp;schulformKurzbez_str=gem#searchService">Suche</a></li>
+        </ul>
+      </nav>
+        <div class="wrapperBranding">
+            <div class="row">
+                <div class="xlarge-break-out">
+                    <nav role="navigation" id="navServiceMeta" class="navServiceMeta large-12 columns" aria-labelledby="serviceMenu">
+                        <h2 class="aural" id="serviceMenu">Servicemenü</h2>
+                        <div class="navServiceMeta__element">
+                            <ul>
+                        		<li class="navServiceGS">
+    <a href="DE/services/gebaerdensprache/gebaerdensprache_node.html">
+      <span class="icon-default-active icon-default-active--dark">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="#1f1e1d"><path d="M5.985 11.615l.63-.615c.685-.665 1.208-1.26 1.773-1.913.255-.296.316-.377.325-.389.246-.34.582-.592.974-.73l.048-.017.05-.01.049-.01a2.39 2.39 0 0 1 .5-.054c.58 0 1.096.22 1.452.622.367.413.522.974.436 1.576a1.93 1.93 0 0 1-.155.535c-.26.567-.952 1.547-1.072 1.716l-.129.202-.179.28 6.538-1.378a2.16 2.16 0 0 1 .445-.047c.49 0 .946.172 1.293.485l2.598-2.546c.471-.463.608-1.027.136-1.49-.474-.465-1.05-.33-1.521.132L17.18 10.9l-.16.157a.448.448 0 0 1-.623 0l-.01-.01a.427.427 0 0 1 0-.61l.162-.158 4.562-4.486c.469-.459.637-1.07.152-1.518-.468-.432-1.082-.249-1.536.196l-4.547 4.45h-.001l-.44.431a.448.448 0 0 1-.623 0l-.022-.021a.427.427 0 0 1 0-.61l.442-.434-.002-.001 5.592-5.482c.41-.401.573-.878.319-1.305-.371-.623-1.13-.698-1.65-.188l-5.68 5.568-.18.17a.453.453 0 0 1-.626-.003l-.022-.022a.427.427 0 0 1 0-.61l.731-.717a.43.43 0 0 1 .045-.038l3.606-3.528c.473-.464.642-1.075.306-1.58-.422-.633-1.238-.696-1.783-.162l-5.56 5.45c-.175.169-.469.05-.472-.19-.01-.851-.026-1.777-.025-1.74 0 0 .05-1.303-.041-1.886a1.183 1.183 0 0 0-.101-.326C8.6.868 7.706.735 7.047 1.38l-.035.034a1.229 1.229 0 0 0-.256.704c-.005.094-.03.305-.064.564-.124.932-.236 1.697-.442 2.615-.156.696-.372 1.682-.62 2.778-.175.77-.323 1.42-.381 1.665a5.689 5.689 0 0 0-.125 2.712l.86-.838"/><path d="M20.003 15.899c-.085 0-.173.009-.263.027l-7.708 1.6-.24.046a.437.437 0 0 1-.514-.325l-.008-.028a.418.418 0 0 1 .332-.495l.992-.206a.448.448 0 0 1 .057-.008l4.89-1.01c.643-.134 1.114-.543 1.11-1.125-.002-.637-.489-1.077-1.104-1.077-.09 0-.183.01-.277.03l-7.546 1.566a.292.292 0 0 1-.058.006c-.204 0-.344-.223-.227-.402l.925-1.427s.748-1.03.99-1.55c.047-.101.078-.208.094-.317.11-.762-.382-1.292-1.103-1.292-.106 0-.216.012-.331.035l-.047.01c-.24.084-.446.239-.594.44-.054.074-.19.232-.359.425-.608.692-1.116 1.256-1.784 1.895-.507.484-1.221 1.173-2.021 1.935-.563.535-1.038.987-1.219 1.155-1.584 1.344-2.32 3.33-1.83 5.521.523 2.346 1.518 4.5 5.023 4.5.446 0 .932-.036 1.463-.11l9.022-1.871c.64-.133 1.06-.521.922-1.139-.11-.496-.483-.715-.955-.715-.118 0-.243.014-.371.04l-4.064.844-.218.045a.43.43 0 0 1-.513-.32l-.004-.012a.419.419 0 0 1 .332-.495l.22-.046 6.198-1.296c.636-.132 1.106-.54.95-1.154-.12-.468-.526-.67-.995-.67-.123 0-.25.014-.378.04l-6.167 1.275-.598.123a.43.43 0 0 1-.513-.32l-.007-.028a.418.418 0 0 1 .332-.496l.6-.124-.001-.002 7.588-1.575c.556-.116.95-.419.972-.896.029-.607-.413-1.027-.995-1.027"/></g></svg></span>
+        <span class="aural">Gebaerdensprache</span>
+      </a>
+    </li>
+
+                        		<li class="navServiceLS">
+    <a href="DE/services/leichtesprache/leichtesprache_node.html">
+      <span class="icon-default-active icon-default-active--dark">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#1f1e1d" fill-rule="evenodd" d="M16.476 7.19a12.321 12.321 0 0 1 2.992-.365c.323 0 .587.276.587.617v12.627c0 .34-.264.617-.587.617-4.573 0-7.016 2.62-7.041 2.645-.007.008-.017.01-.025.018-.005.006-.008.015-.015.022-.031.028-.07.045-.106.066-.02.012-.039.029-.062.039a.55.55 0 0 1-.44 0c-.02-.01-.036-.024-.055-.035-.038-.021-.08-.04-.111-.07-.006-.006-.01-.014-.014-.02-.007-.007-.018-.01-.024-.017-.026-.028-2.471-2.648-7.044-2.648-.322 0-.586-.278-.586-.617V7.442c0-.34.264-.617.586-.617 1.12-.002 2.236.15 3.322.455a5.657 5.657 0 0 1-.26-1.686C7.595 2.767 9.635.476 12.152.479c2.516 0 4.557 2.29 4.557 5.115 0 .558-.084 1.093-.233 1.595zm-5.063 14.42c-1.141-.843-3.236-2.008-6.293-2.144V8.073c3.554.177 5.714 1.936 6.293 2.47zm7.467-2.145c-3.066.137-5.16 1.308-6.293 2.148v-11.07c.57-.532 2.71-2.292 6.293-2.468zM9.547 12.24a9.521 9.521 0 0 0-3.515-1.34.56.56 0 0 1-.38-.266.685.685 0 0 1-.088-.456c.05-.334.335-.57.642-.513a10.65 10.65 0 0 1 3.9 1.491c.132.083.23.227.267.398a.683.683 0 0 1-.068.475.551.551 0 0 1-.479.294.513.513 0 0 1-.279-.083zm5.264 4.548c.142.239.409.283.594.1a.516.516 0 0 0 .078-.101l2.085-3.53c.129-.251.075-.59-.12-.755-.177-.152-.413-.11-.552.097l-1.75 2.96-.777-1.318c-.141-.24-.407-.286-.593-.102-.184.182-.22.524-.079.764zm-8.778-2.629a9.553 9.553 0 0 1 3.513 1.337.508.508 0 0 0 .28.084c.19.005.37-.107.478-.296a.681.681 0 0 0 .068-.473.618.618 0 0 0-.267-.398 10.611 10.611 0 0 0-3.903-1.49c-.3-.051-.59.189-.639.515a.682.682 0 0 0 .09.454.56.56 0 0 0 .38.267zm3.515 4.595a9.55 9.55 0 0 0-3.515-1.338.56.56 0 0 1-.38-.267.683.683 0 0 1-.09-.453c.051-.33.328-.566.639-.514 1.409.24 2.721.74 3.903 1.488.133.082.23.226.268.398a.683.683 0 0 1-.068.474.551.551 0 0 1-.479.295.51.51 0 0 1-.278-.083z"/></svg></span>
+        <span class="aural">Leichtesprache</span>
+      </a>
+    </li>
+
+                        		<li class="navServiceReadSpeaker">
+                                                                                                              
+
+
+
+
+
+
+
+      
+    
+      
+      
+  
+    
+ 
+<div class="readspeaker">
+  <div id="readspeaker_button" class="rsbtn_customized rs_skip rs_preserve">
+    <a class="rsbtn_play" accesskey="L" title="Um den Text anzuhören, verwenden Sie bitte ReadSpeaker" href="https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4783&lang=de_de&readid=rs_start&url=https%3A%2F%2Fwww.saarland.de%2Fmbk%2FDE%2Fportale%2Fbildungsserver%2Fthemen%2Fschulen-und-bildungswege%2Fschuldatenbank%2Fschuldatenbank_node.html">
+      <span class="rsbtn_left rspart">
+        <span class="rsbtn_text">
+          <span>Vorlesen</span>
+        </span>
+      </span>
+      <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+  </div>
+</div>
+
+
+                                                                    </li>                	        </ul>
+                        </div>
+                        <div class="navServiceMeta__element">
+                                                                                    <a href="DE/home/home_node.html" title="Zur Startseite des Landesportals Saarland.de" class="navServiceMeta__logo">Saarland.de</a>
+                                                                                    <a href="DE/themen/themen_node.html" title="Zur Übersicht der Themenportale des Landesportals" class="navServiceToppics">Themenportale</a>
+                                                        
+
+
+
+
+<div class="c-fancyboxes js-fancy-selects">
+    <span class="formLabel">
+        <label for="fancy-406cdf19-f45b-4c83-a2e2-239408b7a86c" class="aural">Select <abbr title="Pflichtangabe">*</abbr></label>
+    </span>
+    <span class="formField">
+        <select name="Schnellzugriff_table" size="1" id="fancy-406cdf19-f45b-4c83-a2e2-239408b7a86c">
+            <option>Ministerien</option>
+                                        <option value="/stk/DE/home/home_node.html">
+<p>
+Staatskanzlei</p>
+</option>
+                            <option value="/mwaev/DE/home/home_node.html">
+<p>
+Ministerium für Wirtschaft, Arbeit, Energie und Verkehr</p>
+</option>
+                            <option value="/mfe/DE/home/home_node.html">
+<p>
+Ministerium für Finanzen und Europa</p>
+</option>
+                            <option value="/mibs/DE/home/home_node.html">
+<p>
+Ministerium für Inneres, Bauen und Sport</p>
+</option>
+                            <option value="/msgff/DE/home/home_node.html">
+<p>
+Ministerium für Soziales, Gesundheit, Frauen und Familie</p>
+</option>
+                            <option value="/mbk/DE/home/home_node.html">
+<p>
+Ministerium für Bildung und Kultur</p>
+</option>
+                            <option value="/muv/DE/home/home_node.html">
+<p>
+Ministerium für Umwelt und Verbraucherschutz</p>
+</option>
+                            <option value="/mdj/DE/home/home_node.html">
+<p>
+Ministerium der Justiz</p>
+</option>
+                            <option value="/DE/politik-verwaltung/weitere-behoerden-im-ueberblick/weitere-behoerden-im-ueberblick_node.html">
+<p>
+Weitere Behörden im Überblick</p>
+</option>
+                                    </select>
+    </span>
+</div>                            
+
+
+<ul ><li  class="navServiceCart">
+
+<a href="DE/services/warenkorb/warenkorb_node.html">
+Wa­ren­korb
+</a></li><li  class="navServiceLogin">
+
+<a href="Restricted/DE/MeinProfil/mein-profil_node.html">Be­nut­zer­kon­to</a></li></ul>
+                            <ul class="language-list">
+                                                                                      <li>
+                                                                <strong hreflang="de" class="languageLink lang_de" lang="de">de
+                                  <span class="aural">Deutsch</span>
+                                </strong>                                
+                                                              </li>
+                                                          <li>
+                                                                <a hreflang="en" href="EN/home/home_node.html" class="languageLink lang_en" lang="en">en
+                                  <span class="aural">English</span>
+                                </a>    
+                                                              </li>
+                                                          <li>
+                                                                <a hreflang="fr" href="FR/home/home_node.html" class="languageLink lang_fr" lang="fr">fr
+                                  <span class="aural">français</span>
+                                </a>    
+                                                              </li>
+                                                        </ul>
+                        </div>
+                    </nav>                 
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="column large-12">
+                <div id="navPrimary" class="c-nav-primary xlarge-break-out">
+                    
+
+<a class="c-nav-primary__logo" href="mbk/DE/home/home_node.html" name="anfang"
+     title="Zur Startseite"><img src="/SharedDocs/Bilder/DE/logos/landesverwaltung/Saar_MZ_Min_BK-D_std_3C_SVG-Crop.svg?__blob=normal&amp;v=3" alt="Landesportal Saarland (Link zur Startseite)"/></a>
+                    <h2 id="navPrimaryHead" class="aural">Hauptmenü</h2>
+                    
+
+
+<ul class="c-nav-primary__list-desktop">
+  <li class="c-nav-primary__item has-child-nodes virgin">
+    <h3>
+
+<a data-nn="189b665c-70e7-4d7e-9b19-3cbee31b8c31" href="mbk/DE/portale/bildungsserver/eltern-schueler/elternschueler_node.html" class="js-toggle-flyout"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="9" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 13 9"><path fill="#002f5b" d="M6.5 8.017l6.5-6.5L11.483 0 6.5 4.983 1.517 0 0 1.517l6.5 6.5z"/></svg>El­tern und Schü­ler*in­nen</a></h3>
+  </li>
+  <li class="c-nav-primary__item has-child-nodes virgin">
+    <h3>
+
+<a data-nn="dce503d2-fa82-4aa2-bbcd-47aa43f2bfba" href="mbk/DE/portale/bildungsserver/lehrer-werden/lehrerwerden_node.html" class="js-toggle-flyout"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="9" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 13 9"><path fill="#002f5b" d="M6.5 8.017l6.5-6.5L11.483 0 6.5 4.983 1.517 0 0 1.517l6.5 6.5z"/></svg>Lehr­kräf­te</a></h3>
+  </li>
+  <li class="c-nav-primary__item has-child-nodes virgin">
+    <h3>
+
+<a data-nn="84a66803-2c55-45b1-bcb7-dcc832e5b5a3" href="mbk/DE/portale/bildungsserver/themen/fruehkindliche-bildung-und-betreuung/fruehkindliche-bildung-und-betreuung_node.html" class="js-toggle-flyout"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="9" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 13 9"><path fill="#002f5b" d="M6.5 8.017l6.5-6.5L11.483 0 6.5 4.983 1.517 0 0 1.517l6.5 6.5z"/></svg>Früh­kind­li­che Bil­dung und Be­treu­ung</a></h3>
+  </li>
+  <li class="c-nav-primary__item has-child-nodes topinpath">
+    <h3>
+
+<a data-nn="3098c599-325d-4cd4-a7ee-2a54c871968e" href="mbk/DE/portale/bildungsserver/themen/themen_node.html" title="Weitere Themen" class="js-toggle-flyout"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="9" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 13 9"><path fill="#002f5b" d="M6.5 8.017l6.5-6.5L11.483 0 6.5 4.983 1.517 0 0 1.517l6.5 6.5z"/></svg>Wei­te­re The­men</a></h3>
+  </li>
+  <li class="c-nav-primary__item has-child-nodes virgin">
+    <h3>
+
+<a data-nn="10338159-a3ed-4909-884b-b31e3d20686f" href="mbk/DE/portale/bildungsserver/themen/allgemeine-informationen/informationen_node.html" class="js-toggle-flyout"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="9" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 13 9"><path fill="#002f5b" d="M6.5 8.017l6.5-6.5L11.483 0 6.5 4.983 1.517 0 0 1.517l6.5 6.5z"/></svg>All­ge­mei­ne In­for­ma­tio­nen</a></h3>
+  </li>
+  <li class="c-nav-primary__item navSearch"><h3><a href="mbk/DE/portale/bildungsserver/services/suche/suche_node.html" data-nn="f2acbf8b-75c8-4801-bf6d-45d8e25b2286" class="js-toggle-flyout js-toggle-flyout-search" id="searchService"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><path fill="#002F5C" fill-rule="evenodd" d="M28.387 26.048l4.271 4.27a1.654 1.654 0 1 1-2.34 2.34l-4.27-4.27a1.648 1.648 0 0 1-.484-1.144 6.154 6.154 0 0 1-7.767-.758 6.151 6.151 0 0 1 0-8.69 6.151 6.151 0 0 1 8.689 0 6.154 6.154 0 0 1 .758 7.768c.414.007.827.167 1.143.484zm-9.253-.899a4.258 4.258 0 0 0 6.015 0 4.258 4.258 0 0 0 0-6.015 4.258 4.258 0 0 0-6.015 0 4.259 4.259 0 0 0 0 6.015z"/></svg></a></h3></li>
+</ul>
+<div class="c-nav-primary__list-mobile">
+  <div class="c-nav-primary__topline">
+    <ul></ul>
+  </div>
+  <div class="c-nav-primary__header"><a class="c-nav-primary__mobile-logo" href="mbk/DE/home/home_node.html" id="anfang" title="Zur Startseite"><img src="/SharedDocs/Bilder/DE/logos/landesverwaltung/Saar_MZ_Min_BK-D_std_3C_SVG-Crop.svg?__blob=normal&amp;v=3" alt="Landesportal Saarland (Link zur Startseite)" /></a><ul>
+      <li class="c-nav-primary__item c-nav-primary__item--search"><a href="mbk/DE/portale/bildungsserver/services/suche/suche_node.html" data-nn="f2acbf8b-75c8-4801-bf6d-45d8e25b2286" class="js-toggle-flyout js-toggle-flyout-search"><img src="/SiteGlobals/Frontend/Images/icons/inline-svg/mobile-search.svg?__blob=normal&amp;v=1"alt="Flyout_Small_Search_Open"data-active-src="/SiteGlobals/Frontend/Images/icons/inline-svg/mobile-search-s.svg?__blob=normal&amp;v=1"data-active-alt="Flyout_Small_Search_Close"data-inactive-src="/SiteGlobals/Frontend/Images/icons/inline-svg/mobile-search.svg?__blob=normal&amp;v=1"data-inactive-alt="Flyout_Small_Search_Open" /></a></li>
+      <li class="c-nav-primary__item c-nav-primary__item--toggle"><a href="#" data-nn="" class="js-toggle-flyout"><img src="/SiteGlobals/Frontend/Images/icons/inline-svg/mobile-menue-s.svg?__blob=normal&amp;v=1"alt="Flyout_Small_Open"data-active-src="/SiteGlobals/Frontend/Images/icons/inline-svg/mobile-menue-s.svg?__blob=normal&amp;v=1"data-active-alt="Flyout_Small_Close"data-inactive-src="/SiteGlobals/Frontend/Images/icons/close-big.svg?__blob=normal&amp;v=1"data-inactive-alt="Flyout_Small_Open" /></a></li>
+    </ul>
+  </div>
+</div>
+                </div>
+                <div class="js-flyout c-flyout_wrapper" aria-live="polite" aria-relevant="additions text"></div>
+            </div>
+        </div>
+                        <div class="row">
+            <div class="xlarge-break-out">
+                <div class="c-page-info">
+                    <span class="c-page-info__headline">Thema:</span>
+                    <span class="c-page-info__text">Bildungsserver</span>
+                </div>
+            </div>
+        </div>
+                </header>
+                    <div class="row">
+	    <div class="columns large-12">
+		    <nav id="navBreadcrumbs" class="navBreadcrumbs" aria-labelledby="navbreadcrumbshead">
+                <h2 class="aural">Sie sind hier:</h2>
+                
+
+
+<ol>
+  <li class="first"><a href="mbk/DE/portale/bildungsserver/home/home_node.html" title="Zur Startseite"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"><path fill="#1F1E1D" fill-rule="evenodd" d="M.5 4.5h4v-4h-4v4zm10 0h-4v-4h4v4zm2-4v4h4v-4h-4zm-12 10h4v-4h-4v4zm10 0h-4v-4h4v4zm2 0h4v-4h-4v4zm-8 6h-4v-4h4v4zm2 0h4v-4h-4v4zm10 0h-4v-4h4v4z"/></svg>Bildungsserver</a></li>
+  <li>
+
+<a href="mbk/DE/portale/bildungsserver/themen/themen_node.html" title="Weitere Themen">Weitere Themen</a></li>
+  <li>
+
+<a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schulenundbildungswege_node.html">Schulen und Bildungswege</a></li>
+  <li>
+
+<strong>Schuldatenbank</strong></li>
+</ol>
+		    </nav>
+	    </div>
+    </div>
+            <main class="main row" id="rs_start">
+        
+
+<div class="content small-12 large-10 columns">
+
+    <div class="c-topline">
+    <time class="c-date" datetime="2019-12-05">
+            <svg width="100%" height="100%" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><path d="M6.5,1.022c3.024,0 5.478,2.463 5.478,5.478c0,3.015 -2.462,5.477 -5.478,5.477c-3.016,0 -5.478,-2.453 -5.478,-5.477c0,-3.024 2.454,-5.478 5.478,-5.478Zm0,11.978c3.586,0 6.5,-2.914 6.5,-6.5c0,-3.586 -2.913,-6.5 -6.5,-6.5c-3.587,0 -6.5,2.914 -6.5,6.5c0,3.586 2.913,6.5 6.5,6.5Z" style="fill:#1f1e1d;"/><path d="M6.068,7.757l2.189,1.704c0.094,0.068 0.204,0.11 0.315,0.11c0.153,0 0.307,-0.068 0.401,-0.196c0.17,-0.222 0.136,-0.545 -0.094,-0.715l-1.985,-1.55l0,-3.502c0,-0.281 -0.23,-0.511 -0.511,-0.511c-0.281,0 -0.511,0.23 -0.511,0.511l0,3.748c0,0.162 0.076,0.308 0.196,0.401Z" style="fill:#1f1e1d;"/></svg><span class="aural">
+                Standardartikel vom </span>
+            05.12.2019</time>
+         | <span class="c-topline__publisher">Ministerium für Bildung und Kultur</span>
+         | <span class="c-topline__topic">Bildung, Schule</span>
+    </div>
+
+<h1 class="isFirstInSlot">
+            Schuldatenbank</h1>
+    <div class="abstract">
+            
+<p>
+<span>Über die Suchfunktion finden Sie jede Schule im Saarland, die in der Schuldatenbank erfasst ist.</span></p>
+</div>
+    
+<p>
+Starten Sie die Schulsuche durch Eingabe des <strong>Schulnamens</strong> oder der Bezeichnung der <strong>Schulform</strong> oder des <strong>Ortes</strong> in die Eingabemaske.</p>
+</div>
+
+
+
+<div class="content small-12 large-12 columns">
+  <h1 > Schulsuche</h1>
+
+
+<p>
+Standardmäßig werden Ergebnisse mit allen eingegebenen Suchbegriffen angezeigt. Durch das Wort OR zwischen den Suchbegriffen erweitern Sie die Suche um Treffer, die nur einen Teil der Suchbegriffe enthalten. Weiter sind <span lang="en-GB">Wildcards</span> wie (*) für eine beliebige Buchstabenfolge und (?) für einen einzelnen Buchstaben bei der Suche zulässig. Das Tilde-Symbol (~) an Ende eines einzelnen Wortes erlaubt die Durchführung einer unscharfen Suche.</p>
+
+
+
+
+
+  
+  
+
+
+  <form class="c-searchform s-expert-search" role="search" name="searchSchool" action="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html" method="get" enctype="application/x-www-form-urlencoded">
+
+
+  <input type="hidden" name="resourceId" value="f39c05c4-c261-4040-975e-081ccd54c9a0" />
+  <input type="hidden" name="input_" value="4f580d64-ee10-4fe2-9536-a2179ebd8050" />
+  <input type="hidden" name="pageLocale" value="de" />
+    
+<fieldset>
+  <h2 class="aural">Suchbegriff eingeben</h2>
+  <p>
+      
+
+
+      
+
+
+<span class="formLabel aural">
+  <label for="ff39c05c4-c261-4040-975e-081ccd54c9a0df5ddc88d-468a-483d-bea5-93956525be20">Suchtext </label></span>
+
+
+<span class="formField">
+  <input id="ff39c05c4-c261-4040-975e-081ccd54c9a0df5ddc88d-468a-483d-bea5-93956525be20" name="templateQueryString" value="" title="Suchbegriff darf nicht mit ? oder * beginnen" type="text" pattern="^[^*?].*$" placeholder="Suchbegriff eingeben" size="26" maxlength="100"/></span>
+      
+            
+
+
+<input class="c-button c-button-s" type="submit" name="submit"
+         value="Suchen" class="submit"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 33 33"><path fill="#002f5b" d="M17.612 17.613c-3.193 3.191-8.387 3.191-11.58 0-3.192-3.194-3.192-8.389 0-11.58 3.193-3.193 8.387-3.193 11.58 0 3.193 3.191 3.193 8.386 0 11.58zm14.455 9.951l-8.222-8.223a3.17 3.17 0 0 0-2.2-.93c3.085-4.597 2.599-10.895-1.46-14.952-4.612-4.612-12.115-4.612-16.726 0-4.612 4.612-4.612 12.114 0 16.726 4.058 4.059 10.356 4.545 14.951 1.46a3.17 3.17 0 0 0 .932 2.2l8.222 8.223a3.185 3.185 0 0 0 4.503-4.504z"/></svg>
+  
+  </p>
+</fieldset>
+  </form>
+
+
+
+
+
+
+                                <p>
+        <small>Wir haben <span class="c-badge">62</span> Ergebnisse gefunden</small>
+    </p>
+                        
+    
+
+
+
+
+
+
+
+<div class="">
+<div class="c-search js-toggle">
+<div class="js-multi-level-dropdown-menu c-search__facets tabs-container">
+<h2 class="show-for-medium">Ihre Suche verfeinern</h2>
+<h2 class="heading inactive-control">
+<button>Filter
+<span class="c-search__opened">ausblenden</span>
+<span class="c-search__closed">einblenden</span>
+</button>
+</h2>
+<div class="c-search__bgbox">
+<div class="js-multi-level-dropdown tabs-container">
+<h3 class="c-search-facets__h">
+<button id="Schulform" class="js-multi-level-dropdown-menu-button inactive-control">Schulform</button>
+</h3>
+<ul id="Schulform-submenu" class="c-search-facets__ul">
+
+<li class="3 c-search-facets__li"><a class="c-search-facets__l c-search-facets__l--selected" href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html"><span
+class="aural">Gefiltert nach: </span>Gemeinschaftsschule (<span class="aural">Anzahl der Ergebnisse: </span>62)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="c-search__reset">
+<p>
+<span class="c-search__reset-button-wrapper">
+<a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html" class="c-button c-button--s c-button--icon-right c-search__reset-button">Gemeinschaftsschule
+<svg width="15px" height="15px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M15,1.5l-1.5,-1.5l-6,6l-6,-6l-1.5,1.5l6,6l-6,6l1.5,1.5l6,-6l6,6l1.5,-1.5l-6,-6l6,-6Z"/></svg>
+</a>
+</span>
+<span class="c-search__reset-all-wrapper">
+<a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html" class="c-search__reset-all">Alle Filter entfernen
+<svg xmlns="http://www.w3.org/2000/svg" width="17.63" height="22" viewBox="0 0 17.63 22">
+<path id="trash_svg__trash_svg__trash_svg__trash_svg__Shape" fill="#1f1e1d"
+d="M14.009 22H3.624a1.8 1.8 0 0 1-1.8-1.856l-.7-17.161H.368a.373.373 0 0 1 0-.745h4.423A3.016 3.016 0 0 1 5.458.481 1.539 1.539 0 0 1 6.612 0h3.673a1.542 1.542 0 0 1 1.155.481 3.014 3.014 0 0 1 .666 1.756h5.159a.373.373 0 0 1 0 .745h-.75l-.7 17.169A1.793 1.793 0 0 1 14.009 22zM12.49 5.966a.37.37 0 0 0-.367.373v12.3a.367.367 0 1 0 .735 0v-12.3a.371.371 0 0 0-.368-.373zm-3.673 0a.371.371 0 0 0-.368.373v12.3a.367.367 0 1 0 .735 0v-12.3a.37.37 0 0 0-.367-.373zm-3.674 0a.371.371 0 0 0-.368.373v12.3a.368.368 0 1 0 .735 0v-12.3a.371.371 0 0 0-.367-.373zM6.612.746A.826.826 0 0 0 5.985 1a2.247 2.247 0 0 0-.455 1.237h5.838A2.239 2.239 0 0 0 10.913 1a.826.826 0 0 0-.627-.254z"/>
+</svg>
+</a>
+</span>
+</p>
+</div>
+</div>
+</div>
+    
+        
+    <div class="row">
+        <div class="column small-12 medium-8">
+            <p>
+                <small><span class="c-badge">41 bis 50</span> von <span class="c-badge">62 Ergebnissen</span> für die Suche nach <span class="c-badge">&quot; &quot;</span></small>
+            </p>
+        </div>
+            
+        
+
+
+
+
+
+
+
+
+<div class="column small-12 medium-4 medium-text-right">
+<div class="l-content-wrapper">
+<div class="c-search--sort">
+<div class="js-multi-level-dropdown-menu c-search__bgbox">
+<div class="js-multi-level-dropdown">
+<h3 class="c-search-facets__h">
+<button id="sort" aria-expanded="false" aria-controls="sortList"
+class="js-multi-level-dropdown-menu-button inactive-control">Sortieren nach:</button>
+</h3>
+<ul id="sortList" class="c-search-facets__ul">
+<li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?schulformKurzbez_str=gem&amp;sortOrder=score+asc" title="aufsteigend sortieren" class="c-search-facets__l c-search-facets__l--selected sortUp sortCurrent">Relevanz</a>
+</li>
+<li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?schulformKurzbez_str=gem&amp;sortOrder=schule_sort+asc" title="aufsteigend sortieren" class="c-search-facets__l sortUp">Schulname</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+  
+                
+    </div>
+    
+          <div class="navIndex" aria-labelledby="blaetternavigation1">
+    <h2 id="blaetternavigation1" class="aural">Blaetternavigation</h2>
+    <ul class="advancedSearch">
+              <li>
+          <a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D4&amp;schulformKurzbez_str=gem" title="Seite 4" class="back button">
+            <span class="aural">zurück</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13"
+     viewBox="0 0 13 13">
+  <g>
+    <path d="M12.75 5.578H3.028l4.463-4.462L6.375 0 0 6.375l6.375 6.375 1.116-1.116-4.463-4.462h9.722V5.578z"/>
+  </g>
+</svg>
+
+          </a>
+        </li>
+                              <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?schulformKurzbez_str=gem" title="Seite 1" class="page"><span class="aural">Seite </span>1</a></li>
+                                <li><span class="page">&nbsp;&hellip;&nbsp;</span></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D3&amp;schulformKurzbez_str=gem" title="Seite 3" class="page"><span class="aural">Seite </span>3</a></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D4&amp;schulformKurzbez_str=gem" title="Seite 4" class="page"><span class="aural">Seite </span>4</a></li>
+                                <li ><strong title="Sie sind hier: Seite 5"><span class="aural">Seite </span>5</strong></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D6&amp;schulformKurzbez_str=gem" title="Seite 6" class="page"><span class="aural">Seite </span>6</a></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D7&amp;schulformKurzbez_str=gem" title="Seite 7" class="page"><span class="aural">Seite </span>7</a></li>
+                            <li>
+          <a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D6&amp;schulformKurzbez_str=gem" title="Seite 6" class="forward button">
+            <span class="aural">weiter</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13"
+     viewBox="0 0 13 13">
+  <g>
+    <path d="M12.75 5.578H3.028l4.463-4.462L6.375 0 0 6.375l6.375 6.375 1.116-1.116-4.463-4.462h9.722V5.578z"/>
+  </g>
+</svg>
+
+          </a>
+        </li>
+          </ul>
+  </div>
+      <div class="searchresult">
+                    <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Mandelbachtal-Schmelzerwald - Mandelbachtalschule
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Mandelbachtal</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.mandelbachtalschule.de">www.mandelbachtalschule.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#101;&#107;&#114;&#46;&#103;&#101;&#109;&#115;&#45;&#109;&#98;&#116;&#64;&#115;&#97;&#97;&#114;&#112;&#102;&#97;&#108;&#122;&#45;&#107;&#114;&#101;&#105;&#115;&#46;&#100;&#101;" title="E-Mail senden an: &#115;&#101;&#107;&#114;&#46;&#103;&#101;&#109;&#115;&#45;&#109;&#98;&#116;&#64;&#115;&#97;&#97;&#114;&#112;&#102;&#97;&#108;&#122;&#45;&#107;&#114;&#101;&#105;&#115;&#46;&#100;&#101;" >&#115;&#101;&#107;&#114;&#46;&#103;&#101;&#109;&#115;&#45;&#109;&#98;&#116;&#64;&#115;&#97;&#97;&#114;&#112;&#102;&#97;&#108;&#122;&#45;&#107;&#114;&#101;&#105;&#115;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06803 3900-0</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06803 3900-20</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Christina Linz</dd>
+                                </dl>
+                    </div>
+                    <p>Vichter Strasse 1, 66399 Mandelbachtal</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Private Maximilian-Kolbe-Gemeinschaftsschule in Trägerschaft des Bistums Trier
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Neunkirchen</span>
+                  </span>
+                    <div >
+                      <dl>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#120;&#105;&#109;&#105;&#108;&#105;&#97;&#110;&#45;&#107;&#111;&#108;&#98;&#101;&#46;&#115;&#99;&#104;&#117;&#108;&#101;&#64;&#98;&#105;&#115;&#116;&#117;&#109;&#45;&#116;&#114;&#105;&#101;&#114;&#46;&#100;&#101;" title="E-Mail senden an: &#109;&#97;&#120;&#105;&#109;&#105;&#108;&#105;&#97;&#110;&#45;&#107;&#111;&#108;&#98;&#101;&#46;&#115;&#99;&#104;&#117;&#108;&#101;&#64;&#98;&#105;&#115;&#116;&#117;&#109;&#45;&#116;&#114;&#105;&#101;&#114;&#46;&#100;&#101;" >&#109;&#97;&#120;&#105;&#109;&#105;&#108;&#105;&#97;&#110;&#45;&#107;&#111;&#108;&#98;&#101;&#46;&#115;&#99;&#104;&#117;&#108;&#101;&#64;&#98;&#105;&#115;&#116;&#117;&#109;&#45;&#116;&#114;&#105;&#101;&#114;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06821 95040</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06821 950444</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Walter Meiser</dd>
+                                </dl>
+                    </div>
+                    <p>Prälat-Schütz-Straße 15, 66540 Neunkirchen</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Schwalbach - Johannes-Gutenberg-Schule
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Schwalbach</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.jgs-schwalbach.de">www.jgs-schwalbach.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#103;&#115;&#64;&#106;&#103;&#115;&#45;&#115;&#99;&#104;&#119;&#97;&#108;&#98;&#97;&#99;&#104;&#46;&#100;&#101;" title="E-Mail senden an: &#106;&#103;&#115;&#64;&#106;&#103;&#115;&#45;&#115;&#99;&#104;&#119;&#97;&#108;&#98;&#97;&#99;&#104;&#46;&#100;&#101;" >&#106;&#103;&#115;&#64;&#106;&#103;&#115;&#45;&#115;&#99;&#104;&#119;&#97;&#108;&#98;&#97;&#99;&#104;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06834 953953</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06834 953954</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Falk Staub</dd>
+                                </dl>
+                    </div>
+                    <p>Weiherstrasse 24a, 66773 Schwalbach</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Dillingen in Abendform - Schule am Römerkastell
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Dillingen</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.sar-dillingen.de">www.sar-dillingen.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#101;&#107;&#114;&#101;&#116;&#97;&#114;&#105;&#116;&#97;&#116;&#64;&#101;&#114;&#115;&#45;&#100;&#105;&#108;&#108;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;" title="E-Mail senden an: &#115;&#101;&#107;&#114;&#101;&#116;&#97;&#114;&#105;&#116;&#97;&#116;&#64;&#101;&#114;&#115;&#45;&#100;&#105;&#108;&#108;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;" >&#115;&#101;&#107;&#114;&#101;&#116;&#97;&#114;&#105;&#116;&#97;&#116;&#64;&#101;&#114;&#115;&#45;&#100;&#105;&#108;&#108;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06831 77070</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06831 77081</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Dr. rer. nat. Michael Faust</dd>
+                                </dl>
+                    </div>
+                    <p>Industriestrasse 29, 66763 Dillingen</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Saarbrücken-Bruchwiese in Abendform
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Saarbrücken</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.gems-bruchwiese.de">www.gems-bruchwiese.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#103;&#111;&#101;&#116;&#116;&#101;&#110;&#64;&#101;&#114;&#115;&#45;&#98;&#114;&#117;&#99;&#104;&#119;&#105;&#101;&#115;&#101;&#46;&#100;&#101;" title="E-Mail senden an: &#112;&#103;&#111;&#101;&#116;&#116;&#101;&#110;&#64;&#101;&#114;&#115;&#45;&#98;&#114;&#117;&#99;&#104;&#119;&#105;&#101;&#115;&#101;&#46;&#100;&#101;" >&#112;&#103;&#111;&#101;&#116;&#116;&#101;&#110;&#64;&#101;&#114;&#115;&#45;&#98;&#114;&#117;&#99;&#104;&#119;&#105;&#101;&#115;&#101;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>0681 635032</dd>
+                                      <dt>Telefax:</dt>
+              <dd>0681 61598</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Pia Götten</dd>
+                                </dl>
+                    </div>
+                    <p>Sachsenweg 8, 66121 Saarbrücken</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Beckingen - Friedrich-Bernhard-Karcher-Schule
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Beckingen</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.fbks-beckingen.de">www.fbks-beckingen.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#102;&#98;&#107;&#115;&#45;&#98;&#101;&#99;&#107;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;" title="E-Mail senden an: &#105;&#110;&#102;&#111;&#64;&#102;&#98;&#107;&#115;&#45;&#98;&#101;&#99;&#107;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;" >&#105;&#110;&#102;&#111;&#64;&#102;&#98;&#107;&#115;&#45;&#98;&#101;&#99;&#107;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06835 608190</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06835 608199</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Marc-Vincent Elsholz</dd>
+                                </dl>
+                    </div>
+                    <p>Hindenburgstrasse 19, 66701 Beckingen</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Blieskastel - Geschwister-Scholl-Schule
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Blieskastel</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.gss-blieskastel.de">www.gss-blieskastel.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#101;&#107;&#114;&#46;&#103;&#101;&#109;&#115;&#45;&#98;&#108;&#107;&#64;&#115;&#97;&#97;&#114;&#112;&#102;&#97;&#108;&#122;&#45;&#107;&#114;&#101;&#105;&#115;&#46;&#100;&#101;" title="E-Mail senden an: &#115;&#101;&#107;&#114;&#46;&#103;&#101;&#109;&#115;&#45;&#98;&#108;&#107;&#64;&#115;&#97;&#97;&#114;&#112;&#102;&#97;&#108;&#122;&#45;&#107;&#114;&#101;&#105;&#115;&#46;&#100;&#101;" >&#115;&#101;&#107;&#114;&#46;&#103;&#101;&#109;&#115;&#45;&#98;&#108;&#107;&#64;&#115;&#97;&#97;&#114;&#112;&#102;&#97;&#108;&#122;&#45;&#107;&#114;&#101;&#105;&#115;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06842 923760</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06842 923777</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Sascha Matheis</dd>
+                                </dl>
+                    </div>
+                    <p>Bliesaue, 66440 Blieskastel</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Dillingen - Schule am Römerkastell
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Dillingen</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.sar-dillingen.de">www.sar-dillingen.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#101;&#107;&#114;&#101;&#116;&#97;&#114;&#105;&#97;&#116;&#64;&#115;&#97;&#114;&#45;&#100;&#105;&#108;&#108;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;" title="E-Mail senden an: &#115;&#101;&#107;&#114;&#101;&#116;&#97;&#114;&#105;&#97;&#116;&#64;&#115;&#97;&#114;&#45;&#100;&#105;&#108;&#108;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;" >&#115;&#101;&#107;&#114;&#101;&#116;&#97;&#114;&#105;&#97;&#116;&#64;&#115;&#97;&#114;&#45;&#100;&#105;&#108;&#108;&#105;&#110;&#103;&#101;&#110;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06831 9869600</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06831 9869601</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Dr. rer. nat. Michael Faust</dd>
+                                </dl>
+                    </div>
+                    <p>Industriestrasse 29, 66763 Dillingen</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Eppelborn
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Eppelborn</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.gems-eppelborn.de">www.gems-eppelborn.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#99;&#104;&#117;&#108;&#101;&#64;&#103;&#101;&#109;&#115;&#45;&#101;&#112;&#112;&#101;&#108;&#98;&#111;&#114;&#110;&#46;&#100;&#101;" title="E-Mail senden an: &#115;&#99;&#104;&#117;&#108;&#101;&#64;&#103;&#101;&#109;&#115;&#45;&#101;&#112;&#112;&#101;&#108;&#98;&#111;&#114;&#110;&#46;&#100;&#101;" >&#115;&#99;&#104;&#117;&#108;&#101;&#64;&#103;&#101;&#109;&#115;&#45;&#101;&#112;&#112;&#101;&#108;&#98;&#111;&#114;&#110;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06881 962127</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06881 962129</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Martin König</dd>
+                                </dl>
+                    </div>
+                    <p>Hellbergstrasse 40a, 66571 Eppelborn</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="c-teaser-card">
+          <div class="c-teaser-card__wrapper">
+            <div class="c-searchresult-teaser s-searchresult-teaser">
+              <div class="row collapsed">
+                <div class="columns small-12">
+                  <div class="c-searchresult-teaser__text h-block">
+                    <h3 class="withHeader c-searchresult-teaser__headline">
+                                                                                        Gemeinschaftsschule Wallerfangen - Schule am Limberg
+                    </h3>
+                    <span class="c-searchresult-teaser__categories">
+                      <span class="aural">Schulform: </span>
+                      <span class="c-badge">Gemeinschaftsschule</span>
+                      <span class="aural">Ort: </span>
+                      <span class="c-badge">Wallerfangen</span>
+                  </span>
+                    <div >
+                      <dl>
+                                          <dt>Homepage:</dt>
+                      <dd> <a target="_blank" title="Öffnet neues Fenster" href="http://www.schule-am-limberg.de">www.schule-am-limberg.de</a></dd>
+                                              <dt>E-Mail:</dt>
+              <dd> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#99;&#104;&#117;&#108;&#108;&#101;&#105;&#116;&#117;&#110;&#103;&#64;&#115;&#99;&#104;&#117;&#108;&#101;&#45;&#97;&#109;&#45;&#108;&#105;&#109;&#98;&#101;&#114;&#103;&#46;&#100;&#101;" title="E-Mail senden an: &#115;&#99;&#104;&#117;&#108;&#108;&#101;&#105;&#116;&#117;&#110;&#103;&#64;&#115;&#99;&#104;&#117;&#108;&#101;&#45;&#97;&#109;&#45;&#108;&#105;&#109;&#98;&#101;&#114;&#103;&#46;&#100;&#101;" >&#115;&#99;&#104;&#117;&#108;&#108;&#101;&#105;&#116;&#117;&#110;&#103;&#64;&#115;&#99;&#104;&#117;&#108;&#101;&#45;&#97;&#109;&#45;&#108;&#105;&#109;&#98;&#101;&#114;&#103;&#46;&#100;&#101;</a></dd>
+                                      <dt>Telefon:</dt>
+              <dd>06831 964585</dd>
+                                      <dt>Telefax:</dt>
+              <dd>06831 964594</dd>
+                                      <dt>Schulleitung:</dt>
+              <dd>Dr. rer. nat. Andreas Jungbluth</dd>
+                                </dl>
+                    </div>
+                    <p>Bungertstrasse 30, 66798 Wallerfangen</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          </div>
+          <div class="navIndex" aria-labelledby="blaetternavigation2">
+    <h2 id="blaetternavigation2" class="aural">Blaetternavigation</h2>
+    <ul class="advancedSearch">
+              <li>
+          <a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D4&amp;schulformKurzbez_str=gem" title="Seite 4" class="back button">
+            <span class="aural">zurück</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13"
+     viewBox="0 0 13 13">
+  <g>
+    <path d="M12.75 5.578H3.028l4.463-4.462L6.375 0 0 6.375l6.375 6.375 1.116-1.116-4.463-4.462h9.722V5.578z"/>
+  </g>
+</svg>
+
+          </a>
+        </li>
+                              <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?schulformKurzbez_str=gem" title="Seite 1" class="page"><span class="aural">Seite </span>1</a></li>
+                                <li><span class="page">&nbsp;&hellip;&nbsp;</span></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D3&amp;schulformKurzbez_str=gem" title="Seite 3" class="page"><span class="aural">Seite </span>3</a></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D4&amp;schulformKurzbez_str=gem" title="Seite 4" class="page"><span class="aural">Seite </span>4</a></li>
+                                <li ><strong title="Sie sind hier: Seite 5"><span class="aural">Seite </span>5</strong></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D6&amp;schulformKurzbez_str=gem" title="Seite 6" class="page"><span class="aural">Seite </span>6</a></li>
+                                <li><a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D7&amp;schulformKurzbez_str=gem" title="Seite 7" class="page"><span class="aural">Seite </span>7</a></li>
+                            <li>
+          <a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D6&amp;schulformKurzbez_str=gem" title="Seite 6" class="forward button">
+            <span class="aural">weiter</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13"
+     viewBox="0 0 13 13">
+  <g>
+    <path d="M12.75 5.578H3.028l4.463-4.462L6.375 0 0 6.375l6.375 6.375 1.116-1.116-4.463-4.462h9.722V5.578z"/>
+  </g>
+</svg>
+
+          </a>
+        </li>
+          </ul>
+  </div>
+          </div>
+
+    </main>
+    <footer class="footer" role="contentinfo" aria-labelledby="footerhead">
+        
+
+
+
+
+<div class="c-seo">
+  <div class="c-seo__wrapper">
+    <div class="c-nav-to-top">
+            <a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schuldatenbank/_functions/Schulsuche_Formular.html?nn=4f580d64-ee10-4fe2-9536-a2179ebd8050&amp;queryResultId=null&amp;pageNo=0&amp;gtp=%2526c5706df2-b646-40cc-8c62-b7a95b0cb40e_list%253D5&amp;schulformKurzbez_str=gem#Start" class="">
+      <svg xmlns="http://www.w3.org/2000/svg" id="svg14" width="39" height="39" version="1.1" viewBox="0 0 39 39"><g id="g12" transform="rotate(90 19.5 19.5)"><path id="rect2" fill="red" fill-opacity="1" d="M0 0h39v39H0z" opacity="0"/><g id="g8" fill="none" stroke="#002F5C" stroke-miterlimit="10" stroke-width="1"><circle id="circle4" cx="19.5" cy="19.5" r="19.5" stroke="none"/><circle id="circle6" cx="19.5" cy="19.5" r="19" fill="none"/></g><path id="path10" fill="#002F5C" d="M-6 0l1.05 1.05-4.2 4.2H0v1.5h-9.15l4.2 4.2L-6 12l-6-6z" transform="translate(25.542 13.5)"/></g></svg>
+
+      </a>
+    </div>
+                        <div class="c-seo__section">
+      <h2 class="c-seo__headline">Eltern</h2>
+        <ul>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/bildungswege-schulwechsel/bildungswegeschulwechsel_node.html">Bil­dungs­we­ge und Schul­wech­sel</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/elternvertretung/elternvertretung_node.html">El­tern­ver­tre­tung</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/kinder-beruflich-reisender/kinderberuflich_node.html" title="Kinder beruflich Reisender">Kin­der be­ruf­lich Rei­sen­der</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/krankenhausunterricht/krankenhausunterricht_node.html">Kran­ken­haus-​ und Haus­un­ter­richt</a></li>
+                </ul>
+    </div>
+                                    <div class="c-seo__section">
+      <h2 class="c-seo__headline">Schüler*innen</h2>
+        <ul>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/abschlusspruefungen/abschlusspruefungen_node.html">Ab­schluss­prü­fun­gen</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/anerkennung-gleichstellung/anerkennunggleichstellung_node.html">An­er­ken­nung / Gleich­stel­lung</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/schulpsychologischerdienst/schulpsychologischerdienst_node.html">Schul­psy­cho­lo­gi­scher Dienst</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/schulsozialarbeit/schulsozialarbeit_node.html">Schul­so­zi­al­ar­beit</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/eltern-schueler/studienstiftungsaar/studienstiftungsaar_node.html">Stu­dien­Stif­tungS­aar</a></li>
+                </ul>
+    </div>
+                                    <div class="c-seo__section">
+      <h2 class="c-seo__headline">Lehrkräfte</h2>
+        <ul>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/lehrer-werden/ausbildunglehrkraefte/ausbildunglehrkraefte_node.html">Aus­bil­dung Lehr­kräf­te im Saar­land</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/lehrer-werden/formulare-personalverwaltung/formulare-personalverwaltung_node.html">For­mu­la­re Per­so­nal­ver­wal­tung</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/lehrer-werden/fortweiterbildungen/fortweiterbildungen_node.html">Fort-​ und Wei­ter­bil­dun­gen</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/lehrer-werden/frauenfoerderplaene/frauenfoerderplaene_node.html">Frau­en­för­der­plä­ne</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/lehrer-werden/onlinearbeitsraeume/onlinearbeitsraeume_node.html">On­line-​Ar­beits­räu­me</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/lehrer-werden/stellenausschreibungen/stellenausschreibungen_node.html">Stel­len­aus­schrei­bun­gen</a></li>
+                </ul>
+    </div>
+                                    <div class="c-seo__section">
+      <h2 class="c-seo__headline">Weitere Themen</h2>
+        <ul>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/themen/allgemeine-informationen/informationen_node.html">All­ge­mei­ne In­for­ma­tio­nen</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/themen/fruehkindliche-bildung-und-betreuung/fruehkindliche-bildung-und-betreuung_node.html">Früh­kind­li­che Bil­dung und Be­treu­ung</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/themen/schulen-und-bildungswege/schulenundbildungswege_node.html">Schu­len und Bil­dungs­we­ge</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/themen/schulentwicklung-und-qualtitaetssicherung/schulentwicklung-und-qualtitaetssicherung_node.html">Schul­ent­wick­lung und Qua­li­täts­si­che­rung</a></li>
+                  
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/themen/unterricht-und-bildungsthemen/unterrichtundbildungsthemen_node.html">Un­ter­richt und Bil­dungs­the­men</a></li>
+                </ul>
+    </div>
+                          </div>
+</div>
+
+        
+
+
+
+
+<div class="c-ext-links">
+    <div class="row">
+        <div class="column large-12 text-center">
+            <h2 class="c-ext-links__headline">Externe Links:</h2>
+            <ul class="c-ext-links__list">
+                                                    <li class="c-ext-links__item">
+                        
+
+
+
+<a class="external" href="https://www.kmk.org/" title="Externer Link Kultusministerkonferenz (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer">Kultusministerkonferenz</a>
+                </li>
+                                    <li class="c-ext-links__item">
+                        
+
+
+
+<a class="external" href="https://www.bmbf.de/" title="Externer Link Bundesministerium für Bildung und Forschung (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer">Bundesministerium für Bildung und Forschung</a>
+                </li>
+                                    <li class="c-ext-links__item">
+                        
+
+
+
+<a class="external" href="https://www.uni-saarland.de/start.html" title="Externer Link Universität des Saarlandes (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer">Universität des Saarlandes</a>
+                </li>
+                                                </ul>
+        </div>
+    </div>
+</div>
+        <div class="row">
+            <div class="columns large-12">
+                <div class="c-basics xlarge-break-out">
+                    <h2 class="aural">FooterServicelinksSocial-Media</h2>
+                    <div class="c-basics__first-line">
+                        <div class="c-basics__logo">
+                            
+
+<a class="c-nav-primary__logo" href="mbk/DE/home/home_node.html" name="anfang"
+     title="Zur Startseite"><img src="/SharedDocs/Bilder/DE/logos/landesverwaltung/Saar_MZ_Min_BK-D_std_3C_SVG-Crop.svg?__blob=normal&amp;v=3" alt="Landesportal Saarland (Link zur Startseite)"/></a>
+                        </div>
+                        <div class="c-basics__link-list-wrapper show-for-large">
+                                                                                    <ul class="c-basics__link-list ">
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/datenschutz/datenschutz_node.html">
+Da­ten­schutz
+</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/impressum/impressum_node.html">
+Im­pres­s­um
+</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/barrierefreiheit/barrierefreiheit_node.html">Bar­rie­re­frei­heit</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/nutzungshinweise/nutzungshinweise_node.html">Nut­zungs­hin­wei­se</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/inhaltsverzeichnis/inhaltsverzeichnis_node.html">
+In­halts­ver­zeich­nis
+</a></li>
+                                                            </ul>
+                                                                                    <div class="c-basics__rss show-for-medium">
+                                <a href="DE/medien-informationen/informationen/rss-feed/rss-feed_node.html" class="c-basics__rss-item">
+                                    RSS-Feed
+                                </a>
+                            </div>
+                                                    </div>
+                                                                        <div class="c-basics__social ">
+                            <span class="show-for-large">Soziale Netzwerke</span>
+                            <ul class="c-basics__social-list ">
+                                                            <li><a class="icon-default-active" title="Externer Link zum Facebook Profil (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/MBKSaarland"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="19" viewBox="0 0 19 19"><defs><path id="xx_a" d="M0 0h9v18H0V0z"/><clipPath id="xx_b"><use xlink:href="#xx_a"/></clipPath></defs><g clip-path="url(#xx_b)" transform="translate(5 .5)"><path fill="#1f1e1d" d="M8.662.004L6.502 0C4.079 0 2.51 1.739 2.51 4.43v2.043H.339c-.187 0-.339.163-.339.366V9.8c0 .202.152.367.339.367h2.17v7.467c0 .202.153.367.34.367h2.832c.188 0 .34-.165.34-.367v-7.467h2.538c.188 0 .339-.165.339-.367L8.9 6.84a.386.386 0 0 0-.1-.26.327.327 0 0 0-.24-.106H6.02V4.74c0-.832.184-1.255 1.186-1.255h1.455c.188 0 .339-.165.339-.367V.37c0-.203-.151-.367-.338-.367"/></g></svg>
+</a></li>
+                                                                                        <li><a class="icon-default-active" title="Externer Link zum Twitter Kanal (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer" href="https://twitter.com/mbk_saar"><svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path fill="#1f1e1d" d="M19 4.156c-.696.28-1.45.474-2.238.559.806-.438 1.42-1.131 1.715-1.958-.752.405-1.588.7-2.48.858C15.29 2.93 14.274 2.5 13.155 2.5c-2.15 0-3.896 1.583-3.896 3.534 0 .279.035.547.1.805-3.243-.148-6.112-1.552-8.038-3.693a3.263 3.263 0 0 0-.528 1.779c0 1.225.69 2.309 1.734 2.94a4.142 4.142 0 0 1-1.762-.443v.044c0 1.714 1.345 3.143 3.124 3.47a4.411 4.411 0 0 1-1.762.059c.5 1.404 1.936 2.423 3.641 2.455-1.334.947-3.016 1.51-4.841 1.51-.314 0-.62-.017-.928-.047A11.866 11.866 0 0 0 5.977 16.5c7.168 0 11.086-5.386 11.086-10.055l-.01-.458A7.51 7.51 0 0 0 19 4.157"/></svg></a></li>
+                                                                                                                    <li><a class="icon-default-active" title="Externer Link zum Instagram Profil (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/kultusministerium_saarland"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="#1F1E1D" fill-rule="evenodd" d="M4.864 0h8.272A4.87 4.87 0 0 1 18 4.864v8.272A4.87 4.87 0 0 1 13.136 18H4.864A4.869 4.869 0 0 1 0 13.136V4.864A4.87 4.87 0 0 1 4.864 0zm-3.41 13.136c0 1.88 1.53 3.41 3.41 3.41h8.272c1.88 0 3.41-1.53 3.41-3.41V4.864c0-1.88-1.53-3.41-3.41-3.41H4.864c-1.88 0-3.41 1.53-3.41 3.41v8.272zm11.692.01a.504.504 0 0 1 .708 0 .503.503 0 0 1 0 .708.503.503 0 0 1-.708 0 .503.503 0 0 1 0-.708zM6.618 5.788a3.97 3.97 0 0 1 2.969-.744 3.972 3.972 0 0 1 2.625 1.574c.636.858.9 1.912.744 2.97a3.971 3.971 0 0 1-1.128 2.24 3.996 3.996 0 0 1-3.414 1.128 3.973 3.973 0 0 1-2.626-1.573 3.974 3.974 0 0 1-.744-2.97 3.974 3.974 0 0 1 1.574-2.625zm2.007 5.743a2.557 2.557 0 0 0 .75 0 2.544 2.544 0 0 0 2.156-2.155 2.561 2.561 0 0 0-2.156-2.907 2.54 2.54 0 0 0-1.9.476 2.542 2.542 0 0 0-1.006 1.68c-.1.676.07 1.35.476 1.9a2.541 2.541 0 0 0 1.68 1.006z"/></svg></a></li>
+                                                                                    </ul>
+                        </div>
+                                            </div>
+                    <div class="c-basics__second-line hide-for-large">
+                        <div class="c-basics__link-list-wrapper">
+                            <ul class="c-basics__link-list">
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/datenschutz/datenschutz_node.html">
+Da­ten­schutz
+</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/impressum/impressum_node.html">
+Im­pres­s­um
+</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/barrierefreiheit/barrierefreiheit_node.html">Bar­rie­re­frei­heit</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/nutzungshinweise/nutzungshinweise_node.html">Nut­zungs­hin­wei­se</a></li>
+                                                                    
+
+
+<li >
+
+<a href="mbk/DE/portale/bildungsserver/services/inhaltsverzeichnis/inhaltsverzeichnis_node.html">
+In­halts­ver­zeich­nis
+</a></li>
+                                                                                                <li class="c-basics__rss hide-for-medium">
+                                  <a class="c-basics__rss-item" href="DE/medien-informationen/informationen/rss-feed/rss-feed_node.html">RSS-Feed</a>
+                                </li>
+                                                            </ul>
+                                                        <div class="c-basics__rss show-for-medium">
+                                <a class="c-basics__rss-item" href="DE/medien-informationen/informationen/rss-feed/rss-feed_node.html">RSS-Feed</a>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    </div>
+    </div>
+
+<script>
+      var json_url_navPrimary = 'mbk/DE/portale/bildungsserver/_functions/navigation.html?view=renderNavigation';
+</script>
+
+<script src="SiteGlobals/Frontend/JavaScript/init/global.js?v=7"></script>
+<!-- Seite generiert am: 18.09.2020, 17:01:34 -->
+
+<script src="SiteGlobals/Frontend/JavaScript/libs/readspeaker/ReadSpeaker.js?v=1&amp;pids=embhl" type="text/javascript"></script>
+<script src="SiteGlobals/Frontend/JavaScript/libs/readspeaker/ReadSpeakerCustomization.js?v=2&amp;pids=embhl" type="text/javascript"></script>
+</body>
+</html>

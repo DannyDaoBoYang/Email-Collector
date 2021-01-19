@@ -1,0 +1,11 @@
+--2020-09-17 10:00:53--  https://schulnetz.nibis.de/db/schulen/schule.php?schulnr=10169
+Resolving schulnetz.nibis.de (schulnetz.nibis.de)... 213.23.76.144
+Connecting to schulnetz.nibis.de (schulnetz.nibis.de)|213.23.76.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4466 (4.4K) [text/html]
+Saving to: ‘aschool.txt’
+
+aschool.txt           0%[                    ]       0  --.-KB/s               aschool.txt         100%[===================>]   4.36K  --.-KB/s    in 0.001s  
+
+2020-09-17 10:00:54 (7.06 MB/s) - ‘aschool.txt’ saved [4466/4466]
+

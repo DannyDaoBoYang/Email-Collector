@@ -1,0 +1,6 @@
+AusSchule
+Grundschule
+Gemeinschaftsschule
+Gymnasium
+Integrt
+Sprachsenschule

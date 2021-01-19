@@ -1,0 +1,3128 @@
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>SCHULE SUCHEN 2.0 - SUCHE NACH NAME ODER NUMMER - ABFRAGE</title>
+<link rel="stylesheet" href="jspsrc/css/bp_style.css" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="bodyclass">
+
+<div>
+	<form method="post" action="online?action=627.7520112649837" name="suchen_name" style="display:inline">
+ 		<input type="submit" value="zurück zur Suche" title="Zurück zur Suche nach Namen oder Schulnummer" name="retour" class="btn btn12Breit btnArrowLeft">
+	</form>
+	<input type="button" id="karte_an" name="kbutton" value="Kartendarstellung" target="_blank" title="Zur Kartendarstellung des Suchergebnisses - Öffnet neues Fenster" class="btn btn12Breit" style="display: none;" onclick="window.open('/BiPo/SchuleSuchen/jspsrc/Schule_suchen/geoCodingInfos.jsp');">
+</div>
+<br/>
+
+<!--  <fieldset> -->
+
+	<!-- Ergebnisanzeige -->
+	
+
+	<div>
+		<div style="float:left"><font color='blue'>&nbsp;Ergebnis der Suche: 116 Schule(n)&nbsp;<br/>&nbsp;(<font size=-1>Schulen nach Name oder Schulnummer - Schulform(en): Sekundarschule</font></font>)</div>
+<!--
+		<div style="float:right" class='aktSchule'>
+			<input type="submit" id="karte_an" name="button" value="Kartendarstellung" title="Zur Kartendarstellung des Suchergebnisses - Öffnet neues Fenster" class="btn btn14Breit" style="display: none;" onclick="window.open('/BiPo/SchuleSuchen/jspsrc/Schule_suchen/geoCodingInfos.jsp');">
+		</div>
+-->
+<!--
+		<div style="float:left; text-align:center;" class='btn btn12Breit'><a href="/BiPo/SchuleSuchen/jspsrc/Schule_suchen/geoCodingInfos.jsp" target="_blank"><font color=white>&nbsp;Kartendarstellung&nbsp;</font></a></div>
+-->
+	</div><br/><br/>
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196836' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196836">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Gemeinde Alpen
+					- Sekundarstufe I -
+						
+					
+					<br/>46519&nbsp;Alpen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196836' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196836@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196836' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196836@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196976' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196976">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Anröchte/Erwitte
+					des Schulzweckverbandes
+						
+					Sekundarschule Anröchte/Erwitte<br/>
+						
+					<br/>59609&nbsp;Anröchte<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196976' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196976@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196976' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196976@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198020' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198020">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Agnes-Wenke-Schule
+					Städt. Sekundarschule
+						
+					Arnsb.-Neheim-Hüsten -Sekundarstufe I.-<br/>
+						
+					<br/>59755&nbsp;Arnsberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198020' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198020@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198020' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198020@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198018' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198018">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städt. Sekundarschule am Eichholz
+					Sekundarstufe I
+						
+					
+					<br/>59821&nbsp;Arnsberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198018' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198018@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198018' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198018@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100112' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#100112">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Ascheberg
+					Schule der Sekundarstufe I
+						
+					
+					<br/>59387&nbsp;Ascheberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100112' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100112@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100112' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100112@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196988' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196988">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Hanseschule
+					- Sekundarschule der
+						
+					Hansestadt Attendorn -<br/>
+						
+					<br/>57439&nbsp;Attendorn<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196988' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196988@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196988' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196988@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197660' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197660">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Profilschule Fürstenberg
+					Sekundarschule der Stadt Bad Wünnenberg
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>33181&nbsp;Bad Wünnenberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197660' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197660@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197660' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197660@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198225' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198225">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Beckum
+					
+					
+					<br/>59269&nbsp;Beckum<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198225' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198225@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198225' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198225@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198547' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198547">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule im Dreiländereck
+					der Stadt Beverungen
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>37688&nbsp;Beverungen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198547' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198547@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198547' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198547@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198432' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198432">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Bethel Sekundarstufe I
+					Ersatzschule der v. Bodelschwinghschen
+						
+					Stiftungen Bethel<br/>
+						
+					<br/>33617&nbsp;Bielefeld<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198432' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198432@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198432' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198432@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100047' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#100047">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Gellershagen
+					Städt. Sekundarschule Gellershagen
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>33613&nbsp;Bielefeld<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100047' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100047@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100047' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100047@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100046' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#100046">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Königsbrügge
+					Städt. Sekundarschule Bielefeld
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>33604&nbsp;Bielefeld<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100046' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100046@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100046' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100046@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199047' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199047">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Blomberg
+					- Sekundarstufe I -
+						
+					
+					<br/>32825&nbsp;Blomberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199047' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199047@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199047' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199047@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197105' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197105">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Nelson-Mandela-Schule
+					Sekundarschule
+						
+					
+					<br/>44892&nbsp;Bochum<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197105' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197105@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197105' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197105@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197117' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197117">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Rupert-Neudeck-Schule
+					Sekundarschule
+						
+					
+					<br/>44879&nbsp;Bochum<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197117' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197117@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197117' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197117@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196873' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196873">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Schule an der Altenau
+					Sekundarschule der Gemeinde Borchen
+						
+					Sekundarstufe I<br/>
+						
+					<br/>33178&nbsp;Borchen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196873' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196873@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196873' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196873@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199590' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199590">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Kirchhellen
+					- Sekundarstufe I -
+						
+					
+					<br/>46244&nbsp;Bottrop<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199590' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199590@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199590' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199590@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196903' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196903">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					St. Jacobus Schule
+					Evangelische Sekundarschule Breckerfeld
+						
+					-Sek.I- der Evang. Kirche von Westfalen<br/>
+						
+					<br/>58339&nbsp;Breckerfeld<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196903' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196903@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196903' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196903@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198778' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198778">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Heinrich-Lübke-Schule
+					Sekundarschule der Stadt Brilon
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>59929&nbsp;Brilon<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198778' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198778@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198778' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198778@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199795' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#199795">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Gemeinschaftliche Sekundarschule
+					Burbach-Neunkirchen
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>57299&nbsp;Burbach<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199795' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199795@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199795' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199795@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198365' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198365">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule-Süd
+					- Sekundarstufe I -
+						
+					
+					<br/>44575&nbsp;Castrop-Rauxel<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198365' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198365@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198365' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198365@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196897' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196897">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Friedrich-Althoff-Schule
+					Städtische Sekundarschule Dinslaken
+						
+					Schule der Sekundarstufe I<br/>
+						
+					<br/>46537&nbsp;Dinslaken<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196897' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196897@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196897' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196897@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199059' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199059">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Dormagen
+					- Sekundarstufe I -
+						
+					
+					<br/>41539&nbsp;Dormagen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199059' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199059@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199059' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199059@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100053' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#100053">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Neue Sekundarschule Dorsten
+					-Sekundarstufe I-
+						
+					
+					<br/>46284&nbsp;Dorsten<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100053' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100053@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100053' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100053@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196990' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196990">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Reinoldi-Sekundarschule
+					der Stadt Dortmund
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>44357&nbsp;Dortmund<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196990' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196990@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196990' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196990@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197178' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197178">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Teamschule Drensteinfurt
+					Sekundarschule der Stadt Drensteinfurt
+						
+					
+					<br/>48317&nbsp;Drensteinfurt<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197178' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197178@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197178' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197178@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199096' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199096">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Justus-von-Liebig-Schule
+					Städtische Sekundarschule
+						
+					Schule der Sekundarstufe I<br/>
+						
+					<br/>47166&nbsp;Duisburg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199096' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199096@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199096' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199096@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199084' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#199084">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Am Biegerpark
+					Städtische Sekundarschule
+						
+					Schule der Sekundarstufe I<br/>
+						
+					<br/>47259&nbsp;Duisburg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199084' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199084@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199084' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199084@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196708' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196708">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Schule an der Sieg
+					Städt. Sekundarschule
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>53783&nbsp;Eitorf<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196708' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196708@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196708' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196708@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197300' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197300">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Gem. Engelskirchen
+					- Sekundarstufe I -
+						
+					
+					<br/>51766&nbsp;Engelskirchen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197300' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197300@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197300' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197300@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198043' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198043">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Ennepetal
+					Sekundarstufe I
+						
+					
+					<br/>58256&nbsp;Ennepetal<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198043' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198043@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198043' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198043@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198780' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198780">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Conrad-von-Ense-Schule
+					-Sekundarstufe I -
+						
+					Sekundarschule der Gemeinde Ense<br/>
+						
+					<br/>59469&nbsp;Ense<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198780' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198780@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198780' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198780@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198389' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198389">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Birger-Forell-Sekundarschule
+					- Schule der Sekundarstufe I -
+						
+					der Evangelischen Kirche von Westfalen<br/>
+						
+					<br/>32339&nbsp;Espelkamp<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198389' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198389@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198389' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198389@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197361' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197361">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Bischöfliche Sekundarschule
+					am Stoppenberg, Tagesheimschule des
+						
+					Bistums Essen  -Sek.I-<br/>
+						
+					<br/>45141&nbsp;Essen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197361' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197361@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197361' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197361@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196850' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196850">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Nordlippe
+					der Gemeinde Extertal
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>32699&nbsp;Extertal<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196850' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196850@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196850' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196850@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198663' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198663">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städt. Sekundarschule Niederrhein
+					- Sekundarstufe I -
+						
+					
+					<br/>47608&nbsp;Geldern<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198663' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198663@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198663' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198663@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197210' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197210">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Hassel
+					Städtische Ganztagsschule
+						
+					der Sekundarstufe I<br/>
+						
+					<br/>45896&nbsp;Gelsenkirchen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197210' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197210@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197210' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197210@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198067' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198067">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Geseke
+					- Schule der Sekundarstufe I -
+						
+					
+					<br/>59590&nbsp;Geseke<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198067' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198067@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198067' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198067@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197804' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197804">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Schule an der Dorenburg
+					Sekundarschule Grefrath
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>47929&nbsp;Grefrath<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197804' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197804@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197804' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197804@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198808' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198808">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Liselotte-Funcke-Schule
+					Sekundarschule der Stadt Hagen
+						
+					Sekundarstufe I<br/>
+						
+					<br/>58095&nbsp;Hagen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198808' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198808@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198808' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198808@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198791' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198791">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Altenhagen
+					- Sekundarstufe I -
+						
+					
+					<br/>58097&nbsp;Hagen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198791' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198791@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198791' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198791@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199412' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#199412">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Humboldtschule
+					Sekundarschule der Stadt Halver
+						
+					
+					<br/>58553&nbsp;Halver<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199412' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199412@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199412' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199412@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199187' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199187">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Heek
+					- Sekundarstufe I -
+						
+					
+					<br/>48619&nbsp;Heek<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199187' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199187@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199187' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199187@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197208' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197208">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Martin-Luther-Schule
+					Sekundarschule der Stadt Herten
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>45701&nbsp;Herten<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197208' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197208@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197208' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197208@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197580' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197580">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Marie-Colinet-Sekundarschule
+					Städt. Schule der Sekundarstufe I
+						
+					
+					<br/>40724&nbsp;Hilden<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197580' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197580@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197580' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197580@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197786' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197786">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule
+					Horn-Bad Meinberg
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>32805&nbsp;Horn-Bad Meinberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197786' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197786@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197786' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197786@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198651' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198651">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Höxter
+					Schule der Sekundarstufe I
+						
+					in der Trägerschaft der Stadt Höxter<br/>
+						
+					<br/>37671&nbsp;Höxter<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198651' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198651@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198651' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198651@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197257' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197257">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Jülich
+					Städtische Sekundarschule
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>52428&nbsp;Jülich<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197257' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197257@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197257' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197257@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100108' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#100108">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Jacobischule
+					Sekundarschule Kalletal
+						
+					
+					<br/>32689&nbsp;Kalletal<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100108' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100108@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100108' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100108@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198468' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198468">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Priv. Sekundarschule Schloss Varenholz
+					-Sek.I- Staatl.gen.Ersatzsch.d.Tr. OWL
+						
+					gemeinnützige Privatschulges. mbH<br/>
+						
+					<br/>32689&nbsp;Kalletal<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198468' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198468@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198468' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198468@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196800' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196800">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Europaschule Kamp-Lintfort
+					Städtische Sekundarschule
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>47475&nbsp;Kamp-Lintfort<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196800' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196800@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196800' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196800@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197245' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197245">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städt. Sekundarschule Kreuzau/Nideggen
+					- Sekundarstufe I -
+						
+					
+					<br/>52372&nbsp;Kreuzau<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197245' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197245@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197245' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197245@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198249' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198249">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Stadt Lage
+					- Sekundarstufe I -
+						
+					
+					<br/>32791&nbsp;Lage<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198249' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198249@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198249' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198249@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100111' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#100111">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Konrad-Zuse-Schule
+					Sekundarschule Langenberg
+						
+					
+					<br/>33449&nbsp;Langenberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100111' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100111@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100111' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100111@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199461' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199461">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Stadt Leichlingen
+					- Sekundarstufe I -
+						
+					
+					<br/>42799&nbsp;Leichlingen (Rheinland)<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199461' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199461@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199461' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199461@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198821' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198821">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Hundem-Lenne
+					der Stadt Lennestadt
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>57368&nbsp;Lennestadt<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198821' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198821@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198821' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198821@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199527' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199527">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Leverkusen
+					- Sekundarstufe I -
+						
+					
+					<br/>51381&nbsp;Leverkusen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199527' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199527@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199527' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199527@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196812' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196812">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Stadtschule Lübbecke
+					Städtische Sekundarschule
+						
+					
+					<br/>32312&nbsp;Lübbecke<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196812' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196812@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196812' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196812@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199620' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199620">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Lüdinghausen
+					- Sekundarstufe I -
+						
+					
+					<br/>59348&nbsp;Lüdinghausen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199620' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199620@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199620' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199620@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198250' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198250">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Johannes-Gigas-Schule
+					Sekundarschule der Stadt Lügde
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>32676&nbsp;Lügde<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198250' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198250@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198250' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198250@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198833' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198833">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Marsberg
+					- Sekundarstufe I -
+						
+					
+					<br/>34431&nbsp;Marsberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198833' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198833@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198833' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198833@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100022' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#100022">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Medebach-Winterberg
+					- Sekundarstufe I -
+						
+					
+					<br/>59964&nbsp;Medebach<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100022' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100022@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100022' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100022@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198080' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198080">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Meinerzhagen
+					Sekundarstufe I
+						
+					
+					<br/>58540&nbsp;Meinerzhagen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198080' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198080@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198080' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198080@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198857' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198857">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Möhnesee-Schule
+					Sekundarschule der Gemeinde Möhnesee
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>59519&nbsp;Möhnesee<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198857' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198857@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198857' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198857@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196782' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196782">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Rosa-Parks-Schule
+					Städtische Sekundarschule
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>40789&nbsp;Monheim am Rhein<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196782' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196782@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196782' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196782@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100107' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#100107">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Leonardo-da-Vinci-Schule
+					Sekundarschule Morsbach
+						
+					
+					<br/>51597&nbsp;Morsbach<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100107' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100107@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100107' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100107@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197166' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197166">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Friedensreich-Hundertwasser-Schule
+					Städtische Sekundarschule
+						
+					
+					<br/>48161&nbsp;Münster<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197166' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197166@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197166' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197166@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197063' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197063">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule
+					Altena/Nachrodt-Wiblingwerde
+						
+					
+					<br/>58769&nbsp;Nachrodt-Wiblingwerde<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197063' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197063@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197063' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197063@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197014' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197014">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Netphen
+					Städt. Sekundarschule
+						
+					
+					<br/>57250&nbsp;Netphen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197014' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197014@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197014' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197014@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199618' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#199618">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Emmy-Noether-Schule
+					Sekundarschule d. Gemeinde Neuenkirchen
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>48485&nbsp;Neuenkirchen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199618' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199618@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199618' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199618@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=100104' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#100104">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Hönnequellschule
+					Sekundarschule Neuenrade
+						
+					Sekundarstufe I<br/>
+						
+					<br/>58809&nbsp;Neuenrade<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=100104' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:100104@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=100104' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:100104@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197970' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197970">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Neuss
+					- Städt. Schule der Sekundarstufe I -
+						
+					
+					<br/>41468&nbsp;Neuss<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197970' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197970@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197970' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197970@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196678' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196678">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Liebfrauenschule
+					Sekundarschule des Bistums Münster
+						
+					staat.anerkannte Ersatzsch. der Sek.I<br/>
+						
+					<br/>48301&nbsp;Nottuln<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196678' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196678@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196678' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196678@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197282' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197282">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Gemeinde Nümbrecht
+					- Sekundarstufe I -
+						
+					
+					<br/>51588&nbsp;Nümbrecht<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197282' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197282@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197282' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197282@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196927' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196927">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Heinz-Sielmann-Schule
+					Sekundarschule der Stadt Oerlinghausen
+						
+					Schule der Sekundarstufe I<br/>
+						
+					<br/>33813&nbsp;Oerlinghausen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196927' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196927@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196927' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196927@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198092' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198092">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Kreisstadt Olpe
+					Sekundarstufe I
+						
+					
+					<br/>57462&nbsp;Olpe<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198092' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198092@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198092' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198092@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197129' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197129">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Olsberg-Bestwig
+					der Stadt Olsberg
+						
+					
+					<br/>59939&nbsp;Olsberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197129' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197129@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197129' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197129@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199965' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#199965">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Josef-Annegarn-Sekundarschule
+					der Gemeinde Ostbevern
+						
+					
+					<br/>48346&nbsp;Ostbevern<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199965' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199965@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199965' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199965@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197233' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197233">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Leonardo-da-Vinci Sekundarschule Overath
+					- Sekundarstufe I -
+						
+					
+					<br/>51491&nbsp;Overath<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197233' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197233@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197233' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197233@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197993' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197993">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Petershagen
+					- Sekundarstufe I -
+						
+					
+					<br/>32469&nbsp;Petershagen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197993' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197993@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197993' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197993@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197932' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197932">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule
+					Preußisch Oldendorf
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>32361&nbsp;Preußisch Oldendorf<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197932' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197932@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197932' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197932@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199898' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#199898">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Radevormwald
+					- Sekundarstufe I -
+						
+					
+					<br/>42477&nbsp;Radevormwald<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199898' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199898@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199898' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199898@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198961' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198961">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Rahden
+					- Sekundarstufe I -
+						
+					
+					<br/>32369&nbsp;Rahden<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198961' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198961@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198961' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198961@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198286' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198286">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Hohe Mark
+					Schule der Sekundarstufe I
+						
+					der Gemeinde Reken<br/>
+						
+					<br/>48734&nbsp;Reken<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198286' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198286@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198286' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198286@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198122' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198122">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Nelson-Mandela-Schule
+					Städt. Sekundarschule Remscheid
+						
+					Schule der Sekundarstufe I.<br/>
+						
+					<br/>42859&nbsp;Remscheid<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198122' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198122@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198122' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198122@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198316' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198316">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Alexander von Humboldt Schule
+					Sekundarschule der Stadt Rheine
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>48432&nbsp;Rheine<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198316' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198316@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198316' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198316@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198304' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198304">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Nelson-Mandela-Schule
+					Sekundarschule der Stadt Rheine
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>48429&nbsp;Rheine<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198304' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198304@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198304' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198304@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198330' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198330">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Paulus van Husen-Schule
+					SK d. Schulzweckverb. Legden-Rosendahl
+						
+					
+					<br/>48720&nbsp;Rosendahl<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198330' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198330@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198330' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198330@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199102' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199102">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Private Sekundarschule Rüthen
+					staatl.gen.Ersatzschule d. Sek.I. d.Tr.
+						
+					Privater Schulträgerverein Rüthen e.V.<br/>
+						
+					<br/>59602&nbsp;Rüthen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199102' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199102@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199102' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199102@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197180' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197180">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Sassenberg
+					der Stadt Sassenberg
+						
+					
+					<br/>48336&nbsp;Sassenberg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197180' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197180@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197180' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197180@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199199' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199199">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Horstmar-Schöppingen
+					- Sekundarstufe I -
+						
+					
+					<br/>48624&nbsp;Schöppingen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199199' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199199@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199199' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199199@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198870' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198870">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Selma-Lagerlöf-Sekundarschule Selm
+					
+					
+					<br/>59379&nbsp;Selm<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198870' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198870@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198870' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198870@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199990' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199990">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Freie Christl. Schule Siegen Kaan-Marien
+					born -Sekundarschule- Ersatzsch.d.Sek.I
+						
+					i.Trägers.d.Christl.Schulver.Siegen e.V.<br/>
+						
+					<br/>57074&nbsp;Siegen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199990' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199990@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199990' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199990@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197701' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197701">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Nordeifel
+					Sekundarstufe I
+						
+					
+					<br/>52152&nbsp;Simmerath<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197701' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197701@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197701' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197701@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199450' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199450">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Soest
+					- Sekundarstufe I -
+						
+					
+					<br/>59494&nbsp;Soest<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199450' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199450@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199450' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199450@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197968' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197968">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Städtische Sekundarschule Central
+					- Sekundarstufe I -
+						
+					
+					<br/>42653&nbsp;Solingen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197968' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197968@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197968' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197968@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198754' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198754">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Stemweder-Berg-Schule
+					Sekundarschule der Gemeinde Stemwede
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>32351&nbsp;Stemwede<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198754' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198754@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198754' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198754@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196770' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#196770">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Straelen/Wachtendonk
+					in Trägersch. des Zweckverb.Sekundarsch.
+						
+					Straelen/Wachtendonk - Sekundarstufe I -<br/>
+						
+					<br/>47638&nbsp;Straelen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196770' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196770@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196770' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196770@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197671' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197671">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Georg-von-Boeselager-Sekundarschule
+					Sekundarstufe I
+						
+					
+					<br/>53913&nbsp;Swisttal<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197671' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197671@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197671' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197671@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197944' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197944">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule an der Marienlinde
+					Städt. Sekundarschule Telgte
+						
+					
+					<br/>48291&nbsp;Telgte<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197944' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197944@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197944' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197944@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198183' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198183">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Abraham-Frank-Sekundarschule
+					Schule der Sekundarstufe I
+						
+					der Stadt Velen<br/>
+						
+					<br/>46342&nbsp;Velen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198183' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198183@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198183' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198183@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198390' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198390">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					CJD Christophorusschule-Sekundarschule
+					- Sekundarstufe I -
+						
+					
+					<br/>33775&nbsp;Versmold<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198390' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198390@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198390' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198390@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=196848' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#196848">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Weser-Sekundarschule der Stadt Vlotho
+					- Sekundarstufe I -
+						
+					
+					<br/>32602&nbsp;Vlotho<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=196848' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:196848@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=196848' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:196848@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198274' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198274">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Vreden
+					Ganztagsschule der Stadt Vreden
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>48691&nbsp;Vreden<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198274' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198274@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198274' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198274@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198195' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#198195">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Wadersloh
+					
+					
+					<br/>59329&nbsp;Wadersloh<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198195' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198195@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198195' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198195@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197828' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197828">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Haaren
+					- Sekundarstufe I -
+						
+					
+					<br/>52525&nbsp;Waldfeucht<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197828' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197828@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197828' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197828@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197609' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197609">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Warburg
+					mit Teilstandort Borgentreich
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>34414&nbsp;Warburg<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197609' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197609@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197609' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197609@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198882' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198882">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Stadt Warstein
+					- Sekundarstufe I -
+						
+					
+					<br/>59581&nbsp;Warstein<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198882' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198882@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198882' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198882@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197038' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197038">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sälzer-Sekundarschule der Stadt Werl
+					
+					
+					<br/>59457&nbsp;Werl<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197038' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197038@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197038' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197038@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=198948' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#198948">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Wermelskirchen
+					- Sekundarstufe I -
+						
+					
+					<br/>42929&nbsp;Wermelskirchen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=198948' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:198948@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=198948' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:198948@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197130' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197130">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Marga-Spiegel-Sekundarschule Werne
+					
+					
+					<br/>59368&nbsp;Werne<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197130' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197130@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197130' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197130@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197026' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197026">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Schule am See
+					Städt. Sekundarschule Wetter (Ruhr)
+						
+					
+					<br/>58300&nbsp;Wetter (Ruhr)<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197026' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197026@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197026' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197026@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197051' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#197051">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule Wickede (Ruhr)
+					- Sekundarschule der Sekundarstufe I -
+						
+					der Gemeinde Wickede (Ruhr)<br/>
+						
+					<br/>58739&nbsp;Wickede (Ruhr)<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197051' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197051@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197051' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197051@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197725' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197725">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Sekundarschule der Stadt Wiehl
+					- Sekundarstufe I -
+						
+					
+					<br/>51674&nbsp;Wiehl<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197725' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197725@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197725' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197725@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=199862' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#199862">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Eggeschule
+					Sekundarschule der Stadt Willebadessen
+						
+					- Sekundarstufe I -<br/>
+						
+					<br/>34439&nbsp;Willebadessen<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=199862' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:199862@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=199862' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:199862@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=197981' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_odd indexKachelSchuleSuchenGroesse" id="#197981">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Sekundarschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Schule am Berg
+					Städtische Sekundarschule
+						
+					-Sekundarstufe I-<br/>
+						
+					<br/>42489&nbsp;Wülfrath<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=197981' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:197981@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=197981' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:197981@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<script>
+		document.getElementById('karte_an').style.display='inline';
+	</script>
+
+
+<div class="indexClear"></div>
+
+</body>
+</html>
+
+<!--  </fieldset> -->
+</body>
+</html>
+

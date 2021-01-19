@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="DC.Subject.Publisher" content="Hessischer Bildungsserver">
+<meta name="DC.Subject.Rights" content="https://djaco.bildung.hessen.de/impress.html">
+
+<title>Hessischer Bildungsserver</title>
+
+<link href="/djaco_media/skin_style/logo/favicon.ico" rel="shortcut icon" sizes="32x32">
+<link href="/djaco_media/skin_style/logo/bs_logo_200x200.png" rel="shortcut icon" sizes="200x200">
+<link href="/djaco_media/skin_style/logo/apple-icon-bs.png" rel="apple-touch-icon">
+
+<link rel="stylesheet" type="text/css" href="/djaco_media/javascript/jquery/css/sunny/jquery-ui.css" />
+<link href="/djaco_media/bootstrap_djaco.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/djaco_media/skin_style/djaco_blau_01.css" />
+<link rel="stylesheet" type="text/css" href="/djaco_media/font/icomoon/style.css" />
+
+<script type="text/javascript" src="/djaco_media/javascript/jquery/jquery_djaco.js"></script>
+
+<script src="/djaco_media/bootstrap_3/bootstrap/js/bootstrap.js"></script>
+<link href="/djaco_media/bootstrap-dialog/bootstrap-dialog.css" rel="stylesheet" type="text/css">
+<script src="/djaco_media/bootstrap-dialog/bootstrap-dialog.js"></script>
+<script>
+    
+    var bootstrapTooltip = $.fn.tooltip.noConflict();
+    $.fn.bootstrapTTip = bootstrapTooltip;
+    
+    var bootstrapButton = $.fn.button.noConflict();
+    
+    $.fn.bootstrapBtn = bootstrapButton 
+</script>
+
+
+
+
+
+
+
+    
+    <style>
+body {
+
+
+    background: -webkit-linear-gradient(top, rgba(211,211,211,1), rgba(245,245,245,1));
+    background: linear-gradient(to top, rgba(245,245,245,1), rgba(211,211,211,1));
+
+
+
+    background-attachment: fixed;
+}
+
+
+.aside-info h1, .aside-info h2, .aside-info h3, .aside-info h4, .aside-info h5, .aside-info h6 {
+	background: #bcbbe8;
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, rgba(245,245,245,1)), color-stop(1, rgba(211,211,211,1)));
+	background: -ms-linear-gradient(bottom, rgba(211,211,211,1), rgba(245,245,245,1));
+	background: -moz-linear-gradient(center bottom, rgba(211,211,211,1) 0%, rgba(245,245,245,1) 100%);
+	background: -o-linear-gradient(rgba(211,211,211,1), rgba(245,245,245,1));
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(245,245,245,1)', endColorstr='rgba(211,211,211,1)', GradientType=0);
+	color: rgba(255,255,255,1);
+}
+
+.nav > li.active > a, .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+	background: #bcbbe8;
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, rgba(245,245,245,1)), color-stop(1, rgba(211,211,211,1)));
+	background: -ms-linear-gradient(bottom, rgba(211,211,211,1), rgba(245,245,245,1));
+	background: -moz-linear-gradient(center bottom, rgba(211,211,211,1) 0%, rgba(245,245,245,1) 100%);
+	background: -o-linear-gradient(rgba(211,211,211,1), rgba(245,245,245,1));
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(245,245,245,1)', endColorstr='rgba(211,211,211,1)', GradientType=0);
+    opacity: 1;
+	color: white;
+	border-color: #1d1d54;
+}
+.nav > li > a:hover {
+	background-color: rgba(211,211,211,1);
+	color: #fffacd;
+	text-shadow: none;
+	outline: 0;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+	-moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+}
+
+
+
+.header h1, .header h2, .header h3, .header h4, .header h5, .header h6 {
+
+    color: rgba(255,255,255,1);
+
+}
+.right_bottom_space {
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+</style>
+
+</head>
+<body>
+<div class="container hidden-print">
+    <header>
+        
+
+    <div class="hidden-xs hidden-print">
+        <div class="visible-lg">
+            <div class="col col-lg-2" style="padding-bottom: 1em">
+                <a href="https://djaco.bildung.hessen.de" class="no-highlight"><img
+                        src="/djaco_media/skin_style/logo/bs_logo_80x80.png"
+                        width="80" height="80" alt=""
+                        class="light bordered-null"/></a>
+            </div>
+        </div>
+        <div class="visible-md">
+            <div class="col col-md-2" style="padding-bottom: 1em">
+                <a href="https://djaco.bildung.hessen.de" class="no-highlight"><img
+                        src="/djaco_media/skin_style/logo/bs_logo_64x64.png"
+                        width="64" height="64" alt=""
+                        class="light bordered-null"/></a>
+            </div>
+        </div>
+        <div class="visible-sm">
+            <div class="col col-sm-2" style="padding-bottom: 1em">
+                <a href="https://djaco.bildung.hessen.de" class="no-highlight"><img
+                        src="/djaco_media/skin_style/logo/bs_logo_64x64.png"
+                        width="64" height="64" alt=""
+                        class="light bordered-null"/></a>
+            </div>
+        </div>
+
+        <div class="container">
+            
+                <div class="col col-sm-10 col-md-10 col-lg-10">
+                    <nav>
+                        <div class="navbar light">
+                            <div>
+                                <ul class="nav nav-pills">
+                                                    <li>
+                    <a id="unterricht" href="https://lernarchiv.bildung.hessen.de/index.html">Unterricht</a>
+                </li>
+                <li class="visible-md">
+                    <a id="lehrerbildung_tablet" href="https://lb.bildung.hessen.de/index.html">Lehrer</a>
+                </li>
+                <li>
+                    <a id="lehrerbildung" href="https://lehrerbildung.bildung.hessen.de/index.html">Lehrerbildung</a>
+                </li>
+                <li>
+                    <a id="medienbildung" href="https://medien.bildung.hessen.de/index.html">Medienbildung</a>
+                </li>
+                <li>
+                    <a id="schule" href="https://djaco.bildung.hessen.de/schule/index.html">Schule</a>
+                </li>
+                <li>
+                    <a id="region" href="https://region.bildung.hessen.de/index.html">Region</a>
+                </li>
+                <li>
+                    <a id="plattform" href="https://arbeitsplattform.bildung.hessen.de/index.html">Arbeitsplattform</a>
+                </li>
+                <li>
+                    <a id="mehr" href="https://dms-portal.bildung.hessen.de/mehr/index.html">Mehr ...</a>
+                </li>
+                <li class="dropdown">
+                    <a id="more" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="icon icon-menu-3"></span> <b class="caret"></b></a>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                        <li role="menuitem"><a href="http://www.hessen.de/" title="Landesportal" target="_extern">Hessen</a></li> <li role="menuitem"><a href="http://www.kultusministerium.hessen.de/" title="Hessisches Kultusministerium" target="_extern">HKM</a></li> <li role="menuitem"><a href="http://la.hessen.de/" title="Hessisches Lehrkräfteakademie" target="_extern">LA</a></li>
+                        <li class="divider"></li>
+                        <li>
+                            <a role="menuitem" id="einfuehrung" href="https://dms-portal.bildung.hessen.de/einfuehrung/index.html">Einführung</a>
+                        </li>
+                        <li>
+                            <a role="menuitem" id="wir_ueber_uns" href="https://dms-portal.bildung.hessen.de/wir_ueber_uns/index.html">Wir über uns</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a id="hilfe" href="https://hilfe.bildung.hessen.de/index.html"><span class="icon icon-question-3"></span></a>
+                </li>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        show_menu_main_active('start');
+    }); 
+</script>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            
+            <div class="col col-sm-8 col-md-8 col-lg-8">
+                <div class="header">
+                    <div>
+                        
+                            <h4 style="margin-top: -0.5em"> Hessischer Bildungsserver
+                                
+                                    <span style="opacity: 0.9">/ Schul-Datenbank</span>
+                            </h4>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col col-sm-2 col-md-2 col-lg-2">
+<span class="visible-lg">
+<div style="margin-top: -1em; margin-left: 0; margin-right: 0">
+
+    <div>
+  <form name="l_input" method="get" action="index.html/searchelastic_domain/" class="form-no-margin">
+    <input name="search_path" value="schul-db.bildung.hessen.de" type="hidden" />
+    
+    <input type="search" class="search form-control" id="id_query" name="query" value="" placeholder="Suche ..." />
+  </form>
+</div>
+    
+
+</div> </span>
+                <span class="hidden-lg">
+<div style="margin-top: -1.6em; margin-left: 0; margin-right: 0">
+<div>
+  <form name="l_input" method="get" action="index.html/searchelastic_domain/" class="form-no-margin">
+    <input name="search_path" value="schul-db.bildung.hessen.de" type="hidden" />
+    
+    <input type="search" class="search form-control" id="id_query" name="query" value="" placeholder="Suche ..." />
+  </form>
+</div>
+
+</div> </span>
+            </div>
+        </div>
+        <div class="col col-sm-12 col-md-12 col-lg-12">
+            <ul class="breadcrumb well" style="padding-top: 5px; padding-bottom: 5px">
+                <li>
+    <a href="https://dms.bildung.hessen.de/index.html" title="Willkommen beim Bildungsserver Hessen" ><span class="icon-location"></span> bildungsserver</a>
+</li><li>
+    <a href="https://schul-db.bildung.hessen.de/index.html" title="Datenbank hessischer Schulen" class="active" >schul-datenbank</a>
+</li> <span class="pull-right"><a href="https://login.bildung.hessen.de?skin=sp&i=-1&url=aHR0cHM6Ly9pZC5iaWxkdW5nLmhlc3Nlbi5kZS9sb2dpbi8/bmV4dD1odHRwczovL3NjaHVsLWRiLmJpbGR1bmcuaGVzc2VuLmRlL3NjaHVsX2RiLmh0bWwmb3JnX2lkPTA=">Login</a></span>
+            </ul>
+        </div>
+    </div>
+
+    <div class="visible-xs-block hidden-print">
+        <div class="container">
+            <div class="col col-xs-9 compact">
+                <a href="https://djaco.bildung.hessen.de" class="no-highlight"><img
+                        src="/djaco_media/skin_style/logo/bs_logo_40x40.png"
+                        width="40" height="40" alt=""
+                        style="float: left; margin-top: 0"
+                        class="light"/></a>
+
+                <div class="header">
+                    <h5 style="margin-left: 5em; margin-bottom:1.0em; margin-top:1.4em;">Hessischer Bildungsserver <span
+                            style="opacity: 0.9"> / Schul-Datenbank</span></h5>
+                </div>
+            </div>
+            
+                <div class="col col-xs-3 compact">
+                    <nav>
+                        <div class="navbar light">
+                            <div>
+                                <ul class="nav nav-pills">
+                                    <style>
+    .dropdown-toggle:hover .dropdown-menu {
+        display: block;
+    }
+</style>
+
+                    <li class="dropdown">
+                        <a id="start" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon icon-books" style="font-size: 130%"></span> <b class="caret"></b></a>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                            <li>
+                                <a role="menuitem" id="unterricht" href="https://lernarchiv.bildung.hessen.de/index.html">Unterricht</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="lehrerbildung_tablet" href="https://lehrerbildung.bildung.hessen.de/index.html">Lehrerbildung</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="medienbildung_tablet" href="https://medien.bildung.hessen.de/index.html">Medienbildung</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="schule" href="https://djaco.bildung.hessen.de/schule/index.html">Schule</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="region" href="https://region.bildung.hessen.de/index.html">Bildungsregion</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="plattform" href="https://arbeitsplattform.bildung.hessen.de/index.html">Arbeitsplattform</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="mehr" href="https://dms-portal.bildung.hessen.de/mehr/index.html">Mehr ...</a>
+                            </li>
+                            <div class="hidden-lg">
+                            <li role="menuitem"><a href="http://www.hessen.de/" title="Landesportal" target="_extern">Hessen</a></li> <li role="menuitem"><a href="http://www.kultusministerium.hessen.de/" title="Hessisches Kultusministerium" target="_extern">HKM</a></li> <li role="menuitem"><a href="http://la.hessen.de/" title="Hessisches Lehrkräfteakademie" target="_extern">LA</a></li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a role="menuitem" id="einfuehrung" href="https://dms-portal.bildung.hessen.de/einfuehrung/index.html">Einführung</a>
+                                </li>
+                                <li>
+                                    <a role="menuitem" id="wir_ueber_uns" href="https://dms-portal.bildung.hessen.de/wir_ueber_uns/index.html">Wir über uns</a>
+                                </li>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="dropdown visible-lg">
+                        <a id="more" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="icon icon-menu-3"></span> <b class="caret"></b></a>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                            <li role="menuitem"><a href="http://www.hessen.de/" title="Landesportal" target="_extern">Hessen</a></li> <li role="menuitem"><a href="http://www.kultusministerium.hessen.de/" title="Hessisches Kultusministerium" target="_extern">HKM</a></li> <li role="menuitem"><a href="http://la.hessen.de/" title="Hessisches Lehrkräfteakademie" target="_extern">LA</a></li>
+                            <li class="divider"></li>
+                            <li>
+                                <a role="menuitem" id="einfuehrung" href="https://dms-portal.bildung.hessen.de/einfuehrung/index.html">Einführung</a>
+                            </li>
+                            <li>
+                                <a role="menuitem" id="wir_ueber_uns" href="https://dms-portal.bildung.hessen.de/wir_ueber_uns/index.html">Wir über uns</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a id="hilfe" href="https://hilfe.bildung.hessen.de/index.html"><span class="icon icon-question-3"></span></a>
+                    </li>
+
+<script type="text/javascript">//(function(e,d,b){var a=0;var f=null;var c={x:0,y:0};e("[data-toggle]").closest("li").on("mouseenter",function(g){if(f){f.removeClass("open")}d.clearTimeout(a);f=e(this);a=d.setTimeout(function(){f.addClass("open")},b)}).on("mousemove",function(g){if(Math.abs(c.x-g.ScreenX)>4||Math.abs(c.y-g.ScreenY)>4){c.x=g.ScreenX;c.y=g.ScreenY;return}if(f.hasClass("open")){return}d.clearTimeout(a);a=d.setTimeout(function(){f.addClass("open")},b)}).on("mouseleave",function(g){d.clearTimeout(a);f=e(this);a=d.setTimeout(function(){f.removeClass("open")},b)})})(jQuery,window,200);</script>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            
+        </div>
+        <div class="col col-xs-9 compact">
+            <ul class="breadcrumb compact well">
+                <li>
+    <a href="https://dms.bildung.hessen.de/index.html" title="Willkommen beim Bildungsserver Hessen" ><span class="icon-location"></span> bildungsserver</a>
+</li><li>
+    <a href="https://schul-db.bildung.hessen.de/index.html" title="Datenbank hessischer Schulen" class="active" >schul-datenbank</a>
+</li>
+            </ul>
+        </div>
+        <div class="col col-xs-3 compact">
+            <div style="margin-top: -0.0em">
+                <div>
+  <form name="l_input" method="get" action="index.html/searchelastic_domain/" class="form-no-margin">
+    <input name="search_path" value="schul-db.bildung.hessen.de" type="hidden" />
+    
+    <input type="search" class="search form-control" id="id_query" name="query" value="" placeholder="Suche ..." />
+  </form>
+</div>
+            </div>
+        </div>
+    </div>
+
+
+
+    </header>
+</div>
+
+<div class="container">
+    <main>
+        <div class="col col-xs-12 col-sm-10 col-md-10 col-lg-10 xs-compact">
+            <div id="content_main" class="well compacter xs-compact">
+                
+                
+
+
+
+    
+
+        
+            <h3 style="display: inline">Hermann-Lietz-Schule Schloss Hohenwehrda
+                 </h3>
+        
+        
+            <span class="grey"> &nbsp;&nbsp;&nbsp;&nbsp;<span title="Bewertung dieser Seite durch Community-Mitglieder"><span class="icon-arrow-down-left-5"></span> 0 | 0 | 4 <span class="icon-arrow-up-right-5"></span></span> </span>
+        
+
+        
+
+        <p style="display: block"></p>
+        
+        
+        
+    
+
+
+
+
+
+
+
+
+<h4>Anschrift / Kontakt</h4>
+
+
+
+
+<pre>
+Hermann-Lietz-Schule Schloss Hohenwehrda
+Schloss Hohenwehrda
+36166 Haunetal
+Tel: <a href="tel:+49 (6673) 9299 0">+49 (6673) 9299 0</a>
+Fax: +49 (6673) 9299 40
+E-Mail: <a href="mailto:poststelle@hermann-lietz.hohenwehrda.schulverwaltung.hessen.de">poststelle@hermann-lietz.hohenwehrda.schulverwaltung.hessen.de</a>
+
+
+
+
+
+</pre>
+
+
+
+ <h4 class="headline-bg">Kartenausschnitt</h4>
+
+
+
+<p><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-1.001,-1.0012,-0.999,-0.9988&marker=-1.0,-1.0&layer=mapnik" width="400" height="250"></iframe><br /><small><a href="http://www.openstreetmap.org/?mlat=-1.0&mlon=-1.0&zoom=13" target="_extern" title="Neues Fenster">Größere Karte</a></small></p>
+
+<!--
+    
+-->
+
+
+<h4 class="headline-bg">Basisdaten der Schule</h4>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Schultyp</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        Gymnasium mit gymnasialer Oberstufe
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Schulformangebote</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        <ul>
+            
+            <li>
+                Förderstufe
+            </li>
+            
+            <li>
+                Gymnasium/zweig G9 (Sek. I)
+            </li>
+            
+            <li>
+                Realschule/zweig
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Besondere Einrichtungen</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        <ul>
+            
+            <li>
+                Ganztagsschule Profil 3
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Voraussetzungen</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        <ul>
+            
+            <li>
+                Koedukativ
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Dienststellennummer</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        8658
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Rechtsstellung</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        Private Ersatzschule
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Schulamt</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        SSA für den Lk. Fulda
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-md-3 col-lg-3">
+        <b>Schultraeger</b>
+    </div>
+    <div class="col-md-9 col-lg-9">
+        Sonstiger Schulträger (Privatschulen)
+    </div>
+</div>
+
+
+
+
+
+
+<p align="right">
+    <a href="https://schul-db.bildung.hessen.de/schul_db.html/details/?school_no=8658&amp;edit_details=1" class="no-highlight">
+    <button class="manage-button" title="Schuldaten ändern">
+        <span
+        class="icon icon-pencil-2"</span>
+    </button>
+    <br />
+    Schuldaten ändern</a>
+</p>
+
+
+
+
+
+
+                
+            </div>
+        </div>
+    </main>
+
+    <aside>
+        <div class="col col-xs-12 col-sm-2 col-md-2 col-lg-2 hidden-print xs-compact">
+            
+
+
+
+
+            
+
+
+
+
+<div class="hidden-xs hidden-sm">
+    
+    
+    
+        <div class="well compacter">
+            <div class="aside-info" style="padding-bottom: .25em">
+                <div class="btn-group btn-block">
+                    <h6>Aktionen</h6>
+                </div>
+                <div style="padding:0.25em;"></div>
+                <button type="button" class="action-button" data-toggle="collapse" data-target="#div-jump-collapse" title="Tags/Schlüsselwörter"><span
+	class="icon icon-tags-3"></span></button><a href="https://id.bildung.hessen.de/login/?next=https://schul-db.bildung.hessen.de/schul_db.html&amp;org_id=0" class="no-highlight" aria-label="Einloggen"><button class="user-button" title="Einloggen"><span
+	class="icon icon-enter"></span></button></a>
+                
+                    <div id="div-jump-collapse" class="collapse">
+                        <div style="padding:0.3em;"></div>
+                        <p>
+                            <b>Verwandte Seiten:</b>
+                        </p>
+                        
+                            <p style="margin-bottom: .2em; margin-left: 0.2em">
+
+                                <a href="https://schul-db.bildung.hessen.de/schul_db.html/show_info_for_tag/?tag=schuldatenbank&info=Schuldatenbank"
+                                   class="btn btn-info">Schuldatenbank</a>
+                            </p>
+                        
+                            <p style="margin-bottom: .2em; margin-left: 0.2em">
+
+                                <a href="https://schul-db.bildung.hessen.de/schul_db.html/show_info_for_tag/?tag=such&info=Such"
+                                   class="btn btn-info">Such</a>
+                            </p>
+                        
+                    </div>
+                
+            </div>
+
+        </div>
+    
+    
+</div>
+<div class="hidden-md hidden-lg">
+    <nav>
+        <div class="navbar light" style="margin-bottom: -2em">
+            <div>
+                <ul class="nav nav-pills">
+                    
+                    
+                        <li class="dropdown">
+                            <a id="community_list" href="#" role="button" class="dropdown-toggle"
+                               data-toggle="dropdown">Aktionen <b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                                <li><a data-toggle="collapse" data-target="#div-jump-collapse"><span
+	class="icon icon-tags-3"></span> Verwandte Seiten</a></li><li><a href="https://id.bildung.hessen.de/login/?next=https://schul-db.bildung.hessen.de/schul_db.html&amp;org_id=0"  aria-label="Einloggen"><span class="icon icon-enter" title="Einloggen"></span></a></li>
+                            </ul>
+                        </li>
+                    
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+
+
+
+
+            <br/>
+        </div>
+    </aside>
+</div>
+
+<div class="container hidden-print">
+    <footer>
+        <div class="col col-sm-12 col-md-12 col-lg-12 xs-compact" style="padding-top: 1em">
+            
+
+
+<div class="well compacter hidden-xs">
+    <div style="float:left;">
+        
+                <a href="https://djaco.bildung.hessen.de/impress.html">Impressum</a>&nbsp;<a href="https://djaco.bildung.hessen.de/datenschutz.html">Datenschutz</a> <a href="https://djaco.bildung.hessen.de/disclaimer.html">Haftungsausschluss</a>
+    </div>
+    <div style="text-align:right;">
+        <script type="text/javascript">eval(unescape('%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%27%3C%61%20%20%63%6C%61%73%73%3D%22%6E%61%76%2D%6C%69%6E%6B%22%20%68%72%65%66%3D%22%6D%61%69%6C%74%6F%3A%6C%65%69%74%75%6E%67%40%62%69%6C%64%75%6E%67%2E%68%65%73%73%65%6E%2E%64%65%22%20%3E%42%69%6C%64%75%6E%67%73%73%65%72%76%65%72%20%48%65%73%73%65%6E%3C%2F%61%3E%27%29'))</script> | 20.2.2019
+        
+        <br/>
+    </div>
+</div>
+<div class="visible-xs-block">
+    <div class="well col col-xs-12 compacter">
+        <div style="float:left;">
+            
+                    <a href="https://djaco.bildung.hessen.de/impress.html">Impressum</a>&nbsp;<a href="https://djaco.bildung.hessen.de/datenschutz.html">Datenschutz</a> <a href="https://djaco.bildung.hessen.de/disclaimer.html">Haftungsausschluss</a>
+        </div>
+        <div style="text-align:right;">
+            <script type="text/javascript">eval(unescape('%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%27%3C%61%20%20%63%6C%61%73%73%3D%22%6E%61%76%2D%6C%69%6E%6B%22%20%68%72%65%66%3D%22%6D%61%69%6C%74%6F%3A%6C%65%69%74%75%6E%67%40%62%69%6C%64%75%6E%67%2E%68%65%73%73%65%6E%2E%64%65%22%20%3E%42%69%6C%64%75%6E%67%73%73%65%72%76%65%72%20%48%65%73%73%65%6E%3C%2F%61%3E%27%29'))</script> | 20.2.2019
+            
+            <br/>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </footer>
+</div>
+
+
+<!--[if lt IE 9]>
+<script src="/djaco_media/javascript/respond/html5shiv.js"></script>
+<script src="/djaco_media/javascript/respond/respond.min.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<script type="text/javascript" src="/djaco_media/javascript/html5_elements.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/djaco_media/skin_style/exercisefolder/select/patch_select.css" />
+<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

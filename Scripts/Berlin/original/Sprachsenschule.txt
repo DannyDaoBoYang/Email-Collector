@@ -1,0 +1,1029 @@
+
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+<!-- TITLE ersetzen --><title>Schulverzeichnis</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1484664807"/>
+<!-- theme switch begin -->
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1484664807"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1484664807"/>
+    <link rel="shortcut icon" href="//www.berlin.de/i9f/images/favicon.ico" type="image/x-icon"/>
+    <link rel="apple-touch-icon" href="//www.berlin.de/i9f/images/iphone.png" type="image/png"/>
+<!-- theme switch end -->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie7.css?ts=1484664807" />
+<![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie8.css?ts=1484664807" />
+<![endif]-->
+<!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie9.css?ts=1484664807" />
+<![endif]-->
+
+    <!-- "property" validiert nicht, nimm "name" -->
+    <meta name="og:image" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png"/>
+    <meta name="og:image:secure_url" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png"/>
+    <script type="text/javascript" src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1484664807"></script>
+
+
+
+<!--
+  layout: std
+  created on: Wed, 18 Jan 2017 13:40:39 +0100
+-->
+
+
+
+</head>
+<body class="locale_de">
+
+
+                <div class="container-wrapper container-portal-header">
+<!-- Werbung -->
+<div class="skyscraper hidden-phone">
+<!-- werbe einheit: beberlin -->
+</div>
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                                                    
+                <!-- NAVIGATION BEGIN: portal -->
+
+                <div class="html5-header portal-header hidden-phone">
+                    <div class="red-line"></div>
+                    <div class="html5-figure main-image">
+                        <a href="https://www.berlin.de/">
+                            <img class="portal-logo hide-mobile" src="//www.berlin.de/i9f/images/berlin_de.png" alt="Zur Homepage von Berlin.de" />
+                        </a>
+                    </div><!-- /html5-figure -->
+
+                    <p class="navSkip hidden-phone osvnp">Navigiere direkt zu:</p>
+                    <ul class="navSkip hidden-phone">
+                        <li><a href="#aural_institutionssuche">Suche</a></li>
+                        <li><a href="#aural_maincontent">Inhalt</a></li>
+                    </ul>
+
+                    <nav aria-label="Portal Navigation">
+                        <h6 class="aural">Portal Navigation</h6>
+                        <p class="aural" id="bo-portalnavilinkslabel">Besuchen Sie auch unsere anderen Themen-Bereiche:</p>
+                        <ul class="portal-navi" id="bo-portalnavilinks" aria-labelledby="bo-portalnavilinkslabel">
+                            <li class="active"><a href="https://www.berlin.de/politik-verwaltung-buerger/">Politik, Verwaltung, Bürger</a></li>
+                            <li><a href="https://www.berlin.de/kultur-und-tickets/">Kultur &#38; Ausgehen</a></li>
+                            <li><a href="https://www.berlin.de/tourismus/">Tourismus</a></li>
+                            <li><a href="https://www.berlin.de/wirtschaft/">Wirtschaft</a></li>
+                            <li><a href="https://www.berlin.de/special/">Themen</a></li>
+                            <li><a href="https://www.berlin.de/adressen/">BerlinFinder</a></li>
+                            <li><a href="https://www.berlin.de/stadtplan/">Stadtplan</a></li>
+                        </ul>
+                    </nav><!-- /html5-nav -->
+                </div><!-- /html5-header -->
+                <!-- NAVIGATION END: portal -->
+                                            </div>
+                </div>
+            </div>
+        </div>
+        
+                <div id="top" class="container-wrapper container-content template-land_overview">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+
+                                                <!-- NAVIGATION BEGIN: horizontal-->
+<div class="row">
+    <div class="span12">
+<!--NAVIGATION BEGIN: meta-->
+<div class="html5-header content-header ">
+    <div class="row">
+        <div class="span5">
+            <div class="html5-section section-logo without-logo">
+                                <div class="html5-section text">
+                                        <a href="https://www.berlin.de/sen/bjf/" title="Link zu: Startseite von Senatsverwaltung für Bildung, Jugend und Familie"><span class="institution">Senatsverwaltung für</span>
+                <span class="title">Bildung, Jugend und Familie</span></a>                </div>
+            </div>
+        </div>
+
+        <div class="span7">
+                            <div class="html5-nav meta-navi">
+                    <ul class="nav">
+                        <li class="odd pos0"><a href="https://www.berlin.de/sen/bjf/a-bis-z/index.php" >A bis Z</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" >Impressum</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bjf/service/newsletter/index.php" >Newsletter</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bjf/service/presse/index.php" >Presse</a></li><li class="odd pos4"><a href="https://www.facebook.com/senbjw" class="social_media icon_facebook extern" target="_blank" title="auf Facebook folgen (Öffnet in neuem Fenster)">https://www.facebook.com/senbjw</a></li>                    </ul>
+                </div>
+                                        <!--META BEGIN: SEARCH-->
+                <div class="html5-section search navbar">
+                    <div class="navbar-inner">
+                        <div class="nav-collapse search-collapse collapse">
+                            <form class="institutionssuche" method="get" action="https://www.berlin.de/sen/bildung/suche.php">
+    <div class="control-group searchform " role="search">
+        <label class="aural" id="aural_institutionssuche">
+            Suche auf der Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie':        </label>
+        <input type="search" placeholder="Suchbegriff"
+            name="q" aria-labelledby="aural_institutionssuche"
+            maxlength="255"
+            title="Hier können Sie einen Text eingeben, um die Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie' zu durchsuchen"
+        />
+        <button class="btn global-search-submit" type="submit">
+            <span class="hidden-phone">Suchen</span>
+        </button>
+    </div>
+</form>
+                        </div>
+                    </div>
+                </div>
+                <!--META END: SEARCH-->
+                    </div>
+    </div>
+</div>
+<!-- NAVIGATION END: meta-->
+    </div>
+</div>
+<div class="row">
+    <div class="span12">
+        <span class="mobile-blue-line hidden-desktop hidden-tablet"></span>
+        <div class="content-navi-wrapper navbar hidden-phone">
+            <div class="html5-nav content-navi-top navbar-inner smallfontsize">
+                <nav class="nav-collapse mainnav-collapse collapse" aria-label="Hauptnavigation">
+                    <h6 class="aural">Hauptnavigation</h6>
+                    <ul class="nav level1"  >
+                                <li class=" active has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/schule/" >Schule</a>            <ul class="nav"><li class=" active">
+            <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bildungswege/" >Bildungswege</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/" >Prüfungen und Abschlüsse</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/besondere-schulangebote/" >Besondere Schulangebote</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjf/inklusion/" >Inklusion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/foerderung/" >Förderung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/ganztaegiges-lernen/ganztagsschulen/index.php" >Ganztägiges Lernen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/gute-schule/" >Gute Schule</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/rechtsvorschriften/" >Rechts&shy;vorschriften</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/schulentwicklungsplanung/" >Schulentwick&shy;lungsplanung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bauen-und-sanieren/" >Bauen und Sanieren</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bildungsstatistik/" >Bildungs&shy;statistik</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/" >Unterricht</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/faecher-rahmenlehrplaene/" >Fächer / Rahmen&shy;lehrpläne</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/individuelles-lernen/" >Individuelles Lernen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/foerderung/sprachfoerderung/" >Sprachbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/kulturelle-bildung/" >Kulturelle Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/politische-bildung/" >Politische Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/schulqualitaet/" >Schulqualität</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/kooperationen/" >Kooperationen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/wettbewerbe/" >Wettbewerbe</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/medien/" >Medien</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/reisende/" >Reisende</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/" >Schule und Beruf</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/berufliche-bildung/" >Berufliche Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/jugendberufsagentur/" >Jugend&shy;berufsagentur</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/berufs-und-studienorientierung/" >Berufs- und Studien&shy;orientierung</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/" >Fachkräfte</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/lehrerausbildung/" >Lehrer&shy;ausbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/einstellungen/" >Einstellungen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/qualifizierung/" >Qualifizierung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/personalverwaltung/" >Personal&shy;verwaltung</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/" >Unterstützung</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/schulpsychologie/" >Schul&shy;psychologie</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/gewalt-und-notfaelle/" >Gewalt und Notfälle&shy;</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/praevention-in-der-schule/" >Prävention in der Schule</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjf/inklusion/index.php#beratung" >Beratung für Inklusion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/bonus-programm/" >Bonus-Programm</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/verfuegungsfonds/" >Verfügungsfonds</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/jugend/jugend/jugendsozialarbeit/artikel.340995.php" >Schul&shy;sozial&shy;arbeit</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/proschul/" >proSchul</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/schulinspektion/" >Schulinspektion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjw/ueber-uns/adressen/#schulaufsicht" >Schulaufsicht</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/egovernment/" >eGovernment</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/" >Lebenslanges Lernen</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/vhs/" >VHS</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/musikschulen/" >Musikschulen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/zweiter-bildungsweg/" >Zweiter Bildungsweg</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/alphabetisierung-und-grundbildung/" >Alpha&shy;betisierung und Grundbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/fortbildung-fuer-weiterbildner/" >Fortbildung für Weiterbildner</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/lernorte/" >Lernorte</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/index.php" >Politik</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/" >Bildungspolitik</a>                    </li></ul>        </li>
+                                            </ul>
+                                        <div class="beberlin"><img alt="Logo beBerlin" title="beBerlin" src="//www.berlin.de/i9f/v4/css/images/logo_beberlin_darkblue.png" /></div>
+                                    </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--NAVIGATION END: horizontal-->
+
+<!-- content start -->
+<!-- row - span12 -->
+
+
+                        <!-- NAVIGATION BEGIN: breadcrumb -->
+<div class="row row-breadcrumb">
+  <div class="span10">
+
+    <nav class="html5-section breadcrumb" aria-label="Breadcrumb">
+      <p id="aural_breadcrumblabel" class="aural">Sie befinden sich hier:</p>
+      <ul aria-labelledby="aural_breadcrumblabel">
+        <li class="odd pos0"><a href="https://www.berlin.de/sen/bildung/" class="homehaus">Senats&shy;verwaltung Abteilung Bildung</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bildung/schule/" >Schule</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" >Schul&shy;verzeichnis</a></li>        <li class="aural">SCHULVERZEICHNIS</li>
+      </ul>
+    </nav>
+  </div>
+  <div class="span2"></div>
+</div>
+<!-- NAVIGATION END: breadcrumb -->
+
+<div class="row">
+    <div class="span2 column-left">
+        <!-- NAVIGATION BEGIN: vertical -->
+<div class="html5-nav content-navigation-left navbar">
+    <div class="navbar-inner">
+        <nav class="hidden-phone nav-collapse collapse" aria-label="Sekundäre Navigation">
+            <h6 class="aural">Sekundäre Navigation</h6>
+            <ul class="nav level-0">
+                <li class="active"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a>                    <ul class="level-1" ><li class="active">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" >Schul&shy;verzeichnis</a>    </li>
+<li >
+    <a href="https://www.bildung.berlin.de/Umkreissuche/" target="_blank" title=" (Öffnet in neuem Fenster)">Schulen/Kitas in der Nähe</a>    </li>
+<li >
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulwechsel-nach-berlin/" >Schulwechsel nach Berlin</a>    </li>
+</ul>                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<!-- NAVIGATION END: vertical -->
+    </div>
+
+    <div class="span7 column-content">
+        <h6 class="aural" id="aural_maincontent">Inhaltsspalte</h6>
+        <div class="html5-section article" role="main">
+
+<!--anker:allris-->
+
+
+<!-- Hier den Applikations-Content einfügen -->
+<!-- CONTENT -->
+
+
+
+
+
+
+
+    <form method="post" action="./SchulListe.aspx" id="frmSchulListe">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="88BBF1AF" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+         <h1><span id="lblUeberschrift1" class="Ueberschrift">Berliner Schulen</span>
+            &nbsp;</h1>
+        <p>
+            <table cellspacing="0" id="FormViewUeberschrift" style="font-weight:bold;border-collapse:collapse;">
+	<tr>
+		<td colspan="2">
+<span id="FormViewUeberschrift_UeberschriftLabel" style="font-weight:normal;"><b>Suchergebnis</b> (<b>Schulart:</b> Schulpraktisches Seminar )</span> 
+</td>
+	</tr>
+</table>
+            <a id="HLinkStadtplan" title="Liste der Schulen in Kartenansicht" href="SchulVerzKarte.aspx" target="_blank"><img title="Liste der Schulen in Kartenansicht" src="stadtplan.gif" alt="Kartenansicht" /></a><span id="lblAnsicht">Kartenansicht</span><br /><br />
+
+            Sortieren nach:&nbsp;<a id="HLink" href="SchulListe.aspx?Sort=Schulname">SchulName</a>&nbsp;&nbsp;&nbsp;<a id="HLinkBSN" href="SchulListe.aspx?Sort=BSN">SchulNr</a>&nbsp;&nbsp;&nbsp;<a id="HLinkSchulart" href="SchulListe.aspx?Sort=Schulzweig">Schulart</a>&nbsp;&nbsp;&nbsp;<a id="HLinkOrtsteil" href="SchulListe.aspx?Sort=Ortsteil">Ortsteil</a><br /><br />
+            <table id="DataListSchulen" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_0" href="Schulportrait.aspx?IDSchulzweig= 21296" style="font-weight:bold;">04A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_0" style="font-weight:bold;">2. Schulpraktisches Seminar Charlottenburg-Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_0">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_0">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_0">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_1" href="Schulportrait.aspx?IDSchulzweig= 21297" style="font-weight:bold;">04A03</a>&nbsp;<span id="DataListSchulen_lblSchulName_1" style="font-weight:bold;">3. Schulpraktisches Seminar Charlottenburg-Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_1">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_1">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_1">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_2" href="Schulportrait.aspx?IDSchulzweig= 21361" style="font-weight:bold;">07A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_2" style="font-weight:bold;">3. Schulpraktisches Seminar Tempelhof-Schöneberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_2">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_2">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_2">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_3" href="Schulportrait.aspx?IDSchulzweig= 21393" style="font-weight:bold;">02A03</a>&nbsp;<span id="DataListSchulen_lblSchulName_3" style="font-weight:bold;">3. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_3">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_3">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_3">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_4" href="Schulportrait.aspx?IDSchulzweig= 21468" style="font-weight:bold;">09A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_4" style="font-weight:bold;">1. Schulpraktisches Seminar Treptow-Köpenick</span><br />
+                        <span id="DataListSchulen_lblSchulart_4">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_4">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_4">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_5" href="Schulportrait.aspx?IDSchulzweig= 21477" style="font-weight:bold;">09A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_5" style="font-weight:bold;">2. Schulpraktisches Seminar Treptow-Köpenick</span><br />
+                        <span id="DataListSchulen_lblSchulart_5">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_5">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_5">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_6" href="Schulportrait.aspx?IDSchulzweig= 21510" style="font-weight:bold;">04A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_6" style="font-weight:bold;">1. Schulpraktisches Seminar Charlottenburg-Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_6">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_6">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_6">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_7" href="Schulportrait.aspx?IDSchulzweig= 21523" style="font-weight:bold;">06A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_7" style="font-weight:bold;">4. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_7">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_7">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_7">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_8" href="Schulportrait.aspx?IDSchulzweig= 21568" style="font-weight:bold;">07A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_8" style="font-weight:bold;">2. Schulpraktisches Seminar Tempelhof-Schöneberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_8">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_8">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_8">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_9" href="Schulportrait.aspx?IDSchulzweig= 21588" style="font-weight:bold;">02A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_9" style="font-weight:bold;">4. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_9">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_9">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_9">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_10" href="Schulportrait.aspx?IDSchulzweig= 21608" style="font-weight:bold;">02A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_10" style="font-weight:bold;">1. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_10">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_10">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_10">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_11" href="Schulportrait.aspx?IDSchulzweig= 21665" style="font-weight:bold;">12A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_11" style="font-weight:bold;">6. Schulpraktisches Seminar Reinickendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_11">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_11">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_11">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_12" href="Schulportrait.aspx?IDSchulzweig= 21699" style="font-weight:bold;">02A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_12" style="font-weight:bold;">6. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_12">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_12">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_12">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_13" href="Schulportrait.aspx?IDSchulzweig= 21721" style="font-weight:bold;">10A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_13" style="font-weight:bold;">3. Schulpraktisches Seminar Marzahn-Hellersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_13">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_13">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_13">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_14" href="Schulportrait.aspx?IDSchulzweig= 21791" style="font-weight:bold;">01A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_14" style="font-weight:bold;">2. Schulpraktisches Seminar Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_14">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_14">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_14">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_15" href="Schulportrait.aspx?IDSchulzweig= 21792" style="font-weight:bold;">01A03</a>&nbsp;<span id="DataListSchulen_lblSchulName_15" style="font-weight:bold;">6. Schulpraktisches Seminar Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_15">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_15">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_15">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_16" href="Schulportrait.aspx?IDSchulzweig= 21806" style="font-weight:bold;">12A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_16" style="font-weight:bold;">4. Schulpraktisches Seminar Reinickendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_16">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_16">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_16">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_17" href="Schulportrait.aspx?IDSchulzweig= 21817" style="font-weight:bold;">07A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_17" style="font-weight:bold;">1. Schulpraktisches Seminar Tempelhof-Schöneberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_17">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_17">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_17">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_18" href="Schulportrait.aspx?IDSchulzweig= 21818" style="font-weight:bold;">06A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_18" style="font-weight:bold;">1. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_18">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_18">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_18">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_19" href="Schulportrait.aspx?IDSchulzweig= 21855" style="font-weight:bold;">08A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_19" style="font-weight:bold;">2. Schulpraktisches Seminar Neukölln</span><br />
+                        <span id="DataListSchulen_lblSchulart_19">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_19">Gropiusstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_19">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_20" href="Schulportrait.aspx?IDSchulzweig= 21860" style="font-weight:bold;">08A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_20" style="font-weight:bold;">1. Schulpraktisches Seminar Neukölln</span><br />
+                        <span id="DataListSchulen_lblSchulart_20">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_20">Gropiusstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_20">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_21" href="Schulportrait.aspx?IDSchulzweig= 21972" style="font-weight:bold;">09A03</a>&nbsp;<span id="DataListSchulen_lblSchulName_21" style="font-weight:bold;">3. Schulpraktisches Seminar Treptow-Köpenick</span><br />
+                        <span id="DataListSchulen_lblSchulart_21">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_21">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_21">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_22" href="Schulportrait.aspx?IDSchulzweig= 21987" style="font-weight:bold;">05A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_22" style="font-weight:bold;">3. Schulpraktisches Seminar Spandau</span><br />
+                        <span id="DataListSchulen_lblSchulart_22">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_22">Falkenhagener Feld</span>&nbsp;(<span id="DataListSchulen_lblBezirk_22">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_23" href="Schulportrait.aspx?IDSchulzweig= 21990" style="font-weight:bold;">02A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_23" style="font-weight:bold;">2. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_23">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_23">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_23">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_24" href="Schulportrait.aspx?IDSchulzweig= 22029" style="font-weight:bold;">04A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_24" style="font-weight:bold;">4. Schulpraktisches Seminar Charlottenburg-Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_24">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_24">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_24">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_25" href="Schulportrait.aspx?IDSchulzweig= 22125" style="font-weight:bold;">06A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_25" style="font-weight:bold;">5. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_25">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_25">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_25">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_26" href="Schulportrait.aspx?IDSchulzweig= 22195" style="font-weight:bold;">08A05</a>&nbsp;<span id="DataListSchulen_lblSchulName_26" style="font-weight:bold;">4. Schulpraktisches Seminar Neukölln</span><br />
+                        <span id="DataListSchulen_lblSchulart_26">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_26">Gropiusstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_26">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_27" href="Schulportrait.aspx?IDSchulzweig= 22207" style="font-weight:bold;">10A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_27" style="font-weight:bold;">1. Schulpraktisches Seminar Marzahn-Hellersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_27">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_27">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_27">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_28" href="Schulportrait.aspx?IDSchulzweig= 22214" style="font-weight:bold;">06A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_28" style="font-weight:bold;">7. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_28">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_28">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_28">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_29" href="Schulportrait.aspx?IDSchulzweig= 22225" style="font-weight:bold;">11A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_29" style="font-weight:bold;">2. Schulpraktisches Seminar Lichtenberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_29">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_29">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_29">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_30" href="Schulportrait.aspx?IDSchulzweig= 22231" style="font-weight:bold;">11A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_30" style="font-weight:bold;">3. Schulpraktisches Seminar Lichtenberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_30">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_30">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_30">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_31" href="Schulportrait.aspx?IDSchulzweig= 22232" style="font-weight:bold;">12A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_31" style="font-weight:bold;">9. Schulpraktisches Seminar Reinickendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_31">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_31">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_31">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_32" href="Schulportrait.aspx?IDSchulzweig= 22248" style="font-weight:bold;">10A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_32" style="font-weight:bold;">2. Schulpraktisches Seminar Marzahn-Hellersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_32">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_32">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_32">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_33" href="Schulportrait.aspx?IDSchulzweig= 22265" style="font-weight:bold;">02A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_33" style="font-weight:bold;">7. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_33">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_33">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_33">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_34" href="Schulportrait.aspx?IDSchulzweig= 22287" style="font-weight:bold;">08A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_34" style="font-weight:bold;">3. Schulpraktisches Seminar Neukölln</span><br />
+                        <span id="DataListSchulen_lblSchulart_34">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_34">Rudow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_34">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_35" href="Schulportrait.aspx?IDSchulzweig= 22318" style="font-weight:bold;">06A03</a>&nbsp;<span id="DataListSchulen_lblSchulName_35" style="font-weight:bold;">3. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_35">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_35">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_35">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_36" href="Schulportrait.aspx?IDSchulzweig= 22331" style="font-weight:bold;">09A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_36" style="font-weight:bold;">4. Schulpraktisches Seminar Treptow-Köpenick</span><br />
+                        <span id="DataListSchulen_lblSchulart_36">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_36">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_36">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_37" href="Schulportrait.aspx?IDSchulzweig= 22386" style="font-weight:bold;">12A05</a>&nbsp;<span id="DataListSchulen_lblSchulName_37" style="font-weight:bold;">5. Schulpraktisches Seminar Reinickendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_37">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_37">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_37">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_38" href="Schulportrait.aspx?IDSchulzweig= 22423" style="font-weight:bold;">06A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_38" style="font-weight:bold;">6. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_38">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_38">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_38">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_39" href="Schulportrait.aspx?IDSchulzweig= 22448" style="font-weight:bold;">05A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_39" style="font-weight:bold;">1. Schulpraktisches Seminar Spandau</span><br />
+                        <span id="DataListSchulen_lblSchulart_39">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_39">Falkenhagener Feld</span>&nbsp;(<span id="DataListSchulen_lblBezirk_39">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_40" href="Schulportrait.aspx?IDSchulzweig= 22449" style="font-weight:bold;">05A02</a>&nbsp;<span id="DataListSchulen_lblSchulName_40" style="font-weight:bold;">2. Schulpraktisches Seminar Spandau</span><br />
+                        <span id="DataListSchulen_lblSchulart_40">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_40">Falkenhagener Feld</span>&nbsp;(<span id="DataListSchulen_lblBezirk_40">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_41" href="Schulportrait.aspx?IDSchulzweig= 22484" style="font-weight:bold;">04A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_41" style="font-weight:bold;">6. Schulpraktisches Seminar Charlottenburg-Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_41">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_41">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_41">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_42" href="Schulportrait.aspx?IDSchulzweig= 22485" style="font-weight:bold;">12A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_42" style="font-weight:bold;">7. Schulpraktisches Seminar Reinickendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_42">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_42">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_42">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_43" href="Schulportrait.aspx?IDSchulzweig= 22516" style="font-weight:bold;">01A01</a>&nbsp;<span id="DataListSchulen_lblSchulName_43" style="font-weight:bold;">1. Schulpraktisches Seminar Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_43">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_43">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_43">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_44" href="Schulportrait.aspx?IDSchulzweig= 22517" style="font-weight:bold;">02A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_44" style="font-weight:bold;">8. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_44">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_44">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_44">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_45" href="Schulportrait.aspx?IDSchulzweig= 22529" style="font-weight:bold;">10A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_45" style="font-weight:bold;">4. Schulpraktisches Seminar Marzahn-Hellersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_45">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_45">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_45">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_46" href="Schulportrait.aspx?IDSchulzweig= 22530" style="font-weight:bold;">11A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_46" style="font-weight:bold;">1. Schulpraktisches Seminar Lichtenberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_46">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_46">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_46">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_47" href="Schulportrait.aspx?IDSchulzweig= 22541" style="font-weight:bold;">07A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_47" style="font-weight:bold;">4. Schulpraktisches Seminar Tempelhof-Schöneberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_47">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_47">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_47">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_48" href="Schulportrait.aspx?IDSchulzweig= 22545" style="font-weight:bold;">01A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_48" style="font-weight:bold;">4. Schulpraktisches Seminar Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_48">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_48">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_48">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_49" href="Schulportrait.aspx?IDSchulzweig= 22547" style="font-weight:bold;">06A10</a>&nbsp;<span id="DataListSchulen_lblSchulName_49" style="font-weight:bold;">9. Schulpraktisches Seminar Steglitz-Zehlendorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_49">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_49">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_49">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_50" href="Schulportrait.aspx?IDSchulzweig= 22548" style="font-weight:bold;">08A06</a>&nbsp;<span id="DataListSchulen_lblSchulName_50" style="font-weight:bold;">5. Schulpraktisches Seminar Neukölln</span><br />
+                        <span id="DataListSchulen_lblSchulart_50">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_50">Gropiusstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_50">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_51" href="Schulportrait.aspx?IDSchulzweig= 22549" style="font-weight:bold;">11A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_51" style="font-weight:bold;">4. Schulpraktisches Seminar Lichtenberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_51">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_51">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_51">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_52" href="Schulportrait.aspx?IDSchulzweig= 22550" style="font-weight:bold;">12A10</a>&nbsp;<span id="DataListSchulen_lblSchulName_52" style="font-weight:bold;">8. Schulpraktisches Seminar Reinickendorf (für Pankow)</span><br />
+                        <span id="DataListSchulen_lblSchulart_52">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_52">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_52">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_53" href="Schulportrait.aspx?IDSchulzweig= 22566" style="font-weight:bold;">02A10</a>&nbsp;<span id="DataListSchulen_lblSchulName_53" style="font-weight:bold;">9. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_53">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_53">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_53">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_54" href="Schulportrait.aspx?IDSchulzweig= 22567" style="font-weight:bold;">04A11</a>&nbsp;<span id="DataListSchulen_lblSchulName_54" style="font-weight:bold;">5. Schulpraktisches Seminar Charlottenburg-Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_54">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_54">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_54">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_55" href="Schulportrait.aspx?IDSchulzweig= 22568" style="font-weight:bold;">08A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_55" style="font-weight:bold;">6. Schulpraktisches Seminar Neukölln</span><br />
+                        <span id="DataListSchulen_lblSchulart_55">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_55">Gropiusstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_55">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_56" href="Schulportrait.aspx?IDSchulzweig= 22582" style="font-weight:bold;">02A11</a>&nbsp;<span id="DataListSchulen_lblSchulName_56" style="font-weight:bold;">5. Schulpraktisches Seminar Friedrichshain-Kreuzberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_56">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_56">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_56">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_57" href="Schulportrait.aspx?IDSchulzweig= 22585" style="font-weight:bold;">11A12</a>&nbsp;<span id="DataListSchulen_lblSchulName_57" style="font-weight:bold;">7. Schulpraktisches Seminar Lichtenberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_57">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_57">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_57">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_58" href="Schulportrait.aspx?IDSchulzweig= 22595" style="font-weight:bold;">01A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_58" style="font-weight:bold;">7. Schulpraktisches Seminar Mitte (für Reinickendorf)</span><br />
+                        <span id="DataListSchulen_lblSchulart_58">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_58">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_58">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_59" href="Schulportrait.aspx?IDSchulzweig= 22611" style="font-weight:bold;">07A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_59" style="font-weight:bold;">5. Schulpraktisches Seminar Tempelhof-Schöneberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_59">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_59">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_59">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_60" href="Schulportrait.aspx?IDSchulzweig= 22629" style="font-weight:bold;">01A05</a>&nbsp;<span id="DataListSchulen_lblSchulName_60" style="font-weight:bold;">5. Schulpraktisches Seminar Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_60">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_60">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_60">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_61" href="Schulportrait.aspx?IDSchulzweig= 22631" style="font-weight:bold;">10A10</a>&nbsp;<span id="DataListSchulen_lblSchulName_61" style="font-weight:bold;">5. Schulpraktisches Seminar Marzahn-Hellersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_61">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_61">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_61">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_62" href="Schulportrait.aspx?IDSchulzweig= 22632" style="font-weight:bold;">07A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_62" style="font-weight:bold;">6. Schulpraktisches Seminar Tempelhof-Schöneberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_62">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_62">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_62">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_63" href="Schulportrait.aspx?IDSchulzweig= 22677" style="font-weight:bold;">05A05</a>&nbsp;<span id="DataListSchulen_lblSchulName_63" style="font-weight:bold;">4. Schulpraktisches Seminar Spandau</span><br />
+                        <span id="DataListSchulen_lblSchulart_63">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_63">Falkenhagener Feld</span>&nbsp;(<span id="DataListSchulen_lblBezirk_63">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_64" href="Schulportrait.aspx?IDSchulzweig= 22645" style="font-weight:bold;">01A09</a>&nbsp;<span id="DataListSchulen_lblSchulName_64" style="font-weight:bold;">3. Schulpraktisches Seminar Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_64">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_64">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_64">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_65" href="Schulportrait.aspx?IDSchulzweig= 22646" style="font-weight:bold;">01A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_65" style="font-weight:bold;">8. Schulpraktisches Seminar Mitte (für Pankow)</span><br />
+                        <span id="DataListSchulen_lblSchulart_65">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_65">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_65">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_66" href="Schulportrait.aspx?IDSchulzweig= 22647" style="font-weight:bold;">12A04</a>&nbsp;<span id="DataListSchulen_lblSchulName_66" style="font-weight:bold;">1. Schulpraktisches Seminar Reinickendorf (für Pankow)</span><br />
+                        <span id="DataListSchulen_lblSchulart_66">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_66">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_66">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_67" href="Schulportrait.aspx?IDSchulzweig= 22648" style="font-weight:bold;">12A03</a>&nbsp;<span id="DataListSchulen_lblSchulName_67" style="font-weight:bold;">3. Schulpraktisches Seminar Reinickendorf (für Pankow)</span><br />
+                        <span id="DataListSchulen_lblSchulart_67">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_67">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_67">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_68" href="Schulportrait.aspx?IDSchulzweig= 22670" style="font-weight:bold;">01A10</a>&nbsp;<span id="DataListSchulen_lblSchulName_68" style="font-weight:bold;">9. Schulpraktisches Seminar Mitte (für Pankow)</span><br />
+                        <span id="DataListSchulen_lblSchulart_68">Schulpraktisches Seminar</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_68">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_68">Mitte</span>)<br />
+                </td>
+	</tr>
+</table>
+        </p>
+    <a id="HyperLinkNeueAbfrage" href="Index.aspx">Neue Abfrage</a>
+    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <a href="javascript:history.back()">Zurück</a>
+    </div>
+    </form>
+
+        
+            
+
+        </div><!-- /html5-section -->
+
+            </div>
+    
+    <!-- INCLUDE BEGIN: Infocolumn -->
+
+<div class="span3 column-right html5-aside" role="complementary">
+    <h2 class="aural">Es folgen die Inhalte der rechten Seitenspalte</h2>
+    <div class="html5-section content-marginal">
+
+
+            
+<!-- FLEX BEGIN: Contact -->
+<div class="html5-section modul-contact block boxmerge">
+    <div class="html5-header header">
+        <h3 class="title">Senatsverwaltung für Bildung, Jugend und Familie</h3>    </div>
+    <div class="html5-section body">
+                <div class="loc"><span class="icon icon-pin_filled_32 pull-left"></span><a href="https://www.Berlin.de/stadtplan/?ADR_ZIP=10178&#38;ADR_CITY=Berlin&#38;ADR_STREET=Bernhard-Wei%C3%9F-Str.&#38;ADR_HOUSE=6" target="_blank">Bernhard-Weiß-Str. 6<br />10178 Berlin</a></div>                    <dl class="telefon">
+                                                    <dt>Tel.:</dt>
+                    <dd>(030) 90227 - 5050</dd>
+                                            </dl>
+                <ul class="list contact-info">
+                <li class="">
+        <a href="mailto:post@senbjf.berlin.de" >E-Mail</a>          </li>
+                        </ul>
+                            </div>
+</div>
+<!-- FLEX END: Contact -->
+
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild">    <div class="html5-section body">
+                <div class="text textalignleft">
+            <div class="textile">
+  <ul>
+    <li>
+      <a href=
+      "https://www.berlin.de/sen/bjf/service/ihre-ansprechpartner/index.php">
+      Ihre Ansprechpartner</a>
+    </li>
+  </ul>
+  <p>
+    <a href=
+    "/sen/bjf/ueber-uns/audit-berufundfamilie/artikel.501812.php"><img alt="Beruf und Familie"
+    class="misc-icon" src=
+    "https://www.berlin.de/i9f/v4/css/images/misc/audit.svg" title=
+    "Beruf und Familie" /></a>
+  </p>
+</div>        </div>
+               </div>
+</div>
+<!--FLEX END: Text/Bild-->
+
+    </div>
+</div>
+
+<!-- INCLUDE END: Infocolumn -->
+</div>
+
+<!--    container-wrapper + container + row + span12 -->
+
+                                                <div class="row">
+                            <div class="span12">
+                                <div class="html5-footer content-footer" role="contentinfo">
+                                                                        <!-- NAVIGATION BEGIN: footer -->
+
+    <div class="html5-nav">
+        <ul class="nav">
+            <li><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" class="ic-fa-impressum">Impressum</a></li>
+            <li><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" class="ic-fa-info">Geschlechtergerechte Sprache</a></li>
+            <li><a href="https://www.berlin.de/sen/bjf/service/ihre-ansprechpartner/index.php" class="ic-fa-mail">Ansprechpartner</a></li>
+            <li class="right"><a class="ic-fa-print" href="javascript:window.print();">Druckversion</a></li>
+            <li class="right"><a class="ic-fa-totop" href="#top">zum Seitenanfang</a></li>
+        </ul>
+    </div>
+
+<!-- NAVIGATION END: footer -->
+                                                                        <div class="section_splitter hidden-desktop hidden-tablet"></div>
+                                    <div class="html5-nav meta-navi hidden-desktop hidden-tablet">
+                                        <ul class="nav">
+                                            <li class="odd pos0"><a href="https://www.berlin.de/sen/bjf/a-bis-z/index.php" >A bis Z</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" >Impressum</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bjf/service/newsletter/index.php" >Newsletter</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bjf/service/presse/index.php" >Presse</a></li><li class="odd pos4"><a href="https://www.facebook.com/senbjw" class="social_media icon_facebook extern extern" target="_blank" title="auf Facebook folgen (Öffnet in neuem Fenster)">https://www.facebook.com/senbjw</a></li>                                        </ul>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                        <div class="container-wrapper container-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        
+<!-- template start: portal-footer -->
+<div class="html5-footer portal-footer">
+    <div>
+                <p>
+            Berlin.de ist ein Angebot des Landes Berlin und der BerlinOnline Stadtportal GmbH & Co. KG.            Weitere Informationen hierzu finden Sie im <a href="https://www.berlin.de/wir-ueber-uns-be/impressum/">Impressum</a>.        </p>
+    </div>
+    <div class="html5-nav">
+        <ul class="nav">
+            <li>Weitere Metropol-Webseiten:</li>
+            <li><a href="https://www.hamburg.de/">Hamburg</a></li>
+            <li><a href="https://www.muenchen.de/">München</a></li>
+            <li><a href="https://www.koeln.de/">Köln</a></li>
+        </ul>
+    </div><!-- /html5-nav -->
+</div><!-- /html5-footer -->
+<!-- /template end: portal-footer -->
+                    </div>
+                </div>
+            </div>
+        </div>
+                                <!-- MOBILE NAVIGATION START -->
+        <div class="navigation-mobile hidden-desktop hidden-tablet" role="navigation">
+            <p class="navSkip">Navigiere direkt zu:</p>
+            <ul class="navSkip">
+                <li><a href="#mobile-nav-toggle" tabindex="1" id="hiddenNavToggler">Navigation <!-- append text per css here --></a></li>
+            </ul>
+            <div class="sticky-header bde-gradient">
+                <div class="red-line"></div>
+                                <div class="portal-logo">
+                    <a title="Link führt zur Startseite von Berlin.de" href="https://www.berlin.de" >
+                        <img title="Link führt zur Startseite von Berlin.de" alt="Bild zeigt: Berlin.de Logo" src="//www.berlin.de/i9f/images/berlin_de.png" />
+                    </a>
+                </div>
+                                <button class="btn nav-toggle" id="mobile-nav-toggle" title="Mobile Navigation" aria-labelledby="hiddenNavToggler">
+                    <span class="aural">Öffnet und schließt die mobile Navigation</span>
+                    <span class="icon-menu"> 
+                        <span class="line line-1"></span>
+                        <span class="line line-2"></span>
+                        <span class="line line-3"></span>
+                    </span>
+                </button>
+            </div>
+            <div class="wrapper">
+                <div class="sticky-container-head">
+                    <div class="offcanvas-search">
+                    <form class="institutionssuche institutionssuche-mobile" method="get" action="https://www.berlin.de/sen/bildung/suche.php">
+    <div class="control-group searchform mobile" role="search">
+        <label class="aural" id="aural_institutionssuche_mobile">
+            Suche auf der Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie':        </label>
+        <input type="search" placeholder="Suchbegriff"
+            name="q" aria-labelledby="aural_institutionssuche_mobile"
+            maxlength="255"
+            title="Hier können Sie einen Text eingeben, um die Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie' zu durchsuchen"
+        />
+        <button class="btn global-search-submit" type="submit">
+            <span class="hidden-phone">Suchen</span>
+        </button>
+    </div>
+</form>
+                    </div>
+                </div>
+                <div class="nav-container">
+                    <div class="nav-container-body">
+                        <ul class="nav-menu menu">
+                            <li class="menu-item has-dropdown ">
+                                <a href="#!" class="menu-link">
+                                    Senatsverwaltung für Bildung, Jugend und Familie                                </a>
+                                <ul class="nav-dropdown menu ">
+                                    <li class="menu-item">
+                                        <a href="https://www.berlin.de/sen/bjf/" class="menu-link" title="Link zu: Startseite von Senatsverwaltung für Bildung, Jugend und Familie">Senatsverwaltung für Bildung, Jugend und Familie: Startseite</a>                                        <ul class="nav"><li class=" menu-item active">
+            <a href="https://www.berlin.de/sen/bildung/schule/" class=" menu-link">Schule</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/" class=" menu-link">Unterricht</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/" class=" menu-link">Schule und Beruf</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/" class=" menu-link">Fachkräfte</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/" class=" menu-link">Unterstützung</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/" class=" menu-link">Lebenslanges Lernen</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/index.php" class=" menu-link">Politik</a>                    </li></ul>                                    </li>
+                                </ul>
+<!-- HIER 1 -->
+                                
+		<ul class="sub crumbs1">
+			<li class="menu-item has-no-dropdown">
+<a href="https://www.berlin.de/sen/bildung/schule/" class="menu-link">Schule</a>
+			<ul class="sub crumbs2">
+				<li class="menu-item has-no-dropdown">
+<a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" class="menu-link">Berliner Schulen</a><ul class="sub level-1">
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" class="menu-link active">Schul&shy;verzeichnis</a>
+    </li>
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.bildung.berlin.de/Umkreissuche/" class="menu-link" target="_blank" title=" (Öffnet in neuem Fenster)">Schulen/Kitas in der Nähe</a>
+    </li>
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulwechsel-nach-berlin/" class="menu-link">Schulwechsel nach Berlin</a>
+    </li>
+</ul><!-- class="sub level-1" -->
+			</li>
+		</ul><!-- crumbs1 -->
+				</li>
+			</ul><!-- crumbs2 -->
+<!-- HIER 2 -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MOBILE NAVIGATION END -->
+
+        <script type="text/javascript" src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1484664807"></script>
+
+
+<!-- Zählpixel -->
+
+<div id="cp">
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof (DartIvwKategorie) == "undefined") DartIvwKategorie = "beberlin";
+
+
+    var CP = location.protocol + "//boss.berlinonline.de/cp.php?a=berlin&amp;r=" + escape(document.referrer) + "&amp;cat=" + DartIvwKategorie + "&amp;p=" + escape(document.location) + "&amp;d=" + (Math.random() * 100000);
+    document.write("<img src=\"" + CP + "\" width=\"1\" height=\"1\" alt=\"\" id=\"cp_pixel\" style=\"position:absolute;width:1px;height:1px;\" />");
+    /*]]>*/</script>
+<noscript><img src="https://boss.berlinonline.de/cp.php?a=berlin&amp;p=http%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Fschule%2Fberliner-schulen%2Fschulverzeichnis%2F__i9%2Fstd%2F&amp;r=" alt="" /></noscript>
+
+    <div id="ivw">
+
+         <!-- szm pixel desktop variante -->
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+<script type="text/javascript">
+    var iam_data = { "mg": "yes", "cp": DartIvwKategorie, "oc": DartIvwKategorie, "st": "berlin", "sv": (location.pathname == "/" ? "ke" : "in"), "co": location.hostname }
+    iom.c(iam_data, 1);
+</script>
+<!-- /SZM -->
+
+    </div>
+</div>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.berlinonline.de"]);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function () {
+        var u = (("https:" == document.location.protocol) ? "https" : "http") + "://piwik.berlinonline.de/";
+        _paq.push(["setTrackerUrl", u + "piwik.php"]);
+        _paq.push(["setSiteId", document.location.hostname.match(/service\.berlin\.de$/) ? "6" : "1"]);
+        var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0]; g.type = "text/javascript";
+        g.defer = true; g.async = true; g.src = u + "piwik.js"; s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="de" lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2017 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://bildung-brandenburg.de/schulportraets/" />
+
+<title>Schulporträts Brandenburg: Schulsuche</title>
+<meta name="generator" content="TYPO3 CMS" />
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/Assets/8dd2e95f80.css?1488273209" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/layout.css?1486738458" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/commonFonts.css?1233223429" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/screen.css?1168851722" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/M1.css?1168852011" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/menuhead.css?1166065616" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/menupfad.css?1167237047" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/cssStyledContent.css?1166007199" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/cTables.css?1163459410" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/mailform.css?1183461123" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/content.css?1173685048" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/wmdbsql.css?1320329381" media="all" />
+
+
+
+
+<script src="typo3temp/Assets/b9ac716825.js?1488273209" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="fileadmin/template/js/menu.js" language="JavaScript"></script>
+
+</head>
+<body>
+
+
+		<div id="boxAlignLayout">
+
+			<div id="boxHeader">
+				<div id="box_logoFloat">
+					<div id="box_logo" class="clearfix">
+						<a href="http://bildungsserver.berlin-brandenburg.de" title="Bildungsserver Berlin-Brandenburg bbb"><img src="fileadmin/template/images/bbb_logo.jpg" alt="bbb-Logo" width="207" height="64" border="0" /></a>
+					</div>
+				</div>
+			</div>
+
+			<div id="boxBluebar">
+				<div id="boxServiceMenu">
+					<ul id="menuhead"><li class="first"><a href="index.php?id=71&amp;schuljahr=2020" title="Startseite">Startseite</a></li><li><a href="index.php?id=schulsuche&amp;schuljahr=2020" title="Schulsuche">Schulsuche</a></li><li><a href="index.php?id=glossar&amp;schuljahr=2020" title="Glossar">Glossar</a></li><li class="last"><a href="index.php?id=kontakt&amp;schuljahr=2020" title="Kontakt">Kontakt</a></li></ul>
+				</div>
+			</div>
+
+			<div id="boxLogo2">
+					<a href="index.php" title="Home"><img src="fileadmin/template/images/logo-schulportraits.gif" alt="Logo Schulportraits" width="163" height="103" border="0" title="Logo Schulportraits" /></a>
+			</div>
+
+			<div class="M1-positioner-1">
+				<div class="M1-positioner-2">
+					<div class="M1-positioner-3">
+						<!-- Menu M1 begin -->
+						<div id="menu-M1">
+							<ul id="menu"><li class="first"><a href="index.php?id=71&amp;schuljahr=2020" title="Startseite">Startseite</a></li><li><a href="index.php?id=schulsuche&amp;schuljahr=2020" title="Schulsuche">Schulsuche</a></li><li><a href="index.php?id=glossar&amp;schuljahr=2020" title="Glossar">Glossar</a></li><li class="last"><a href="index.php?id=kontakt&amp;schuljahr=2020" title="Kontakt">Kontakt</a></li></ul>
+						</div>
+						<!-- Menu M1 end -->
+					</div>
+				</div>
+			</div>
+
+			<div id="boxContent">
+
+				<!--TYPO3SEARCH_begin-->
+
+				<div class="boxPageTitle">
+					<div id="menupfad"><a href="http://www.bildungsserver.berlin-brandenburg.de">bbb</a>&nbsp;>&nbsp;Schulsuche</div>
+					<div style="clear: both;"></div>
+					
+					
+					
+					<div style="clear: both;"></div>
+
+				</div>
+
+				<div class="boxNormal">
+					<form action="index.php?id=70&amp;no_cache=1&amp;schuljahr=2020" id="a3a88cbbd9de053a024c659c50d627905" name="a3a88cbbd9de053a024c659c50d627905" enctype="multipart/form-data" method="GET"><div style="display:none;"><input type="hidden" name="id" value="3" /><input type="hidden" name="schuljahr" value="2020" /></div><p><span style="display:block;float:left;width:200px;"><label for="a3a88cbbd9de053a024c659c50d6279050937b77fba0575a349e7e02f5320b848">Landkreis/Kreisfreie Stadt:</label></span> <select name="kreis" id="a3a88cbbd9de053a024c659c50d6279050937b77fba0575a349e7e02f5320b848" size="1" style="width:300px;"><option value="" selected="selected">Alle</option><option value="1">Barnim</option><option value="2">Brandenburg an der Havel</option><option value="3">Cottbus</option><option value="4">Dahme-Spreewald</option><option value="5">Elbe-Elster</option><option value="6">Frankfurt (Oder)</option><option value="7">Havelland</option><option value="8">Märkisch-Oderland</option><option value="9">Oberhavel</option><option value="10">Oberspreewald-Lausitz</option><option value="11">Oder-Spree</option><option value="12">Ostprignitz-Ruppin</option><option value="13">Potsdam</option><option value="14">Potsdam-Mittelmark</option><option value="15">Prignitz</option><option value="16">Spree-Neiße</option><option value="17">Teltow-Fläming</option><option value="18">Uckermark</option></select></p><p><span style="display:block;float:left;width:200px;"><label for="a3a88cbbd9de053a024c659c50d6279059b952dbb76b48bfa463b1a4620425792">Postleitzahl (oder -bereich):</label></span> <input type="text" name="plz" id="a3a88cbbd9de053a024c659c50d6279059b952dbb76b48bfa463b1a4620425792" size="5" maxlength="5" value="" /></p><p><span style="display:block;float:left;width:200px;"><label for="a3a88cbbd9de053a024c659c50d62790515e126a9da4b03e175d2563063de0b86">Schulform:</label></span> <select name="schulform" id="a3a88cbbd9de053a024c659c50d62790515e126a9da4b03e175d2563063de0b86" size="1" style="width:300px;"><option value="">Alle</option><option value="5">Berufliche Schule</option><option value="6">Förderschule</option><option value="2">Gesamtschule</option><option value="1">Grundschule</option><option value="4">Gymnasium</option><option value="8" selected="selected">Oberschule</option><option value="7">Zweiter Bildungsweg (ZBW)</option></select></p><p><span style="display:block;float:left;width:200px;"><label for="a3a88cbbd9de053a024c659c50d62790513b58c25c00215886f3e25bc7c530365">Jahrgangsstufe:</label></span> <select name="jahrgangsstufe" id="a3a88cbbd9de053a024c659c50d62790513b58c25c00215886f3e25bc7c530365" size="1" style="width:300px;"><option value="0" selected="selected">Alle</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="81">Eingangsstufe (Förderschule)</option><option value="82">Unterstufe (Förderschule)</option><option value="83">Mittelstufe (Förderschule)</option><option value="84">Oberstufe (Förderschule)</option><option value="85">Werkstufe (Förderschule)</option></select></p><p><span style="display:block;float:left;width:200px;"><label for="a3a88cbbd9de053a024c659c50d6279054d320583e7adaedcb8374d787eb6bfe5">Tr&auml;gerschaft</label></span> <input type="radio" name="traeger" id="a3a88cbbd9de053a024c659c50d6279054d320583e7adaedcb8374d787eb6bfe5oumlffentliche" value="0" /><label for="a3a88cbbd9de053a024c659c50d6279054d320583e7adaedcb8374d787eb6bfe5oumlffentliche">&ouml;ffentliche</label><input type="radio" name="traeger" id="a3a88cbbd9de053a024c659c50d6279054d320583e7adaedcb8374d787eb6bfe5freie" value="1" checked="checked" /><label for="a3a88cbbd9de053a024c659c50d6279054d320583e7adaedcb8374d787eb6bfe5freie">freie</label></p><p><span style="display:block;float:left;width:200px;"></span> <input type="submit" name="submit" id="a3a88cbbd9de053a024c659c50d627905c79bdf421714f5087fc34b7c538b6807" value="Suchen" /></p></form>
+
+
+	<!--
+
+		BEGIN: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1"
+
+	-->
+	<div class="tx-wmdbsql-pi1">
+		<table class="layout-1"><thead><tr><th>Schulname</th><th>PLZ, Ort</th></tr></thead><tfoot><tr><td colspan="2">&nbsp;</td></tr></tfoot><tbody><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180257&amp;cHash=1b37a7b68c496868605a788781d78699">Private Oberschule Blumberg - genehmigte Ersatzschule - anerkannt in der Sekundarstufe I</a></td><td>16356 Ahrensfelde/OT Blumberg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180180&amp;cHash=5ceded034f06b80cdeff7428d6a96a14">Freie Schule Angermünde Oberschule anerkannte Ersatzschule</a></td><td>16278 Angermünde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180038&amp;cHash=4eef5fffad98bc0810152acd1c745438">Freie Oberschule Baruth anerkannte Ersatzschule </a></td><td>15837 Baruth/Mark</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180166&amp;cHash=47f39045ba9ddee0e5daa348d2f10a6b">Oberschule Briesen der FAWZ gGmbH anerkannte Ersatzschule</a></td><td>15518 Briesen (Mark)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180051&amp;cHash=61ecee64443d8796397439487e9da0e1">Evangelische Gemeinschaftsschule Doberlug-Kirchhain staatlich anerkannte Ersatzschule</a></td><td>03253 Doberlug-Kirchhain</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180130&amp;cHash=d04774b0f128cc966bac1088ef42cc69">Oberbarnim-Oberschule anerkannte Ersatzschule </a></td><td>16225 Eberswalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180129&amp;cHash=416d8cf10ea19b8c9d2fb2dc71fabb67">Freie Oberschule Villa Elisabeth Eichwalde - anerkannte Ersatzschule -</a></td><td>15732 Eichwalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=190147&amp;cHash=007ef994345630a379b2243dc1a90bc5">Freie Naturschule im Fürstenberger Seenland, Oberschule mit integrierter Grundschule - genehmigte Ersatzschule in freier Trägerschaft</a></td><td>16798 Fürstenberg/Havel</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130850&amp;cHash=fdefffbe6080b7f071b61afe8a6e3d5f">Katholische Schule Bernhardinum Oberschule anerkannte Ersatzschule</a></td><td>15517 Fürstenwalde/Spree</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180099&amp;cHash=faaaaa45ea7af0fe43a926827999f2d8">Rahn Education - Freie Oberschule Fürstenwalde, Staatlich anerkannte Ersatzschule</a></td><td>15517 Fürstenwalde/Spree</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180075&amp;cHash=aabcc19ec4a4d345481af03245b6ccd8">Johannes-Gutenberg-Oberschule -anerkannte Ersatzschule- </a></td><td>15537 Gosen-Neu Zittau</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130886&amp;cHash=4a02efe04334106667ddf4aba3e2029f">Oberschule "An der Polz" der Balance gGmbH </a></td><td>16775 Gransee/OT Seilershof</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180040&amp;cHash=6a8250482c26f134c172d196e15b1390">Bettina-von-Arnim-Schule Private Oberschule anerkannte Ersatzschule</a></td><td>15537 Grünheide (Mark)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180105&amp;cHash=0f7f9964e84f3d41127c88d0fd16a031">Freie Montessori Oberschule Hangelsberg der FAWZ gGmbH -anerkannte Ersatzschule-</a></td><td>15537 Grünheide (Mark)/OT Hangelsberg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180142&amp;cHash=fe5c1037efc1c9e3ad2349552e966e42">Jean-Itard-Ersatzschule Integrative Oberschule  -genehmigte Ersatzschule -</a></td><td>15754 Heidesee/OT Wolzig</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180063&amp;cHash=96b9f57a42469fd1c23234953eb771af">Gemeinschaftsschule im Kloster Stift zum Heiligengrabe Oberschule m. angegliederten Grundschulteil, anerkannte Ersatzschule für die Oberschule</a></td><td>16909 Heiligengrabe</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=105673&amp;cHash=bf634997782ff57fd6f55dbc2f3edb42">Berlin Brandenburg International School GmbH (BBIS)  </a></td><td>14532 Kleinmachnow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180014&amp;cHash=c0200a7891be01aa63aae16046abe412">Oberschule Neuenhagen bei Berlin mit berufsorientierendem Profil anerkannte Ersatzschule</a></td><td>15366 Neuenhagen bei Berlin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180208&amp;cHash=63573f168280913460c09db59e4d8d79">Evangelische Schule Neuruppin Oberschule anerkannte Ersatzschule</a></td><td>16818 Neuruppin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180270&amp;cHash=367067cbeff20f7bd20c06da7e11351f">Montessori-Oberschule Neuruppin - genehmigte Ersatzschule, anerkannt in der Sekundarstufe I </a></td><td>16816 Neuruppin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130898&amp;cHash=c784e8f751215eb9f3ac0f9623dc6049">Nachbarschaftsschule Freie Schule  </a></td><td>16845 Neustadt (Dosse)/OT Roddahn</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180154&amp;cHash=8ff7fedba5b91c912adae7032f540fbc">Rahn Education - Freie Oberschule im Stift Neuzelle, Staatlich anerkannte Ersatzschule</a></td><td>15898 Neuzelle</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180268&amp;cHash=5fdaeae3de6c24c3875f2b92d006c735">Mosaik-Oberschule Oberhavel - anerkannte Ersatzschule in freier Trägerschaft der Jugend- und Sozialwerk gGmbH Oranienburg Kreis Oberhavel</a></td><td>16515 Oranienburg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130874&amp;cHash=36d6401561eb54c54dafc12d6249270f">Aktive Naturschule Prenzlau Grund- und Oberschule Oberschule mit angegliedertem Grundschulteil -anerkannte Ersatzschule-</a></td><td>17291 Prenzlau</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180210&amp;cHash=502936ea5ddb27f58c533f80661b85f2">Seeoberschule Rangsdorf anerkannte Ersatzschule </a></td><td>15834 Rangsdorf</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130916&amp;cHash=b15cfc7b1f0be275292677ddef60b979">Oberschule Prösen "Aktive Entwicklungsschule" - anerkannte Ersatzschule -</a></td><td>04932 Röderland/OT Prösen</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=401481&amp;cHash=e0b91162eb5ba2b201647ca857651666">Ev. Schulzentrum TABALUGA Oberschule mit koop.-integr. Förderklassen </a></td><td>16303 Schwedt/Oder/OT Vierraden</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=113384&amp;cHash=0cc8c92bff2d47806d8411aeecc54ad9">KARIBU-Oberschule Geltow anerkannte Ersatzschule </a></td><td>14548 Schwielowsee/OT Geltow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130904&amp;cHash=76e3bc3f8eee3fae17827182aef85506">Oberschule Chance BugK/Grünheide genehmigte Ersatzschule </a></td><td>15859 Storkow (Mark)/OT Bugk</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=180282&amp;cHash=caab4daf3701bd8a0131f28837f3b99a">IBiS-Oberschule "Maria Montessori" Wittenberge - genehmigte Ersatzschule - anerkannt in der Sekundarstufe I</a></td><td>19322 Wittenberge</td></tr></tbody></table>
+	</div>
+	
+	<!-- END: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1" -->
+
+	
+	<!--  CONTENT ELEMENT, uid:196/html [begin] -->
+		<div id="c196" class="csc-default">
+		<!--  Raw HTML content: [begin] -->
+			<br />
+<h2> Weitere Suchmöglichkeiten </h2>
+ <a href="index.php?id=101" title="Besonderheiten">Suche nach besonderen Kriterien</a> (Ganztag, Schulprofil, besondere Prägung ...)<br /><br />
+<!-- <a href="index.php?id=470" title="Kurzberichte">Suche nach Schulen, bei denen bereits ein Kurzbericht der letzten Visitation veröffentlicht wurde.</a> <br /> <br /> -->
+ <a href="index.php?id=89&stufe=Primarstufe" title="Fächer 1-6">Suche nach Unterrichtsangebot in der Primarstufe (bis zur Jahrgangsstufe 6)</a><br />
+ <a href="index.php?id=89&stufe=Sekundarstufe" title="Fächer 7-10">Suche nach Unterrichtsangebot in der Sekundarstufe I (Jahrgangsstufe 7-10)</a><br />
+ <a href="index.php?id=89&stufe=GOST" title="Fächer 11-13">Suche nach Kursangebot der Sekundarstufe II (ab Jahrgangsstufe 11)</a><br />
+ <br /><a href="index.php?id=165" title="Schulnummer">Suche mit Hilfe der Schulnummer</a>
+<br />
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:196/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:181/textpic [begin] -->
+		<div id="c181" class="csc-default">
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic-text">
+		<!--  Text: [begin] -->
+			<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">Zur Übersicht: <a href="index.php?id=uebersicht&amp;schuljahr=2020" title="Übersicht" class="internal-link">Liste aller Schulen.</a></p>
+		<!--  Text: [end] -->
+			</div>
+		<!--  Image block: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:181/textpic [end] -->
+		
+					
+				</div>
+
+				<div class="boxRight">
+					
+				</div>
+
+				<!--TYPO3SEARCH_end-->
+
+			</div>
+
+			<div id="boxBottomSpace">
+				<a href="index.php?id=impressum&amp;schuljahr=2020">Impressum</a> | <a href="index.php?id=473&amp;schuljahr=2020">Datenschutz</a> | <a href="index.php?id=schulsuche&amp;schuljahr=2020&amp;id=3&amp;kreis=&amp;plz=&amp;schulform=8&amp;jahrgangsstufe=0&amp;traeger=1&amp;submit=Suchen&amp;type=99" target="_blank">Druckversion</a>
+			</div>
+
+		</div>
+
+
+
+
+</body>
+</html>

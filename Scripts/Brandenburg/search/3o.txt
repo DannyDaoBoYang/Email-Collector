@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="de" lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2017 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://bildung-brandenburg.de/schulportraets/" />
+
+<title>Schulporträts Brandenburg: Schulsuche</title>
+<meta name="generator" content="TYPO3 CMS" />
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/Assets/8dd2e95f80.css?1488273209" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/layout.css?1486738458" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/commonFonts.css?1233223429" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/screen.css?1168851722" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/M1.css?1168852011" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/menuhead.css?1166065616" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/menupfad.css?1167237047" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/cssStyledContent.css?1166007199" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/cTables.css?1163459410" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/mailform.css?1183461123" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/content.css?1173685048" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/wmdbsql.css?1320329381" media="all" />
+
+
+
+
+<script src="typo3temp/Assets/b9ac716825.js?1488273209" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="fileadmin/template/js/menu.js" language="JavaScript"></script>
+
+</head>
+<body>
+
+
+		<div id="boxAlignLayout">
+
+			<div id="boxHeader">
+				<div id="box_logoFloat">
+					<div id="box_logo" class="clearfix">
+						<a href="http://bildungsserver.berlin-brandenburg.de" title="Bildungsserver Berlin-Brandenburg bbb"><img src="fileadmin/template/images/bbb_logo.jpg" alt="bbb-Logo" width="207" height="64" border="0" /></a>
+					</div>
+				</div>
+			</div>
+
+			<div id="boxBluebar">
+				<div id="boxServiceMenu">
+					<ul id="menuhead"><li class="first"><a href="index.php?id=71&amp;schuljahr=2020" title="Startseite">Startseite</a></li><li><a href="index.php?id=schulsuche&amp;schuljahr=2020" title="Schulsuche">Schulsuche</a></li><li><a href="index.php?id=glossar&amp;schuljahr=2020" title="Glossar">Glossar</a></li><li class="last"><a href="index.php?id=kontakt&amp;schuljahr=2020" title="Kontakt">Kontakt</a></li></ul>
+				</div>
+			</div>
+
+			<div id="boxLogo2">
+					<a href="index.php" title="Home"><img src="fileadmin/template/images/logo-schulportraits.gif" alt="Logo Schulportraits" width="163" height="103" border="0" title="Logo Schulportraits" /></a>
+			</div>
+
+			<div class="M1-positioner-1">
+				<div class="M1-positioner-2">
+					<div class="M1-positioner-3">
+						<!-- Menu M1 begin -->
+						<div id="menu-M1">
+							<ul id="menu"><li class="first"><a href="index.php?id=71&amp;schuljahr=2020" title="Startseite">Startseite</a></li><li><a href="index.php?id=schulsuche&amp;schuljahr=2020" title="Schulsuche">Schulsuche</a></li><li><a href="index.php?id=glossar&amp;schuljahr=2020" title="Glossar">Glossar</a></li><li class="last"><a href="index.php?id=kontakt&amp;schuljahr=2020" title="Kontakt">Kontakt</a></li></ul>
+						</div>
+						<!-- Menu M1 end -->
+					</div>
+				</div>
+			</div>
+
+			<div id="boxContent">
+
+				<!--TYPO3SEARCH_begin-->
+
+				<div class="boxPageTitle">
+					<div id="menupfad"><a href="http://www.bildungsserver.berlin-brandenburg.de">bbb</a>&nbsp;>&nbsp;Schulsuche</div>
+					<div style="clear: both;"></div>
+					
+					
+					
+					<div style="clear: both;"></div>
+
+				</div>
+
+				<div class="boxNormal">
+					<form action="index.php?id=70&amp;no_cache=1&amp;schuljahr=2020" id="a7d849dcca28200a78ba3f2ced1dbc44e" name="a7d849dcca28200a78ba3f2ced1dbc44e" enctype="multipart/form-data" method="GET"><div style="display:none;"><input type="hidden" name="id" value="3" /><input type="hidden" name="schuljahr" value="2020" /></div><p><span style="display:block;float:left;width:200px;"><label for="a7d849dcca28200a78ba3f2ced1dbc44e0937b77fba0575a349e7e02f5320b848">Landkreis/Kreisfreie Stadt:</label></span> <select name="kreis" id="a7d849dcca28200a78ba3f2ced1dbc44e0937b77fba0575a349e7e02f5320b848" size="1" style="width:300px;"><option value="" selected="selected">Alle</option><option value="1">Barnim</option><option value="2">Brandenburg an der Havel</option><option value="3">Cottbus</option><option value="4">Dahme-Spreewald</option><option value="5">Elbe-Elster</option><option value="6">Frankfurt (Oder)</option><option value="7">Havelland</option><option value="8">Märkisch-Oderland</option><option value="9">Oberhavel</option><option value="10">Oberspreewald-Lausitz</option><option value="11">Oder-Spree</option><option value="12">Ostprignitz-Ruppin</option><option value="13">Potsdam</option><option value="14">Potsdam-Mittelmark</option><option value="15">Prignitz</option><option value="16">Spree-Neiße</option><option value="17">Teltow-Fläming</option><option value="18">Uckermark</option></select></p><p><span style="display:block;float:left;width:200px;"><label for="a7d849dcca28200a78ba3f2ced1dbc44e9b952dbb76b48bfa463b1a4620425792">Postleitzahl (oder -bereich):</label></span> <input type="text" name="plz" id="a7d849dcca28200a78ba3f2ced1dbc44e9b952dbb76b48bfa463b1a4620425792" size="5" maxlength="5" value="" /></p><p><span style="display:block;float:left;width:200px;"><label for="a7d849dcca28200a78ba3f2ced1dbc44e15e126a9da4b03e175d2563063de0b86">Schulform:</label></span> <select name="schulform" id="a7d849dcca28200a78ba3f2ced1dbc44e15e126a9da4b03e175d2563063de0b86" size="1" style="width:300px;"><option value="">Alle</option><option value="5">Berufliche Schule</option><option value="6">Förderschule</option><option value="2">Gesamtschule</option><option value="1">Grundschule</option><option value="4" selected="selected">Gymnasium</option><option value="8">Oberschule</option><option value="7">Zweiter Bildungsweg (ZBW)</option></select></p><p><span style="display:block;float:left;width:200px;"><label for="a7d849dcca28200a78ba3f2ced1dbc44e13b58c25c00215886f3e25bc7c530365">Jahrgangsstufe:</label></span> <select name="jahrgangsstufe" id="a7d849dcca28200a78ba3f2ced1dbc44e13b58c25c00215886f3e25bc7c530365" size="1" style="width:300px;"><option value="0" selected="selected">Alle</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="81">Eingangsstufe (Förderschule)</option><option value="82">Unterstufe (Förderschule)</option><option value="83">Mittelstufe (Förderschule)</option><option value="84">Oberstufe (Förderschule)</option><option value="85">Werkstufe (Förderschule)</option></select></p><p><span style="display:block;float:left;width:200px;"><label for="a7d849dcca28200a78ba3f2ced1dbc44e4d320583e7adaedcb8374d787eb6bfe5">Tr&auml;gerschaft</label></span> <input type="radio" name="traeger" id="a7d849dcca28200a78ba3f2ced1dbc44e4d320583e7adaedcb8374d787eb6bfe5oumlffentliche" value="0" checked="checked" /><label for="a7d849dcca28200a78ba3f2ced1dbc44e4d320583e7adaedcb8374d787eb6bfe5oumlffentliche">&ouml;ffentliche</label><input type="radio" name="traeger" id="a7d849dcca28200a78ba3f2ced1dbc44e4d320583e7adaedcb8374d787eb6bfe5freie" value="1" /><label for="a7d849dcca28200a78ba3f2ced1dbc44e4d320583e7adaedcb8374d787eb6bfe5freie">freie</label></p><p><span style="display:block;float:left;width:200px;"></span> <input type="submit" name="submit" id="a7d849dcca28200a78ba3f2ced1dbc44ec79bdf421714f5087fc34b7c538b6807" value="Suchen" /></p></form>
+
+
+	<!--
+
+		BEGIN: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1"
+
+	-->
+	<div class="tx-wmdbsql-pi1">
+		<table class="layout-1"><thead><tr><th>Schulname</th><th>PLZ, Ort</th></tr></thead><tfoot><tr><td colspan="2">&nbsp;</td></tr></tfoot><tbody><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120108&amp;cHash=f6e05878ffe8636a129b4699653b690c">Einstein-Gymnasium  </a></td><td>16278 Angermünde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120224&amp;cHash=a0492f7b2455da0fd3c6179fa9c1f510">Fläming-Gymnasium  </a></td><td>14806 Bad Belzig</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120030&amp;cHash=b8290154f7120674273669b520b2fff8">Gymnasium "Bertolt Brecht"  </a></td><td>16259 Bad Freienwalde (Oder)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120546&amp;cHash=44893b562ae4b901e160c5ef452ac283">Sally-Bein-Gymnasium  </a></td><td>14547 Beelitz</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120364&amp;cHash=7eab1dd1afb86257bc75ac76ef0d99cd">Rouanet-Gymnasium Beeskow Unesco-Projektschule </a></td><td>15848 Beeskow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121071&amp;cHash=0bfc00a83e4438d9991e434d95f18eb3">Barnim-Gymnasium Bernau - Waldfrieden </a></td><td>16321 Bernau bei Berlin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120406&amp;cHash=c443f6c5763217bb68237424e360908a">Paulus-Praetorius-Gymnasium Bernau </a></td><td>16321 Bernau bei Berlin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121058&amp;cHash=afc081b4c893c21526080e7daa831593">Kopernikus-Gymnasium Blankenfelde  </a></td><td>15827 Blankenfelde-Mahlow/OT Blankenfelde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120250&amp;cHash=0a112d55640017fbbcab175d174acfd8">Bertolt-Brecht-Gymnasium  </a></td><td>14770 Brandenburg an der Havel</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120261&amp;cHash=2a366e901f79adec389e52b22107bb50">von Saldern-Gymnasium Europaschule </a></td><td>14776 Brandenburg an der Havel</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120133&amp;cHash=971646d19399202c9c1676345c80e451">Humboldt-Gymnasium Europaschule </a></td><td>03044 Cottbus</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120145&amp;cHash=58f219267fdffc348e1570fef2ea63b5">Ludwig-Leichhardt-Gymnasium  </a></td><td>03046 Cottbus</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120236&amp;cHash=1edb4d8df63cf1e4dbeb33cd45de6320">Max-Steenbeck-Gymnasium Schule  mit erweiterter mathematisch -naturwissenschaftlich -technischer Ausbildung </a></td><td>03046 Cottbus</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120157&amp;cHash=3b826349edd62484ef82e1b22c671720">Niedersorbisches Gymnasium Cottbus  </a></td><td>03044 Cottbus</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120947&amp;cHash=08c7d21edd1155616877498c29457542">Pückler-Gymnasium Cottbus  </a></td><td>03050 Cottbus</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121125&amp;cHash=2b13b5ea63cd677c8f1d7a3a2a06e7cc">Marie-Curie-Gymnasium  </a></td><td>14624 Dallgow-Döberitz</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120844&amp;cHash=354d23fd1da8e6ce529ea6d8c9465c60">Alexander-von-Humboldt-Gymnasium  </a></td><td>16225 Eberswalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120856&amp;cHash=b482a44f36143aee406e8e2cd169f5ac">Gymnasium Finow  </a></td><td>16227 Eberswalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120716&amp;cHash=83072ee4c77b04a5b052430bb5034d5c">Humboldt-Gymnasium  </a></td><td>15732 Eichwalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120390&amp;cHash=addf0a77b1f2308cac4a4a4516be1071">Albert-Schweitzer-Gymnasium  </a></td><td>15890 Eisenhüttenstadt</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120340&amp;cHash=c200432fa855b683c6f5df2fe36497ef">Elsterschloss-Gymnasium  </a></td><td>04910 Elsterwerda</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120984&amp;cHash=f9eacdeb8529345606d40c4f6cc9d6bc">Carl Bechstein Gymnasium Erkner  </a></td><td>15537 Erkner</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120595&amp;cHash=7a77d416bc57e98096a2006ec28e4461">Lise-Meitner-Gymnasium  </a></td><td>14612 Falkensee</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121289&amp;cHash=0caf28b0111d29e89367b3dc26652f3d">Vicco-von-Bülow-Gymnasium  </a></td><td>14612 Falkensee</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120881&amp;cHash=01e36f80b55795e8ca1c534520d1a110">Sängerstadt-Gymnasium Finsterwalde </a></td><td>03238 Finsterwalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120017&amp;cHash=33a0e834f262032f89e6a385acd828ea">Friedrich-Ludwig-Jahn-Gymnasium  </a></td><td>03149 Forst (Lausitz)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120893&amp;cHash=f813c05523ad71782a8496bf02f119a4">Städtisches Gymnasium Carl Friedrich Gauß Mathematisch-naturwissenschaftlich-technische Spezialschule und MINT-Excellence-Center </a></td><td>15234 Frankfurt (Oder)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=800028&amp;cHash=32c0583a1a7c39e7cf82d68190b048db">Städtisches Gymnasium I Frankfurt (Oder) Karl-Liebknecht-Gymnasium Europaschule * UNESCO-Projektschule</a></td><td>15230 Frankfurt (Oder)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120431&amp;cHash=fa2693bce785430d434171e02fcec6f5">Geschwister-Scholl-Gymnasium  </a></td><td>15517 Fürstenwalde/Spree</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120492&amp;cHash=8ef4d873937a47228245f13c42734ea8">Strittmatter-Gymnasium Gransee  </a></td><td>16775 Gransee</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120327&amp;cHash=f9bcc065dd4b306ca9ec6763e0895925">Pestalozzi-Gymnasium  </a></td><td>03172 Guben</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120753&amp;cHash=bc6e2a75b7419cadc6122d0887b515a1">Gymnasium "Alexander S. Puschkin" Hennigsdorf </a></td><td>16761 Hennigsdorf</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120388&amp;cHash=2fc2e3958523dcbb5d625c3f670d3948">Philipp-Melanchthon-Gymnasium Herzberg </a></td><td>04916 Herzberg (Elster)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120741&amp;cHash=7d8222d71e30a328afa3436af2d3c395">Marie-Curie-Gymnasium Hohen Neuendorf </a></td><td>16540 Hohen Neuendorf</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120522&amp;cHash=8e9734fb2f136ceec9e402e2c77db3a9">Goethe-Schiller-Gymnasium  </a></td><td>14913 Jüterbog</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120558&amp;cHash=01b5c4e37162ff4a5656a6ac80a31a3d">Weinberg-Gymnasium  </a></td><td>14532 Kleinmachnow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120704&amp;cHash=3c592e5ba4504d163049d6ff20bdca4b">Friedrich-Schiller-Gymnasium  </a></td><td>15711 Königs Wusterhausen</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120698&amp;cHash=72a3737930bcae941d9b48afd7e4f1b7">Friedrich-Wilhelm-Gymnasium  </a></td><td>15711 Königs Wusterhausen</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120480&amp;cHash=497d686bada253345392ec2611a95db3">Gymnasium Friedrich Ludwig Jahn Kyritz </a></td><td>16866 Kyritz</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120352&amp;cHash=44aff630f98861f448e2722d2a2e32b9">Paul-Gerhardt-Gymnasium Lübben  </a></td><td>15907 Lübben(Spreewald)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120054&amp;cHash=12bf1fd364bd2240194bcff229a7e193">Paul-Fahlisch-Gymnasium Lübbenau  </a></td><td>03222 Lübbenau/Spreewald</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120674&amp;cHash=b8868c9648d937ceecdfb7d14b964811">Bohnstedt-Gymnasium Luckau  </a></td><td>15926 Luckau</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120534&amp;cHash=ddb3882dec1f05e1791099c816353c40">Friedrich-Gymnasium Luckenwalde  </a></td><td>14943 Luckenwalde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120080&amp;cHash=cdb5e9649e29e28f85e682d427613222">Marie-Curie-Gymnasium Ludwigsfelde Landkreis Teltow-Fläming </a></td><td>14974 Ludwigsfelde</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120571&amp;cHash=c224ea6bd33fa0e59dad4d55a22dff1b">Wolkenberg-Gymnasium  </a></td><td>14552 Michendorf</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120583&amp;cHash=2668d82f5bcc35b8a2b2e6f5c7cbfca6">Goethe-Gymnasium Nauen  </a></td><td>14641 Nauen</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120170&amp;cHash=570a398efe096f52d1efd2059b156cf6">Einstein-Gymnasium Neuenhagen  </a></td><td>15366 Neuenhagen bei Berlin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120078&amp;cHash=27024c36c83142a30419d4d91bb7f3ed">Karl-Friedrich-Schinkel-Gymnasium Neuruppin </a></td><td>16816 Neuruppin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120730&amp;cHash=c597808471bc19fc598b7a3029c02481">Gymnasium "Friedlieb Ferdinand Runge" </a></td><td>16515 Oranienburg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121046&amp;cHash=dfe135a15fb33f408394fad142cc5793">Louise-Henriette-Gymnasium Oranienburg </a></td><td>16515 Oranienburg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120728&amp;cHash=0e6f2db28f91649066cbb639d4f53979">Gottfried-Arnold-Gymnasium Perleberg </a></td><td>19348 Perleberg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121307&amp;cHash=560036ec6a0623b633a636ef8db744ee">Bertha-von-Suttner-Gymnasium Babelsberg  </a></td><td>14482 Potsdam</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120868&amp;cHash=5976d28797166bc0c3e580a955d70374">Einstein-Gymnasium Potsdam  </a></td><td>14467 Potsdam</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121356&amp;cHash=fd320d2c179bf2cf56d330fed65ad852">Hannah-Arendt-Gymnasium  </a></td><td>14471 Potsdam</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120819&amp;cHash=094551c2d7b9ceddb0fc82916c761d3f">Hermann-von-Helmholtz-Gymnasium Europaschule </a></td><td>14467 Potsdam</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120790&amp;cHash=4ca33e091c24f550d193defc1e459007">Humboldt-Gymnasium  </a></td><td>14473 Potsdam</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120820&amp;cHash=3a8c68c34d005fe85544f7fa36f7a3c9">Leibniz-Gymnasium Potsdam  </a></td><td>14480 Potsdam</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120509&amp;cHash=6312bee02e2e29b792039bbe94e84d2f">Christa-und-Peter-Scherpf-Gymnasium  </a></td><td>17291 Prenzlau</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120479&amp;cHash=cebdb8f4cd8a04ef41532ed966699981">Johann-Wolfgang-von-Goethe-Gymnasium  </a></td><td>16928 Pritzwalk</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120091&amp;cHash=3d5819e72f39b9c7d95ccddbe53309d9">Fontane-Gymnasium Landkreis Teltow-Fläming Sitz Rangsdorf</a></td><td>15834 Rangsdorf</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120777&amp;cHash=eafd6e9bd46343f5d68415ce5d7a7e77">Friedrich-Ludwig-Jahn-Gymnasium  </a></td><td>14712 Rathenow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120443&amp;cHash=9389926f4f7fa8abee0adbbbc927f6a7">Gymnasium Friedrich Anton von Heinitz </a></td><td>15562 Rüdersdorf bei Berlin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121368&amp;cHash=9d5e4025a9a9f6e18435fd1cffd091d0">Gymnasium Schönefeld  </a></td><td>12529 Schönefeld</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120662&amp;cHash=74e23a47a823231773904a5457c71d04">SeeCampus Niederlausitz Emil-Fischer-Gymnasium </a></td><td>01987 Schwarzheide</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120273&amp;cHash=968dd04486c978a6a421c146f85ce5fd">Carl-Friedrich-Gauß-Gymnasium  </a></td><td>16303 Schwedt/Oder</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120686&amp;cHash=fc6c70a7bbec925cdc2defb8faf84190">Gymnasium auf den Seelower Höhen </a></td><td>15306 Seelow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120649&amp;cHash=4a52b13832339a22082fdc7ca31c6b0f">Friedrich-Engels-Gymnasium  </a></td><td>01968 Senftenberg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120200&amp;cHash=fbdef42f4adef2fa0059737bac168996">Erwin-Strittmatter-Gymnasium  </a></td><td>03130 Spremberg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=121290&amp;cHash=058ebce72f064c74357fab0952e8ffc4">Vicco-von-Bülow-Gymnasium  </a></td><td>14532 Stahnsdorf</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120182&amp;cHash=02a6118be9c02ce5c31b8c0f5372ab0b">Theodor-Fontane-Gymnasium Strausberg  </a></td><td>15344 Strausberg</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120996&amp;cHash=6f852d4acabc3a22cadffe47cfaeea16">Immanuel-Kant-Gymnasium  </a></td><td>14513 Teltow</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120601&amp;cHash=a27ce5ed3551cf54b2b7dc7d0af22f1b">Gymnasium Templin  </a></td><td>17268 Templin</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120972&amp;cHash=d7e45694ac3b02af418307f1cb99a062">Hedwig-Bollhagen-Gymnasium Velten  </a></td><td>16727 Velten</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120900&amp;cHash=837cbcf28c7a8d72d3f6dfb3db4dc7fa">Gymnasium Wandlitz  </a></td><td>16348 Wandlitz</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120560&amp;cHash=d3721cbfefa067d1a23a7abb2bfd0704">Ernst-Haeckel-Gymnasium  </a></td><td>14542 Werder (Havel)</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=800120&amp;cHash=bff4802a9bbefe8548ab81c9af5438b9">Marie-Curie-Gymnasium Wittenberge  </a></td><td>19322 Wittenberge</td></tr><tr><td><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=120303&amp;cHash=a9b140d189c0c1956a7bd51b7900c218">Städtisches Gymnasium Wittstock/Dosse  </a></td><td>16909 Wittstock/Dosse</td></tr></tbody></table>
+	</div>
+	
+	<!-- END: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1" -->
+
+	
+	<!--  CONTENT ELEMENT, uid:196/html [begin] -->
+		<div id="c196" class="csc-default">
+		<!--  Raw HTML content: [begin] -->
+			<br />
+<h2> Weitere Suchmöglichkeiten </h2>
+ <a href="index.php?id=101" title="Besonderheiten">Suche nach besonderen Kriterien</a> (Ganztag, Schulprofil, besondere Prägung ...)<br /><br />
+<!-- <a href="index.php?id=470" title="Kurzberichte">Suche nach Schulen, bei denen bereits ein Kurzbericht der letzten Visitation veröffentlicht wurde.</a> <br /> <br /> -->
+ <a href="index.php?id=89&stufe=Primarstufe" title="Fächer 1-6">Suche nach Unterrichtsangebot in der Primarstufe (bis zur Jahrgangsstufe 6)</a><br />
+ <a href="index.php?id=89&stufe=Sekundarstufe" title="Fächer 7-10">Suche nach Unterrichtsangebot in der Sekundarstufe I (Jahrgangsstufe 7-10)</a><br />
+ <a href="index.php?id=89&stufe=GOST" title="Fächer 11-13">Suche nach Kursangebot der Sekundarstufe II (ab Jahrgangsstufe 11)</a><br />
+ <br /><a href="index.php?id=165" title="Schulnummer">Suche mit Hilfe der Schulnummer</a>
+<br />
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:196/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:181/textpic [begin] -->
+		<div id="c181" class="csc-default">
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic-text">
+		<!--  Text: [begin] -->
+			<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">Zur Übersicht: <a href="index.php?id=uebersicht&amp;schuljahr=2020" title="Übersicht" class="internal-link">Liste aller Schulen.</a></p>
+		<!--  Text: [end] -->
+			</div>
+		<!--  Image block: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:181/textpic [end] -->
+		
+					
+				</div>
+
+				<div class="boxRight">
+					
+				</div>
+
+				<!--TYPO3SEARCH_end-->
+
+			</div>
+
+			<div id="boxBottomSpace">
+				<a href="index.php?id=impressum&amp;schuljahr=2020">Impressum</a> | <a href="index.php?id=473&amp;schuljahr=2020">Datenschutz</a> | <a href="index.php?id=schulsuche&amp;schuljahr=2020&amp;id=3&amp;kreis=&amp;plz=&amp;schulform=4&amp;jahrgangsstufe=0&amp;traeger=0&amp;submit=Suchen&amp;type=99" target="_blank">Druckversion</a>
+			</div>
+
+		</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,1473 @@
+
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+<!-- TITLE ersetzen --><title>Schulverzeichnis</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1484664807"/>
+<!-- theme switch begin -->
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1484664807"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1484664807"/>
+    <link rel="shortcut icon" href="//www.berlin.de/i9f/images/favicon.ico" type="image/x-icon"/>
+    <link rel="apple-touch-icon" href="//www.berlin.de/i9f/images/iphone.png" type="image/png"/>
+<!-- theme switch end -->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie7.css?ts=1484664807" />
+<![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie8.css?ts=1484664807" />
+<![endif]-->
+<!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie9.css?ts=1484664807" />
+<![endif]-->
+
+    <!-- "property" validiert nicht, nimm "name" -->
+    <meta name="og:image" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png"/>
+    <meta name="og:image:secure_url" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png"/>
+    <script type="text/javascript" src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1484664807"></script>
+
+
+
+<!--
+  layout: std
+  created on: Wed, 18 Jan 2017 13:40:39 +0100
+-->
+
+
+
+</head>
+<body class="locale_de">
+
+
+                <div class="container-wrapper container-portal-header">
+<!-- Werbung -->
+<div class="skyscraper hidden-phone">
+<!-- werbe einheit: beberlin -->
+</div>
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                                                    
+                <!-- NAVIGATION BEGIN: portal -->
+
+                <div class="html5-header portal-header hidden-phone">
+                    <div class="red-line"></div>
+                    <div class="html5-figure main-image">
+                        <a href="https://www.berlin.de/">
+                            <img class="portal-logo hide-mobile" src="//www.berlin.de/i9f/images/berlin_de.png" alt="Zur Homepage von Berlin.de" />
+                        </a>
+                    </div><!-- /html5-figure -->
+
+                    <p class="navSkip hidden-phone osvnp">Navigiere direkt zu:</p>
+                    <ul class="navSkip hidden-phone">
+                        <li><a href="#aural_institutionssuche">Suche</a></li>
+                        <li><a href="#aural_maincontent">Inhalt</a></li>
+                    </ul>
+
+                    <nav aria-label="Portal Navigation">
+                        <h6 class="aural">Portal Navigation</h6>
+                        <p class="aural" id="bo-portalnavilinkslabel">Besuchen Sie auch unsere anderen Themen-Bereiche:</p>
+                        <ul class="portal-navi" id="bo-portalnavilinks" aria-labelledby="bo-portalnavilinkslabel">
+                            <li class="active"><a href="https://www.berlin.de/politik-verwaltung-buerger/">Politik, Verwaltung, Bürger</a></li>
+                            <li><a href="https://www.berlin.de/kultur-und-tickets/">Kultur &#38; Ausgehen</a></li>
+                            <li><a href="https://www.berlin.de/tourismus/">Tourismus</a></li>
+                            <li><a href="https://www.berlin.de/wirtschaft/">Wirtschaft</a></li>
+                            <li><a href="https://www.berlin.de/special/">Themen</a></li>
+                            <li><a href="https://www.berlin.de/adressen/">BerlinFinder</a></li>
+                            <li><a href="https://www.berlin.de/stadtplan/">Stadtplan</a></li>
+                        </ul>
+                    </nav><!-- /html5-nav -->
+                </div><!-- /html5-header -->
+                <!-- NAVIGATION END: portal -->
+                                            </div>
+                </div>
+            </div>
+        </div>
+        
+                <div id="top" class="container-wrapper container-content template-land_overview">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+
+                                                <!-- NAVIGATION BEGIN: horizontal-->
+<div class="row">
+    <div class="span12">
+<!--NAVIGATION BEGIN: meta-->
+<div class="html5-header content-header ">
+    <div class="row">
+        <div class="span5">
+            <div class="html5-section section-logo without-logo">
+                                <div class="html5-section text">
+                                        <a href="https://www.berlin.de/sen/bjf/" title="Link zu: Startseite von Senatsverwaltung für Bildung, Jugend und Familie"><span class="institution">Senatsverwaltung für</span>
+                <span class="title">Bildung, Jugend und Familie</span></a>                </div>
+            </div>
+        </div>
+
+        <div class="span7">
+                            <div class="html5-nav meta-navi">
+                    <ul class="nav">
+                        <li class="odd pos0"><a href="https://www.berlin.de/sen/bjf/a-bis-z/index.php" >A bis Z</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" >Impressum</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bjf/service/newsletter/index.php" >Newsletter</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bjf/service/presse/index.php" >Presse</a></li><li class="odd pos4"><a href="https://www.facebook.com/senbjw" class="social_media icon_facebook extern" target="_blank" title="auf Facebook folgen (Öffnet in neuem Fenster)">https://www.facebook.com/senbjw</a></li>                    </ul>
+                </div>
+                                        <!--META BEGIN: SEARCH-->
+                <div class="html5-section search navbar">
+                    <div class="navbar-inner">
+                        <div class="nav-collapse search-collapse collapse">
+                            <form class="institutionssuche" method="get" action="https://www.berlin.de/sen/bildung/suche.php">
+    <div class="control-group searchform " role="search">
+        <label class="aural" id="aural_institutionssuche">
+            Suche auf der Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie':        </label>
+        <input type="search" placeholder="Suchbegriff"
+            name="q" aria-labelledby="aural_institutionssuche"
+            maxlength="255"
+            title="Hier können Sie einen Text eingeben, um die Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie' zu durchsuchen"
+        />
+        <button class="btn global-search-submit" type="submit">
+            <span class="hidden-phone">Suchen</span>
+        </button>
+    </div>
+</form>
+                        </div>
+                    </div>
+                </div>
+                <!--META END: SEARCH-->
+                    </div>
+    </div>
+</div>
+<!-- NAVIGATION END: meta-->
+    </div>
+</div>
+<div class="row">
+    <div class="span12">
+        <span class="mobile-blue-line hidden-desktop hidden-tablet"></span>
+        <div class="content-navi-wrapper navbar hidden-phone">
+            <div class="html5-nav content-navi-top navbar-inner smallfontsize">
+                <nav class="nav-collapse mainnav-collapse collapse" aria-label="Hauptnavigation">
+                    <h6 class="aural">Hauptnavigation</h6>
+                    <ul class="nav level1"  >
+                                <li class=" active has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/schule/" >Schule</a>            <ul class="nav"><li class=" active">
+            <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bildungswege/" >Bildungswege</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/" >Prüfungen und Abschlüsse</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/besondere-schulangebote/" >Besondere Schulangebote</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjf/inklusion/" >Inklusion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/foerderung/" >Förderung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/ganztaegiges-lernen/ganztagsschulen/index.php" >Ganztägiges Lernen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/gute-schule/" >Gute Schule</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/rechtsvorschriften/" >Rechts&shy;vorschriften</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/schulentwicklungsplanung/" >Schulentwick&shy;lungsplanung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bauen-und-sanieren/" >Bauen und Sanieren</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bildungsstatistik/" >Bildungs&shy;statistik</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/" >Unterricht</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/faecher-rahmenlehrplaene/" >Fächer / Rahmen&shy;lehrpläne</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/individuelles-lernen/" >Individuelles Lernen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/foerderung/sprachfoerderung/" >Sprachbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/kulturelle-bildung/" >Kulturelle Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/politische-bildung/" >Politische Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/schulqualitaet/" >Schulqualität</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/kooperationen/" >Kooperationen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/wettbewerbe/" >Wettbewerbe</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/medien/" >Medien</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/reisende/" >Reisende</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/" >Schule und Beruf</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/berufliche-bildung/" >Berufliche Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/jugendberufsagentur/" >Jugend&shy;berufsagentur</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/berufs-und-studienorientierung/" >Berufs- und Studien&shy;orientierung</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/" >Fachkräfte</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/lehrerausbildung/" >Lehrer&shy;ausbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/einstellungen/" >Einstellungen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/qualifizierung/" >Qualifizierung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/personalverwaltung/" >Personal&shy;verwaltung</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/" >Unterstützung</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/schulpsychologie/" >Schul&shy;psychologie</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/gewalt-und-notfaelle/" >Gewalt und Notfälle&shy;</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/praevention-in-der-schule/" >Prävention in der Schule</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjf/inklusion/index.php#beratung" >Beratung für Inklusion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/bonus-programm/" >Bonus-Programm</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/verfuegungsfonds/" >Verfügungsfonds</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/jugend/jugend/jugendsozialarbeit/artikel.340995.php" >Schul&shy;sozial&shy;arbeit</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/proschul/" >proSchul</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/schulinspektion/" >Schulinspektion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjw/ueber-uns/adressen/#schulaufsicht" >Schulaufsicht</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/egovernment/" >eGovernment</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/" >Lebenslanges Lernen</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/vhs/" >VHS</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/musikschulen/" >Musikschulen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/zweiter-bildungsweg/" >Zweiter Bildungsweg</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/alphabetisierung-und-grundbildung/" >Alpha&shy;betisierung und Grundbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/fortbildung-fuer-weiterbildner/" >Fortbildung für Weiterbildner</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/lernorte/" >Lernorte</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/index.php" >Politik</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/" >Bildungspolitik</a>                    </li></ul>        </li>
+                                            </ul>
+                                        <div class="beberlin"><img alt="Logo beBerlin" title="beBerlin" src="//www.berlin.de/i9f/v4/css/images/logo_beberlin_darkblue.png" /></div>
+                                    </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--NAVIGATION END: horizontal-->
+
+<!-- content start -->
+<!-- row - span12 -->
+
+
+                        <!-- NAVIGATION BEGIN: breadcrumb -->
+<div class="row row-breadcrumb">
+  <div class="span10">
+
+    <nav class="html5-section breadcrumb" aria-label="Breadcrumb">
+      <p id="aural_breadcrumblabel" class="aural">Sie befinden sich hier:</p>
+      <ul aria-labelledby="aural_breadcrumblabel">
+        <li class="odd pos0"><a href="https://www.berlin.de/sen/bildung/" class="homehaus">Senats&shy;verwaltung Abteilung Bildung</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bildung/schule/" >Schule</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" >Schul&shy;verzeichnis</a></li>        <li class="aural">SCHULVERZEICHNIS</li>
+      </ul>
+    </nav>
+  </div>
+  <div class="span2"></div>
+</div>
+<!-- NAVIGATION END: breadcrumb -->
+
+<div class="row">
+    <div class="span2 column-left">
+        <!-- NAVIGATION BEGIN: vertical -->
+<div class="html5-nav content-navigation-left navbar">
+    <div class="navbar-inner">
+        <nav class="hidden-phone nav-collapse collapse" aria-label="Sekundäre Navigation">
+            <h6 class="aural">Sekundäre Navigation</h6>
+            <ul class="nav level-0">
+                <li class="active"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a>                    <ul class="level-1" ><li class="active">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" >Schul&shy;verzeichnis</a>    </li>
+<li >
+    <a href="https://www.bildung.berlin.de/Umkreissuche/" target="_blank" title=" (Öffnet in neuem Fenster)">Schulen/Kitas in der Nähe</a>    </li>
+<li >
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulwechsel-nach-berlin/" >Schulwechsel nach Berlin</a>    </li>
+</ul>                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<!-- NAVIGATION END: vertical -->
+    </div>
+
+    <div class="span7 column-content">
+        <h6 class="aural" id="aural_maincontent">Inhaltsspalte</h6>
+        <div class="html5-section article" role="main">
+
+<!--anker:allris-->
+
+
+<!-- Hier den Applikations-Content einfügen -->
+<!-- CONTENT -->
+
+
+
+
+
+
+
+    <form method="post" action="./SchulListe.aspx" id="frmSchulListe">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="HvoACd9ToxMbZ5HkELVrBHt5ANwmx5pnusKddImMiYJG9DVetLyGGtbEUK7eJmx4fQsdYiKe8P5jfs97IBXw4eEv4PTEAr1jzI/jZj0xGg9vN7lf1UVnTqMBm7zGXuNcTLe1Z4e+byuGht/EzoSnr7/Tkh7KcdT5WG7KjNcbNNd0xo9bNgckHbcRvqm5vxrnDel80oyLQZIfFlpEBI6oYjmtZ163G/UhqbFbGFU+UKSmvdQQqorcp5kLw6YJnQZsKmMoAROxFDLezWn4ddSvxpaqQnIODEsc+YDUUxbu4mwdAXvdD+zg9A6BVnppJrIPg/FAqG3FJPrMtLZPMbmkd4k5lDIAwBcLrnMrQlkqwxK+rSEVuqrliNO560hwEDb9Vplf0IpQ/YX4i1Mu+76imNkbMe7nWK6+fr7KaE935dIwKUxlgMcRH0HmUpXNu8iPF7rcS9ZtO6LwhuKG8XHrZuoHW8NLBRXq+GmYImu6aFoFYUfxkWRpD+AGXuS9K9RlLeIzlEb5rfRlte9rteWfNi43BfkQw6LJ1rox8dSjhyy77jNDUOoY4V3WqXmpfov2jJPd1qVlD/d2O8P6nixC0P9vAUw3PwwnTBFTtkN1cpp2VqS5tjaLFG7NXK6ldC+dw4u5FnzAYBMgHND6zSAuP3yBsbS8RbySJiySB/w982KLZifR++PGeQF/6Q9Dfefw22k//nrPBVi6cQu3sW9RKyxGNLfW2dtMrviPesshUqTGoDYyK8liMGCntNT4k37tizzC/5zXnw8V1WquQj/WCeTc15tNeQ3bSf/zmnqwlXv2jYhG38ANGzcp/w23TO1z6xsiTpo3iZ/xa5EN6dRBohir6TqyenFy0PTswSJo8dUFibOfYMKqML1srwbUh5eWlHceWFrVJCjhtyZggTbsxTFk6aP3ciRys+nYfhhDpz416iiWb+dcwHyxYfR1H+HggBSU0YUHmjvX6np8aYfeCwAM6TgzRRnzaFXNY7S2XhpSJPyr/aPN6Ri7vGW/ZBoBOzDwcEZ/uL5DJQSqRg+VhrVFutVEEGSmkEODXWzO4WwX9M0gqej8XHQEWlPaLPWINAr6I9wmNPdZdSF99jNcJ/TbuG5P8SnJzMpVT4YxMG+WGINcBVl/mzt6wxQqg1IcHbSN+Ht3yc4BDZ1EP2yvTlpiqCYHLUS70c9jxvrKrYKIuAW4q1AZWD0Do5jCXLI2vnpscBPkQiKrVASNRW88kBHScwymCwbr9wA57bLrZvApjp3k5rcJnZrxcrycrtdSiUaUCpBa43FTU/icF5kN/81NafCNlF3HfkMhn3GtPWlnjC0lzhboVjlcfknzMTGpflqomCTLiFOcSf7XntExD28e6/4LKk7LtxiUhQI4ZY351GtyC6dJdjlx2tFKVxycd+Zk2QMAHoNxhusIALrfa38x8Oi4iaUWTOWCLg63pvXyvMW8rnxz9JFx+ZQfRE8G7AjjTWTb2wBF5dhhW181IjqExdmKK2vBEZ1nD0JTpfC/rMzD1d+57xNZ7bHVB+qWpsO6Oqd2+FYX6VCUtlMkhEs2+RH3UXUO114Oi1AHgVLqNUmkYMBn/Fx9ZDFxz2DivNbdhxpQnbDttu4R1UJ4RRtbGG4YA/WwORsHoZXDVeqqDaaMadTIoWwmEZJ2l+UZHwdJA61GppQAuU8dXVNlCwCUzdbGikYym1bDxRg0OF/D+eMwzCthm6Fp3g5D/AhrHWGbd6qwwJqhiQhLEL9dwGxfDL/6cS3YWJn3eaSBEcG8n4kUTqfkeu0+vm7ZaDcloifhpdEQ5AI0lzpUjCM9aeuSHm0442h8WiJZJeQEgfHgYZ7yt4ROAFSAFZVfkTLPHXrUh9nN44WLmYGAWhXYYrKpkRzAyIcEJslOM2yUPmXqoU+s63paDbWy5/jgVKGVdJLbLW8949vcENih58VqTU7tgSLWhmgzIyyRccSGEN23fYHtea9dO+3KvBFnVIV8++5aYSLbizjgsYDlojg8a0eMjVOJTaEByKV/91B1x8G3Ryo8fuk/b3EGZpBazYNqdGqT090hpv8MP6q4bD6r59osoPw/JAsJN8NxXPP2mkHnGcBQaW/JR3v+LqLNA6hJ8IrnZ55JYtYC/EyFyu7XXJXYee78ZNb5hPq8pjd1Cd08Km7ZkWEdYuoAV7bymslv9BcRkMO8EEeeQwwaeVkoslRmVWt3p8LUpbpQrn0EvvOc/gGmR0lGngelYZIO7UdOwkPOm3j5+WusSILYGyfjyWOl9PNXSZunPSJ9Yv2AHqSpYz2+v/N/wWWH62B8RBVc+IGIlUk9nGqQ/Lghs4+KxYN80Rs6+JgVQ8lS8QSsXN6PJktEF43ef56WhBLUNBXEWaQJhTb1hP0applIlgWkTU4jwseVpv9wEKlwZXQq5KZnFswBwocgCfFS4brOU3G/bDkVvEmgRkXXdQSItptx8/4X7ZiYvCLM70s2QzR0iL+DhRs1JOM5i0G5rmc7MBlR1UGDdq/vSsCBuRVUqq+qPUeMPr6/PS2CQYEzZUCHaxeja71lTxcivAgnBuEWMQou5/jrvw5iVuZEJ7zUpXPO1m2Yhmq7GoF/jcssxRHeu5Vy4sjL9Khm9mRaXunVGUzePTuwncxWLBDETDoG1HifEiskK0Ug4sVSPHmnIn7+UDXKBx1NmsiFmSjbfWTD18xp0xVMBS7/8FCUmE5raubMHQSs6XcdnoYj8PPeTRAON9aJp/TTBIlNbr4KPg1+fCbAMGSJKhbLj+zzheW7wUwxhsA9JHkkw0oTY84bLk4OSQDtfn97GxWTL1OTLsa4dYpGmxJk2VO0a2X3E8EzaL0hd5pUjuJrCPSeFsUZd2PZTgDzKGtzdV7xB3KbbMpJNPCjGLt+iCdtluCjCKhQgsnZdkX2PUEWM1+/8qTwfBu2cmCxYFb5Psk0VHJzuHutuVD5jhvjO+jJj/hLH290Lh1Vj06+OAF4+2x+ELTVUh8zudDHrHgku1sxu3kmf/Fx8Nbb3eRQyfQSZXs9ZLqx8RVM6mhIFfIl8gmcSMgrcKWjRkf/qeRVUni4DaYVe6ulXpgXM2qV8b3WpnH9w3v+Wf76MfZadcS2ho7imDZAFTNOoYpkqYfawlK0J4DVb66bQ/V449OlG0HYkM45af4kGWXMMRwo6YvSlwyvEktzHw2zz7B4HN++NkXRH6XfAjZkNUyYzgBkayS3HM/kIsTiKuz7EFF6/i2NQY9zomt//26S4K1vhXZdTxwvo1qb0oCJGoq68aeOf04SCzjYoCCXgnQR0RMpNQUzrsESYNEBeI/5Lz1nT7dZFBFElFE/GQnZDSVsIbLLlK9rcP0rx/9pJaTTgsIzKFJ33ZDP4c9nKlPpJBeeNj+X9LsqYKPcJq4auT/W0JgVJlnWarrgdNIjpKytXZe5tVVXVr7EK1cTzdz2BY4L9BJ2uQDg5CAwMiqjwVgYx8ZETOKTXYmr0gd+fTuB4Idt2SX9/q6KA1a10zKJaG3vVgu7J/CGIOlaIFqgy95wLREfVQIYvqf8g/ui3F44iO7wJdV8nz7ZkyQcuJQuaNDX4Zg4OoNv1rzdMU7Ms8aVmyO3BWKlmYHGgM1vvqwmlOcgQgX0VTy0rk489seppDmsd2gqNgMB/rhQwxGlB8C3PjrDIqF2EoZw9WJBNQkJkFj9L4cy6h+DoKObsMJVOuyyhigBph8Qx7EkgKVp1/xhSAReJrRNb9bLAoKZs6SMjfSayoKWLvuU3pryOa2uiDXfIZ0GihsB8j4ZFBOxhDavkQ6y4LlIE6yVaq7odRb89vqRG5xckuBSybA6RwjXJ2NVc2K/H81i2YjjnqWgUUaYk3fC1RX5+44fIB/Si43Li2Vez4PFnfRyOPusOkX3i1+LO3Igxi8DsGLpT36kfqLkAYvRf5n6sKbFTa+CvCibEiMgDYrwwOXqHxVTYh04vZC5qI3tCEtxD2hgu5WT5Syp5HUSzgL3R1AWz8OuNRcyPSq4S7qP1iu0kXAnJk+mNLsi7XEmr84lSrtgzlrmv8K+YFB/hCh2069m+yRMCgyB5Zb0a58+tHKE3YLyRsLKUVTpDzATK4oJgnxbSh342ueNZR8Ktj38J2WkIrim/wN8DFzXCv4zs47pktGpHXmu+yi/k5bqeGOGSDJNLIgp3Be1+sB8oGlfrsp7oDzO0tAg2qnzlJWBKSxrZ54hx5su/jE5Q+9i5uxksd8+39KAmfGJmfkGvm5pJ+W268mrHPJ0S9SZJtMvXfLZtgWMRkpV95dtdtpC/tIZXqVnCuucct7ZTxTf7eROZvpuw8fFQ0yY4J/Yi1rs3tfZkJSYwEgk/jVh2S9q/1yvb/8c5vNg6fIhkj1WoXL0E0dSjd2pmmiVcD2EV3VtjQjvP0hXzHQTxwq+LsoASm29ckPA4OdlPS9+HsQ4HUq91lCNw+nYKcArJDhbgVwm072HqmlBYRS5pN7T+dKPmUYwl4LymavtRLbXMusicHJcQGBCPnu9GvaAHfjdKL+0lp1shxmzPNWhFSskYiXNWdNBcmOUDInlOT0JPs7b2mn3cd+3IEXKd0PF5EJxM4L7suIvTi67jSk2SUviVKOzK5hcYsr9E5oduLvwx//Y5ddvApIbvir3mYUlImhZK9MncLpcYw5i79kH4i9V6P8RMFQhgkITAEXH+porG0Lc846V1w0VrNMdvinDIp0Teh0/FtRQvEVIYKhK2L6ZZmE1G7BzUoRRkTW0WFIR+5sKdaisHmP+hq+LAp41ERwXifMfC1oFj3BCpNH2Xp4UOQ0foMteFXCceR77t59npdzbPWdtMPcA5BOV16Jy7B7QpRmPlCqCagrWTBUa4Sl5gb4ambzGeB3/AvMvJUsKqpAqRxTERC+h839lb3xjGZ+2ZuQKmlBjHOuy0lk/QikRSwRuhQFgBAAZ/ILQrBja0hJGtTw5kbHZgQm4e90yawbK5z33CdQhhlyDn4Xgr1qsJOm4P7lWTtRXxWlfhRTCJEeHuK5cW3sRnst6WWdiEtkPU9BIJphtmm9yOr2zFEDSjxwAWbudLIZmgVdss/Q8/AemXacd2OedDhybGbOd+dUpEKSjHt+jUrNQBX/1IAXqZyPgZINezILJjfPMb251ZqMePhE3PBxw8CGGvXZXcL6LMKDcmq9g7wOZg4bRxCQzTM8LHJBX+DNCsOqkR2XoSyOdZKjMKs59ExFY0Tfb1lIjcuJFIdg6MDv6mCugBPvQPcx+q/YGzQwasjZSaH0l6JfpRC5Zd5uImABGXRZ+NwsnRvUE93CjTpQxeXSQZ4MUs10zR7Ph/mEb0y6QpjD/9MZ3HpUZ5fCEAjsCixbN675J0IxOonUJH5uJwiYgjv8Y2cq0Kutyu+1WLVAAd6nQP7bmrdZxSKxl1CGdXxu2nqPMvbR2hhfrze9pJlmmNi4PTDuHDO8ZuGQbQ6jtncTAZXrpNp49KFledQa4xtlDsjuf/pbxmLeRdehYnCY6X01jCPQzUFQxqLsUFvEZidnq0Kq/fq1e9wNKCb1ImuqO+dbnKENwYkWbtfO2LG95nvZHwljmAuHb5b67ushJbQF0zja1LfewymEqM/XExWR7nk73C7ms2Vwkuz+QxK3z+/P8CAZ5mcwjG44sYs3S1hIiNzSbopwgpRKXHIl7LBPG1R3DjVJHGxs4g5cYkTWpJ3rbasWtiIWEZuV2HVv4GSx/XepxlSumU3ZhBvqsfDoE71mY0UwOVrB7iPxUDBGeufHsFHcHauHOm3QPEXUtmw2g19nHh+r3nxwTPT23I691e21lxJHRgEnBBXfwMHyglFwDd7Np4OahA8kmC1GFgexOGiVY5Id6jRlNOtPvPUKmZEk68JGuZ4uIY4YA4kZXNe5ABOKT/4rlL3IVVinwykBVY8wZJepU/ROwqhy4S6x9Uw2za9UnuyyFyhAX037BeIz+UBlLQlvI7pMFEl/zA/IN6bzXE3R41bz3BMTr5TB1m7GpzJrPy1R3kQOV/xtDwHOCiPOB1zq80S5hzqsHb37kLezvR6hcj+6SDF/c74EJpwzRff1iToe/sUvSPLlO1Aqrt+RF7Yd1aYpfVgdUElJWFVLA3T4QEUfe498e8dc1dhDfIZcHtZtV0vlJHNKdh3yGesxjPxi1CpdJsMpcX5xJv3Z95JDZEAOQ4U4IqTl99d6upQO8hmhOG+3AkHLf2KZp+u9VBBv9ts6nkHtf7IwSSQ3jRykZpMJ8oPlHt5itFNceJripWSXFDKVQ49nIzIA4f2FjtSKEqQ6Ho6+wuhBhJC35ZOh8E3i8cooTLrH+LldGFJXLZ9aEn3advA67sNbkIOme2h5mT4RcWBxumAs5AH7A/+lB8PSsYu8Dia5r9YWkwPUSKhgRiGzL56OfsgJlyxf87N43YGbFuEJVlO2t2qK9sgrn6WoYmLE02P1kv2LXr5BVOLAHVyuRQO+f4+yssZYWysV+qU/HK0frnP7r09Qfd2mYVpYMnV4yIZzlUKf7ErFZOLfe0SgokKKW59I9O8mEjlMR2EpH9Asmt65jc32pzol1jzwwMZDO1MV6d2qKM7zj+2a5sPFwfJMLEnVqdjq4yw14Bt3wQTLQU+lxGL4Dhpe7v4xL0j9ra5lDDVRh4veZG3Yik+63mCiqwXYLChODVZv1jzCk0xstfzd5J/eoQBozE8kK0h7m0+S0yOUeV5dkk/m700C06sxrqN0mCs8BuL1D29vgb0C+QOzYjzGa0fYcvYlQ00axUJVIT/6Gg5m1jkQrR0MvN6IPHGDppCt4gX2UTdheLNfk25Bh6AhyqeMW+StAE6q/a/E6tfPbjh1dEFenXbd0DpO3f0MTdm8Z2qTZwQGthAYej9i/JlS0WBqjbs5L55JkrDjvth3fcpL9MQXtQx0RcjE9o7ARkg5dl7kzuUjEcYNQxEzLIU4OzQtekjaK0Z60maBzQs6HsJ8vkAW1w/wnMn0itKTLtWQVGEUl2DfoNyGV7eA4sEWPBKWK59YZtsUzgJu2+qr9+7ePCQplZ3m5SWgISPLbmjpY0iwVD7zYH4wiyx3TxoXLw9F0aEf6sVgQXquRmXxtyhU9yMmLiHciwk6jmKbwFxdMKg/L237tGtYtSVCEntRjqpXFKwja58c5QOFmQHEOxIVWoH/trSBnjtC0JWA58om70zD9XiKFqfsbcoOF629hh2CGd8Gye1sIzcL5GvaI9NJqIfWd1TqFQjHc0RuMGbMeZQsP1gva5B/mSBFyhIvUyH9LfHf0xeng7cuvKfXupQopV1r/6sk9PmrUVuttu8oh4hs4vkkvNRa4N1uJvO2gIEl52S4+Vb1qzx/eqGVjN/nML2/99pVzoskpjZMDF1eqAXKTBf+IX/JfzvsMWO4vDZY9wojZJ9uqumkw6jd279mARk1VcXorgr+f7GUHlObJ0xzEk9T1ypClgqe4BUuKs0vui/qNkvWhDzzX18w34OgvGfT4yY66DN70L41j23bm1F3ifBfZ+l7ncbvPQ6AVQfwbtiACHK/3YeAekJyKR2z82VlIu4TIPXf9WykQCXv4BRdY+pDMUAyKDU6X28mRl0EQ7vrzFbUX0CrwBbJyblWsW9aAqc7Xfh3HNMrzFPFVypnONc4SnL7MPOeFAUN/sTWvAtvDUu6DqqLictXKmpi9qFUL2CFHctrme3uZ5WDzdIdWzpCgVVstPDfwi19mO1dHUh1v8hvF/+/l1/s39cp3/Na9F5yix86J4ehRQJST/VRqBNs8x/2c1jFCmjnzB97F8zPqnmjxdvO+G6Z/CAzxOBpU+EdfbMtS7jmTHGA3dPGT6JNSBW2lpz08yQcWhBcwY11Xr100LUco3GQaNEZc8zpg4KpXCooOM7grB5J7z6xLbKy7w8MQEqBfjsi91NHcUMtQPkxgsxs5J52c3zjNgMhnrojwlBwrJCBvp/S53nqUdfu5NqVCs0B6JLmJcyw+saHzZ6y46dGMmyI037aIdoya/V4EsCDYib+mSZAxkLRGfJBhpAPxPmp0EIkCI/bXPkiDCbjcFaTb347PzdvYX/fa26wdRRst4SflRygh+qfRpT8+IOWKdnV2SWupfJYjv78GoptXBta5N24eRE8W9EBesaoWQrBBSIA9wNE3ZizJbpzv1/hYcbKiCSpc44oUeOwLcQ4Ca1ns0/wVlTGYGbMrkgMb+2VDtvLHA0TGhIgS+vIBfHmCfFVPVUasTpIETxAdwxX1NLXgtuWcJKkOislfXoaFfV1rA7OSimKKa4xTwdFvNuirree8TBm9PwBFHId+iNJQy10GVQZjjKu6JfJRzHPEBIS8JJjk653LPJX68jRdEzTnIOwEbnhaVRd4Zx+4OWeHTBr+6G+18GA26eTN47GsfKkJYQECTozisZfXcjBLDr68JhZW74VNQ8Y08vPAXDq26yYEqvR+h9RXN60jE1ztpjGI0Fsdg44Sko+ldwEwnEW+GQGluIdrrw8aqrhgkJlufxH6WALFF8n/kpuE++61hQykPY3+Lzju748PGzF05q7hJHsVCTMogG0g9dpCn9jqcBG6VNl9Md/NMBO/K7xXDpVpoE/j3FiHi2SgF5Wd5oAQdSyxOePOi9aV5zRAavdkvSXeRbGt69cqtKfkF8ZEORG7sUtvgTO3EzAT9U1LSkxeLpCZE589lOKfS2Gg7f3PXGoGapaQH6aHRheCxOScBrw3LuUUo5Myw8pS1pKjibO1idpKLFd3Yo5Te8GKN77if0MGfcDsKEsvBt8WnyQuCOvUO52JnULUHUtmcczX6fq/YL6/m/9hbO9iOfIQHGwlVx65aPPI+33R7lZw+c7RzXQvLloaYKlQ/MlV0lbxPmIqA8ade/I5cKEQZ9dr2o0hSA6Da3AhVQdF0TrMe3ic8gZ5Sel2sayTDqbXp6lybZ+uOzMCim0ga5SvDamIEbqX8c8HdbcRP+0Hu4sQ5CmN/M99YnZG2/YqsuoWEsbtMPDdQsArkLJ6oDnsFeAzLKiVv/1bKl6PJGhz7MDvpdXBOKkQrZPXtIj7+EIjTYJwuJ8SRkajOb1iZZFhVbS+W1eFcHfWYI6mbfhA79do4j2xM9xWnp51QeAFXNIzyZvONf0kO5wnPtToskBdzQ5lIbSldjaiduFuwBq7rrmUfGjwhy2GHztysl9Pib+dlnkVRSbX5RE2LuD37fwg/1i2j2FKTlYhi2KT6E5fseJ1mI/35wuWDSy8EAtUTcctgIb9v2eJ8Vsl9xi75H2oFMjUIli0EEl/0DmRmLX/k9cJ2WNB+ykON1fhFGqXWtCDyxgupZCseQw6khVUeLra/oX11iKKjiGjRb2Lx5t0sUORzT07zIW8kNRzaWZq8JCieGrh7RZbQVuMQgs8dSpsyTHuu4El5k24yXTsvhqR+W3iXiK6wp8uZ3NkrndALJaYfjSy0egjnXgMzDPePRTbTkKTV+U8mQAXP7Xsbc+SWVbu9sbJTGmvaQd3dNfqW2QTwGCXnUHj0kVTNZXDz71yd9gwGE79j7bPWwIyrVydcj3iRPDZDYxZLJzoSu1M9fOHQP+TKBbmJqdyEZ4DTonXNb+gsqNBZInHwJbw+RWNIAYOU2hzhH6YEPtfRbCqpgzxg6zWTLzRK7qbEVQNWiFHmZKBT3MF8RcAcH/nmeNYkmrkkKCAk4uXuc/CAjghFS/nhR90dM+hR2IZ8j8GCLMcRNT2CJL3cLckMPFVk4b1ZQyhfgj27p/Dk+EBH8qxNjLDIMSOD48LMLW89kDj105hs7iH7YPaxysZrH68qvcr1iykjFrco36TnhdskQuSLY1IrKBfroXMQzw4XHczdbPhMMXQNM45NmBJkQ7HS7Ja8lBPsxghqtGgCnIXlM49+X4ncav0NWbqL/NOiVaQur43SfO5Z3zh+afG5HINyvx/wChJBiYsJc4Vp/6FaSjLJQ4uc8uT1397jgptybzPI7Zt4jTmTfWsoz2aNccMzLQ8X1KRt9d5vylwmaR2f0s7Qo+uqMsdQEr86NRd8FgIp0rVgs9g4PRZafj7tVf3h9xZMCI08PRhOAX/j7iiOTKccevy7dWOU6LItLw4gk6n376E+QqvV44onCoR4q/YcrNrTMLcFj7q3xXq+QuqTY2TGJQqRM9FwPtYGoc+sz8SqLr1Q+XUkXcuhns8Z9BRd48+yYFoB/G2GapKaIyazthq27SRAfZ2RL5PRIXectXj+bHWqCur4Vtd5zGqj8uRzAPyW69J7oYSSLwyMjlDdPL1pLKAdPn7o1cAtfBQAFDQ90ecrT3IDp8zAjDcLq00/5PcgNkgFg5E5snmF4dPbiuKCtRbMhEdzTZAMJ6ewx9haehETEt2Ncv2cxZmDN73r/9KTr0e2FT5fFQ5poDSFTc7AWpmDAfKu/qodK9awpUETNhz72dSuZ+DyFtcxgeWddsBGsFvRxxRSTsqRBNlFIyUgaai9wN4gCp/6cL7vFS/omJf+xtmscGqpYiW8REJR8mlJflvNbd5Ss6YIH4rvmHbOozz4ey+d4w4flQ7vYY3V3ujiR8rW46nJdmbG7ZpOJm4jz16+KgDfTqPzXQ46lCaJDsOVdqb+rT1azSNcDb5yWsIlkfNKaSq3BxN9nBEhDr7QQN9WsC+RA2FUNw2MP5ipURbW9B9BTujes9T30ueAXhCOUYebzo0MbyjXMJoWWlD8FfC+t64MPJtSzc6DR5zrTehbXizzLsLHStQZGxevmrB9YdtRSfb3L58Slpx/OEvWxW55aFDjCgbeSdbg9r8aTvTX2dol8CeWCLkx/BVQnrxQkfbt2zHyBPSVpkW4wMZNFmKVW2U4EVSrFPjVvEqgJJ3L9XA7f0+0JXyE0oAeTjyNxUmb9ZXwzXZXAMA1hnlfzt7iYY2GH1ru3qbEx3EHw9aNav6xbLtONV0ICu8FVUSISea9v1lzT7dxDqeU81TcGz8FvnAo7lU/Wgazno2lYSlnMPl539Cubc+4YpFKl7zYOCWt4dhCT3Zexxs+6lFYpIo6gynRbZRrNsOIseAYXDauXp66V4PvBGCd/Q9hmdjhNDyw4yJn+CLk+HXzk7pMr7V+FOomCiZqEzkxcF3kpY0DQ8uxec3Ou5b3EjOrY0rg55JkDHS/MjTJUCHFKgVxN9Jc67SOin/SyYyxBPwTdJXDQq4I9K+H/oX037PRVvGHBFead6nNZn4IrvGv24ZaJY7dW0bYuKEiARkTHuRCj2wRUp+a6eP4LyU3N9AZYpiz61p5GO0r5NQufxSjLPvxddOMEwoDD9eVbrjl/UXZ05KJM5hfauM9BLgbJJm0WtmukJVUILdZERp/EzhLEz0g33hjN0BD2pypw3I7WNMPmW0V3TnjlD2HX8/VsbE1Mbr5hB+T+8sp9pHZ4i7A9rtAb40jHhxWIoUO62VgQQavTAewTNf6FEaj2yWQbThnWYev6th9gjtojEm0yxuUV0ml4R1HbJbUnR1tPFCodGhH01j70zE+g/+VNSeuQF5TmOYgXfjCSu7DXtaNDTeL9J9Z3chqeMfhfA6EfjwTvME7H9Wi0fDL0NZoVNlBOjhnasAOf3Zg1i2G9rNEPRvlbMhHc5/Mtw8mE0qqdvihfToqXjy1hMrSWj01PcWFNuSk9M88+FWtNT+pEVmd4ZWZXpXSzXC2fT5S/h9PoFw2XEGiPLERHI63D3gctG7UE4H9XScK7aVaRm8ablMA54UZWalwssLf4Ud6iy6ET0/loHp21gbPaJWCobTYuHmxGUPhDEehksuarf//JONld3TM39K0wcjqSCZtJfpXnVqzMHiIyAfM5CcQIP7+7T/wdN0ZHfFGve++IH3n8+vQMTMhL29V4fmXZAmXrZs4cLZUZvM4x3ONWkwLOjZLgb5QcGvG9KnfN8dknNFsTyKbmLHgrSNH5vVCD0TtaLj5TS9salb46R+n24ZCHEaxn98mo2gJq79YKvhqW11TUKEVrsMzvXfRlzIpH4migmr+A5mufvFOs/dsDl+tqOf8jDKzWK497Fk5WqK9jmdseuWryN49J55W/XG54nUPFp5XNT7OyTUFLXRA5vY/o/CJLxBfW+wKW+q/5GIZ/4YaFFdJdDNrgyLdVam4+rklxa7W0KfvNPmv8vgdPjElEFss0YLSZveqg8oUlCJ1mzm9uhnsgucoRHCGlIEiONcwEByP+QyKMXhBKwspudkiy6zIWKpdqlSMdVcez7uephIP6elavvgHnJUM8CQrNNgXFVVMIw+6KSIb8kqYPgcFyPgdMUMKo+r9ClSsXgb+mdVXOfgNc0+BQluoXP7cUyv2BfEq674Sh5xp+m5VqtSpBB9wM9Zg/jSt6/kKQFXNaqNyEIst/427d+5wUI0nlxdidld8p0Z15iQRwxuYRjFi0kJeYtyL3RlbTAz1Wk+1DQ4lQ7aRTXYOFmN4OR1BhBGmkHFPKfbD98gx7FPD6uHp8SQobOBDkajESot6DBZ8x/GQUR5Ra2gbPDyjaUf/7bQS8z3re5Y1dYgF8w3e7E0nJ96fSCExIiM7CAXS/rhaRqsFovZNQwy5QgwDu5Sd0Chw731e7CRftI5SMwWCeDQyVJBGf6LV1wFsWW04KpM47pq9BL5d14NAFznEkeh2yJh2nQbvZ8VnRAb0AUQhPeIRPLj9DeBXtQdtSQDtpzu4FLMdXl+/YWANsXZ9JMmBXzPfsCcncCma8+iN/Bb1K9OT/CYz7dmzcDP+fZIlRAaWVTwK6baXRze1VsimZQZHMXym1P+Ick9X5mBKBz5tBwq1phM7P9on9Br0/uyxPGX7A+BKXVmULvqnHrGVTKdS+Hqi5tqcn9akVx4mHU8qw/g5HVMO/2CoYF7PHMxv648R0wzKXcLsHp3dARfRwAwqjHPWcRNpiFffjb0L+rYWXkkRx0HWyoWWEOuyvYsgvLSZQkThrSF8iYccQMSogG396In0nL/YRle+MJ1ypGH+DMmfd8lndiBRC1deWSAD7l4VbxqjMEGZ4mShfp2ZLUkFM11hrkCq30EyLi0K+gz7sL+TgvgaAtmqGORdyauyYDBKulOJ5WndVikxaaDNmwhZ+V7cFwZ/FHzuitpPr0Gf2Zzx0aXOZRpvR71L97Jx1Xzy3eISVnDgxGFDCos1ByAxbTMBkD7WLU31XUfCEu6V1COc1LkHcSJ9cPf5kx5e2tS/VuuFAO+4uoCifqpTQHLjzKUHvgwnz3SzEsVXo9zRtHLgmaNTVc4tYh/hMUTBkcWNY8olJISViJ0sd3wBgTEmI1DxTuBVkxIs4sRN/5RjdUoeNfoKKEpGNUtVBWuxFepbbY5Z0y0ZHKS9snzN9/ndnqkpok2NtyezoSjkU6TU5kxx84JrPMCztGR5Pix/J9PxITotfppK/qVH269kuBMw1W98/CJfqW4EsU0HOVjlrq0hIbJgcTelb9UiFrYaDolBbQSK3LjhxIdFMpVctMD40Jb1Gn7uhlkkzZ70ODC3tPkTUk2BBxQqjA7T5zpGTRAfOwe0zDZC/jGGpUtj8P/alX2s/JR6bA9LjwQAeP8PUArno1RgwnvjzQ781rVJRn06j5SpThC+6WsJsUOauK3ircytziGN+1qlkLkwf6DN/AtfbU8+hdPxvNqci4arrwMjk7AOYWMI6SnRHYwZt0d9B/+SFPg7V6MkOLotWCRKpRHHEhs4SicPlVshCX8plpQBKIKM5nmr4iZsbtjLKTt9ff68iHSkG8H8lS01Q4esyUpAEoWMCfcKkkPzNhuMsRzlu7fdVkOjGjgpZ9SeSiMIg9WRuMndSFttz+f2KB+kWOe4VzAzj3uWcLEAAqbh3qmOqfQr/zq3ICOoy4Fk1sLiQHweZsF6ChuDQWmgTG10cOgp0DAOu24OgKRPPFlKj/H3YKTfsar0sh9DfofUM9WPlP5WgbZyUI9/RgQMhefAE9ky8AaCvi9TVSY3QBLjeK4wUs64vlqiAvtZyLvRioyLrL7Ty74iGS4lNKzTvwLMJ4mhEZmDS5g0dqn9WYmKGG2NKYhD6vf2yzlhdOi3D4pp6Rf8/80K9RivsSHSqM+SqZ1gvdHA8mjFkwRHDrUo0cZ5d79LVoqBHdhi7m9LQ0CD1y8PbHnJEYRq9yWkDd9euOapwLSqnyOSnY6MXMBa3vnWDS5h8ij7hdT5bCIdOc8WUh7p0h3fxbx8u91MsOgrj62ogTYVFPHG8Rg7P5aD+AChaRURGHAwNtDo5NfJM95oLCvPeAiNC1cNLyz/ugXAC26kmXGQ1tYCsuQjeCYyQdorqF1rmyGHM8NRuoF105RFskGxFYQZVaO2HAw4EFUsoNt44RUL6FekRPfF3NCfs7jFvCl3z+CSiBryWaKgahgGvDlF/mqeFCy/vUdOvrp5XeNcRuHTRpp9xSYxnOAZsmCrgk1WnR4WkK5QC0P0gMhijj0zFLNcvX5xMVU2XEDQGbalCo8rwkpPBZJxFdWjoYLlyNgEGR8mJF6diAKGfwvZjlBJ9IDkCLcRLKbsZ76tmRowW2IVnk56q88Q6eOSWNiWA1lsXouDVFT/3HyizCCmuuxaBSwJDirLmqo8sytkN5ALq8EcbvtMamGGvDE4NHgj8b0ecCCuEpPde0vyVDtnnbNVJFxBvLN6+psOA0ff2kONFkJBAt3G4BroKbBO4zjI3TpBXxqZ00BMmUD7LsnF6s+83w4O+gwwDt3XNEQlxdlsEwrtjA3KajWK2txfsH3Fn+aJbf6t7ysdADNepdK/yMLOONwKvs5C3Idrzo3BbhZLoUmKfGra3HhNUPPjtQ7csZQMyoLWZN2XClqiU518l8u91Bq/yK0YHRohKxruP6Q+YLCEYGF6T4tmNx5JIIBrDcQ6cNS8hs6/B16l+1l0gwI1zhHye8Dlm6gHvHLSY5w6ml0CD7srpVDOpzPf2MoxareSiyDtnprPcMQHN6rS9vk0yVCIAK6OC2o4DfbcA123ruB4BGplOhEqgkp59PiEevFBwxQYoHSVMgXc3bjxrHL3XkCuXEscPiuvvK7ZZqkFVKOozdH59QLu72LHO1x3zCgi7koRc4YjZpnmJfA7Qy6mnFiB4zbWQ8QrPKK/VKArebP31mY6rqaGx1HrgUR0VksHbbHH1s/3rC6pdI7ef4mBcOPrPRvVjTAGpvhZxAQTti3A8w4CFfV1K0h82U6gxulJtu5VOWmygUptkecufDHPCPOgh8QaVmCqev8Vt9CUGXDM5gidwXjz80FPyogrV1xV3n8ym0M8R3FotXeoCGt7TPbiSfvfhQCIP2AGo+N7Vi2/IVgIRTSUz6PEoIKup9o6takEGekqhzselgr9teuf4WyAASvJhJ/FNuJp5akBwHauWNuC1+iW+TDBuYcCrvxyJwPlXQPXxTJ4FDMOjtzxoU1+ckzCN6/9BqYYJ4h37AuqKneKik/qIzka5Q7P11nCNGXa5aZuaC4mePDBtTNGVg33hFF75KF3g9vxpifnt/Y/H88RnhB35wXnEJErEz/8lFUvrWI5BNGc30iWGEzeqk97R1iZ9OG98UdFBXElX6QGGx7nM3IxVTSeWPOVRcBB/AWSIEb5Xby/utAFQG8Fpv+BRwiIgJDubHzWqu9RdYitAswpP5xUaxNIm1wUSFmvAgaoNCmvrvclLOs1NhuCXpHf6qA7GIdxuWREpxDDA7gRStXCKxfrMfSxYf26FAzElKT6oxrlOzd0/KfeLYp9wBODtS+zQRZ3IJ8+0E5SEwsd8C8KsBIs7uJXQQyhKj9U5rGdPiCM+Kzd9wjISFbnWxZSO7uZ1lWobPOX+mWO4oFPuuRhDquM4sA3bAZGL11O+3R0/NOcomYJjxQOd5jNsjhPtUFSzbxQ3JpeX0D5eVk4rVUKQ+18Tqt0PKFmVfh5hARdsrMzsFWVIILUaJUczPM1hRaNNq3f6JCcxPiQT+8xr4lj8psdoLsNaxf5XwEXzIOx7MV56CZRyHR2X7NSItdWi/ZC4pEXtgKEDojJzYu5zFq49JuxSK+2KT0CheiXFPJE4uNsfXdleqfNGXyPbChfY6wGz4F+eLRtXVgSCPJa2EuyY+f8Sfi2owmZnTrDzKgoZXdhfhBIPipJjI58/RIbFPMwYckV2Qff1hDVHYUllTtgNHOJUnWzk0mgCmwjfZMILmA+E5+VhrY+ZVpyH2NaBsU62n1P04DtHXYfmcjLRARYUg10Y3oRmndCm6snc9kQwGtr7a6JHsmsVfo+hMx5XLy2DxLXnOgCjIajNKIrQhz9EvWji374sV1Me94S28XnRlDEcZ6nA2Fq56jla9ZabM+XLqqpg4H3vz6WoftfvwDfeQinYO9kguhSC/na3XeAjgjXhRLYZi7yo7WMg/gUB/dGBA+miX0wpaorI0BFOIObhRzOIrQ6HalxPomqzU5lBzO59FIO3IHczyrQph/9kGKTuJZRvsrWyJHCtNjFNodTIROAH8NoYtepsH2OCtYYVaLJ2c6uydxmmTi3r6oKuVTNahfib+7nPtcYXNdePzpxfpx/UnERWT3gfUrLGJmghLxjlGjw84CBJU3QDWOF75kge/czURU2IOfRa6mO4VH/Lxqs+GWWVxeboszfwCRtha+dGLauFVJVTmGZBmo8I67OsOFUuKmIznUpKKb/o9roajJa0Fsxsouq8f4z06TIvBx9DOqn0og+K7vh9qvjFCvW1CMLwzDbdAxnpAgP/+OdH0xxAvZ219PG/nOu1H2cJJ/9dE08JO6YX/Awh6cxD+TIFtoG1i+nEIwJaHJIbsX6OnC17jkuB3OWEpqL+1iqpNR19VXWxVG/H9sZvUqy/Px+j8JH7FXxZS5ufwuC39pzPPuNg4Nj80h5+GVwxeZCVX94v1immUzEvvvQHOPCbwbhxQjymaUsUwYhHPhRxtSswIYPUedEEkdxmi090GxIFBU/8A6KMPbXhF4j8tE27+vPGY9MXI5IQcWZhGdbRNSjexYs10NfosHxYd7I9lraHXOHeAvmYbRMh8XN+XDy/U1vg/ZpmV0aLJ9DD0ILDj1ccXdcdREjfz6ff8uqmhWyDV1AAr1MsQevbGzZF3Ren/+RVzn3M3uHDhdq6KQzwHcOyPwme/Y/GWt9H5jeSL4r6c36cKhIMzrkAn05Atq052+mMxhrgYj+0canLwOeEy9Izh/WaSrrXpC2/6Za8zx1tG+3Zn1RKxi/4RhWKv0NJa74c3JoD+usngDajiw4BWsndkSXyd3CYlWuiJZHOFRvE6ckboCTYa067RUB0w2GQPx5Fac7EPPlusRg8KG2KyFNzQRsGDuj3m+A9c8jeufhf+YwBvVA8K+1Yr+1q17pQ06egIyQdJcPYdvgDrI0TX2wdc0UU/AlhEYhG5NeaNfkMiTcBDEJR79BtP0xct+xYtLP16jYRRPWHryXVTPRJ9F1jKK1lDhWIsKwjRIIW+225B1F+BtLalIqll5rxTLQ54Jdud+K2grv/IYv+nLXJx94kU3hoW7YqQwoFVA92n8BwfwAzt4/i475YF30eFQ2dTR53wUOuIy4RgJmoLMH5/4m3wLB8fo4W3oZ5KNm13ciUB77ZXrwbg7MLtoRpINdVySXXMi3zLv47Z8BjVT7b5UCHYd/8f66qu9pyt9LSAKjCl8BDrwjKGHa7Iy0ZqzD9MT0BOphrVddS8QNbxkJ9O88rkxm9bTvTko/+BWOK/dOIGxkOT1Rqve5tzOCU3BmuhHjsMo0Grsy5wjyLMFNMs9Y6UqB1HPogHNuODc76FOjA7SX0y4eSMgnHlO8jIFK0Nk0yXVPukFIdVJIDin/824AkKtBeUYieeUbVWOwuhzaxDyItGUQqG2DBOEWD80jzBW+frcOfi/CUNGTaS9wckbgpanRD0DItkgdXz9+BPorsdWGgG1XpYXovqdjnhtXGjIB6JINMzJELgYI4g3WQaR/2oyZZ8m1615y1kKFCyp1ossFTMrrZKe81/uRdXjVk0u7bSu+AtahLWQlPxZJHcMyH3F8Kvnlb9H61bWNUaauRuEbSpAf3X/H9VjD2JFO5qUuOU1AoVmkasMYqCiTT2Qd88zaAne0D7IDWtcLoHXdTmI8G9SoW4MbnAmypxFDlOtcuMP3tk4JSQgCcQtFUEQ76CCw2cG05pd9divsnTtrVZQlWN4gF6vbcOZAFdhG3/cDN01DhE/lkSjDKWb5p3FgI/BR38SYlI4n0x2IwKnaN5IEAWIY1xRFFgO1nH1ioBeMO/+7ngikrTaEPnS5Ah3Yo3oYd6AVeo82BFPQRWJNLgcTQ3CR+3lBMWgZ4cnJxjDxL9xxpawTIMhqBwouphqYpBAzFAUuM4qMvmOGSPnjm+PDx6sWNNyE1aNaEhDzyoMa9KpI1zC4QlICsV1Nz7MDixjzwZ+VRjL5Hbvpt5VGKLUHB2oxykqCZP2W9pLsiNOyOg17MrX5hApM2YCtd34An/F9WFwqCF2cXzdGvYG+uYEojKTE98Q2f7wB3ArkjGTIVBNXnHbwkGZ5HsHS9E8pSrXBD/u/vh5oWNA565UMngoTo86aeDBNaK1CbnHVqE9Yh4VCn43gpUL34994lzWWJIImCADFV5xJ7XjLXpfpqZNLnRqVCgnRTKWP2IBIxUz+gthi3W6bABwr5xOfueaLejNH/fmk39R/5gMNHdZpPxkW7qNezTzF2+2kpCgpxqyo5iFH00I7hFysBG3JahZ0hfV0qBHcgVDaDvQLjxUmVgpqqt1YyGdBf4gm7TICAx4v1APkaRalVEY7Hbijn8U9pgRSgSykgNA2cm41ER6jSxd56xX+JNeGnYBps+epmUS2z/EEMh7dw9lLbKnSd4dy4IuY/1G1ncyqZCJfTJmA2xwGHPZ6rGsfNckQojEt8TToQJ31Iwq10LvgpYSadmEt1zUIT4g+8+11Kb47vr7Uz40u02BZlE5TO+Jv5KFCn6ufm08glken551BzVA3X9u5EMh3HVE6ulyfuHJ4dA420ahCvuMH4Kv1mdgK3Fv7X/R+uvTyZZGKve7cbQBrGX/eW3Rke9xa5DHSLUzDpBkbco3j5B1Xr9/gZJ+/MSBf5OwW9TqrS7FNuBhotWR78XhForOyCuB5qae4nt7/FpVArXESjeEd5wEzrMp7oIJ0th7WqpypxwVzOBx5yDA2Z0vsdQ3DtkEvxqQ00dsTevrtdmUI2hela9TsRevz4gKxd/rjVdGFexeIBOFUN1XbjXToE1qtSQjpfWkz+y71uhKoA6WJc59KycLX3NPO4qQZE100dUtxhtXFelOq8vq0z5zwZW+HOYUYKg3A2f9TTGyg/YgzlA6L5NxeEUGFW/FMl5XYn+W7Bxb9DfyjXy9AkPJERwcLqdCEaOwq/EbL+1e57rWNvjypU98ZDE//4rhDsjKqkiFYrv5Zz26wdLavyb7ciJ3vFPT1e+YbO3z/GiytYZHqteN2m6xXlXd3wlGdGiQU44JkbHPuoAwdk47aNckvEktVjBS7P5Dzy/Bg8kRlYhxR43lwzBh7O6FjZe9aqsCYuv1otW4YUfLw13hoX6KVq7m+spzzmdJHnEf2QHsr7Dx+hTwxXph7gsvCr2O9XKabWdA/FXLiqH+1tpqGt3IILgOdDSmOoD1ujbR7Id/LAoxIiVFigp0/GSTmUKg8SNg+q2K/tWMi9YA9D9PLxA2LyKdxWdUnqDNzcaJflVzqL+vhYCjkoiCJVUbYSykhGmiaPHI0o/jNz6E0Vwqx+4WtrwYd3Qs6UKK+RAWwM87GuOEpFIpNxoQu3zk0/mIEXm0uA14Mo0ZMM3VjbhAnlV39sA/joNe4OXMwa+aKpJRmM1rr7YRy2+OLGh1Kkzh2H90Nco/QV9i3e5HLK4Rzh3srG5eI9EEEZ5t2pZ/EjxQ0qqx5rM1WrCdgDxDK3qvJzLXAkp9F7ZGnUuW8bwxiOSLaLTnc0XaWL0eCe83psQ8RTSVprmBeIkN9YP5T6qApxyjOW0gIXpIAIporJDpasrjHO9lSWXAdIwq6sxDZawb4jX4OX87HtdLmjSOHzBQX0gB2dbXjID5eO33NpBGEDgtnT74UqU3SBROqt8NmfdakaIVaOlsgoafelsxPiO3V/Tz+QMyfYOtncozIEJPRo7Bz2XjwxkETVavmNvoaVD6d5bINCEh4CDNhnKpRSg0c28N34az1FcyA/eH17C/I5BaajziNrvj+hbJp5NFG6SbA8MdCKO/twdVLu+NHlj3sqFVEoFddkKfKm39eiZzt/tYGef11BWWL7azS4p+BfZnlj2cKIxjwc/WFvMIj9PRIpChvIE6zHmP4UZzhuEpEeJy38IbDZ4rLespROOhylTbZ7lVD6LuNE2yaX3NpoJApNOl/Wtrhs2y/rYI231ggXfUCAOsxbdscLpzDu2n1/JwrGv4biyMmuYGXQojjfaSdCyDtPExwlK10dEiE8uWJ8LBEvfcQXyIxGW2G4LVbhBowadCoAeBOaxVSIb9orJDJEi9ryKcMNNVyKsQb+jms5iAi1AwGiF1RT1ZQVAhv4R6HRW/gEiWgCiel5cZEEysfQYnyhDyM37CSC6kwd99GJ2zMcIhpMwqZT9jXXQ2DZU2qFRZ1laNekRjPz5MQ3Ia8hTbDxNqaofNNxrr1NmxnmojxFyoUDU0nsIBTf/hyV2HiYa0X8tNHnO3QnO3CbIlGnA8/6l7wgM2xgrN3CGhgfDYUKWqWNiJUJxUrMXBBlwc2VLxufz94zAhzVLiCDFf3RLPA7VsIcYrflu5cdlqpTzqiac8AAKKjxK7LRPoWP1OoB8oUGLpojNBfgURidCj8/s7U3Vz29B1Z52+JcOa4nQ8ou4hrA32wLi+jRiVzKZp8u5ztIHwDrUQ7IXvB1SICU6mg0PRhV56qfRsC5Y7u7NrryG2ZE5bH9Cc7fvMvGD6ZGKc7OmSkKOQkqhytFdwWELpKmy09sze/1P2l8ZK4mFw7M0YEdTbr5GXsCmH6HiK3j3LV2+hvDdu8TSFCoErJyO0CtLnWY2NdcaFrcyjlYOE1uNQLnHnDqJt0fh/h2LpGn0g0VLf8u3tNg73jmgIZJ7qE5J/dJQqIIB363Hs/E0HS9iRyZ7n3wZpUxw8TdZXUusVTezsVHHBO2b/8Pnj0CReqa5cGT9rM9HfK45qibiI1n/umF344IJu+NxrIcAEJYz0OaiDr3wzsPpR/m8G/CFLS9DGJNzG8ugErC5TNP4X+/CRRwYo9d31NVaLqsfYmAbCenpL6XN3UfUdIKQD5f0IZO1ySaD79pcsonh4hyy1JumkGU6do/dnX0nyflE3zuDnZ/Z+AMV7FNaKLX8bn/75UxtR51AVmWhxOQsB1izT+Ozk+CjqU290A8mgFbw7ilK1wBLckP/tWBvsfuvDB3ujG0xM8yHk6YDIalVeIzU3Alum2Y91MKDflu8Qr9fADIqqdfoXU/9nUVmaqnOxpBRPl3hvoUoqQqNPcQU4iW+uSqVhihzW0T/ZeUb3z3DLCOpy+wGjgdSKnCNTudEm7B5KPH6cdyh0y7OgZaLoadAYLsmzR+V8wvZpqcS4rDmS+P59/XwvTfiK+WiDvLO8VrIlH+leIFAPbfnfqX8RiytxQgPs80prXwN6DvWeIhCS2zw7CoDEIHM+ZbhhxV6SXxWpmuL7FlXRMPeAdLugqwkFxJL9ywth21UpHPmr/yhjqNTbFGWBGZsrjewYuoY8Upu99aIH2NG7YnsiFkCL1gIoqsW1/VKYdI9+sL7dEHox4HnjdG0fom4yWoI1YBrKPd/GSueyvuXK36qQBMhpvBdfxOhqWI8pNA8R0oefyFLeSkMt0LtFMHOJqeZi7NQC3/E88L5NG7FfTpZzYSr+B96/xSE85HbJnpVZrAF2BCciNxRHQOZRtV//vz6irc1s/jKnTC56PqXIiDfg58m+vixAWSFIVX0GFMME+rtH2/C5hIjAo+nIEzBcMMLyM0kcbZNlyak129pVLCMailw/E/BNBNTEumf24Ne6VsMOXAv6e/EFQVHxDi/V2xm6PGaXrlygmvXZ6jsOzCy9d+Jplg+o3Ae2NRanDnfry6NuvTKgIitrhI7Mk76ff+bpmj7hGsHzU7Mxra9ZMQOuEp9VZ7imrpMHr8ztRjdE5MvG8VxQXyLxwALiRGCS1VGMneC0Ps+RL6lEzhr2eAdsiNTqafxGa9gMJ78T9pU9ZSaP1vD7n9UQz/kdNF1KgcmcMI2uhUxFdVBFG3xWPa4YCwHxyb/0G8h+jweUXNKAfUYSJsVdtAkv8FlCWE0X5+XBtNfLCHtDyi5j6FMzxCGebsonF5kkHGIKf+zrV3Zc7ANAe82IJtAXez1AYk4vQdy08kvZAbN3y6bo3t5c1Wh3RA1QwysRNrzmX4Q3oBGL1cfwuFm5n//OB+MSb6+05daD4jobiuBCZEC/gOE/L2LvU0By3Q/1qXvXK9y7tZLzR+K51fxzJRYemtVoNPHmOSgLoNRvX9MQEWQZ114vEjVBdpUK4fCCnJdmVXUuUWjTtWhj8tlhv9YFPeT5TUtLk5Y66eXMmAMb3PKIl4KQNUh/ovADARj+nB3g9/h3gCIBKFfT7WrBzLPx31k9U0abTBNkUMhaT6ShC3GbaFKDNQ3kDxn4O4Z0PDsHxBvNmUyxjzCoWuyN7kK8hOkl2I9qD3DdbWT+mXTbpcZFdCenDMBJ8v6qY1NNVvwRBmvvFlPVc1EYfoLEhF1Lvx+0Nz+7HlpyjUAv60tyySpPM3QRFddtaA55O6ke/W4YVZrjdPYkls4KXLHZAoWXNKW3KFfd7xTnC09Wei7lidYGFU3a2NsbXLxCZM+F9t0PGj4mgoBOovagSXCy5PQwBpfJZGtaYMyCoB/THnIvzg7YoEpkTKOREm42qhxrg6RKgAaH2StYYv9gjAtf+1kt2XQunbaJ7vYEe1iGYgpCl2YN7Oj+Ni7QJ9BB7PjLjpan2ZYRS7/lkMCuWRRDZsTx5gRaHUjjPzGBuxBHFe30PbUMAu8xDE2gg00cmgibTJuWRcqw29Z1vlUTIWhArNeE8JZYiXNmWRGZeIV7XPYTMy89TxPdf9PSDI+aHNo9qPEAyMl+vd4VzKKunXn3ATbifUQGeYMKkGFZmqqyVMqUyowCluM2+WIf+RcFyvBrCRqFwWdEKfVH2RsxneuMANPHiuewwwR/ZeaH2veJuAVmTHtgqigLofhZP+lJUA5A9AY1I61shsCz0EkqwqKKfztFYIB6oQ4/tjZtjBsvb6UV4OB2aK/q0nMLHo3py3rgcIPe9918RcOrZg1xE9PcxlPFrKE4WnA05ANEcwOsQE0xeNP2VFGKSzYuTWPPLO6jGiSBVq2oeVdJFXA0Xz53Asqo+9c7CZmPc89c6hGZUKDRUi+1YrRAO/l45v5fSsc0W/W2AN/NwQhXO3RV/lTNWHg8WQWE+CJ04j++RIfaOnPHYOafqZQwN5/47cxVshdBuwSSxKMUz6GP42SdozCJm9ibzXJptTqADBYHdDsmsmmuMFsswdFc0Jxy9IERUz3qtOPaM45PjxkyuweRZ/bHVogir8IBhew2jrrmESYQYzS+l07sbXQDJwhKaK1O1wwnhTSWW4XgbfC337f2XC0kTavgBcMRqhDqoBcUmXEHvGbZaPS35pRO2vnZf0kJpvfMmQ+/HhdJUwlCCKwu9QIKj81Kt8NPrTBORJgjbbJBAnHbYj91uAwwh4YoceIQAwhoi+U8bAUX/jDCVDAiCmmxp7xN34sbrygeBAcaFf3ZJeNL4I4PMMIGJxure3lq3vybdiVPyGQI8CLlunkRvol8Mrko9Zha/1/NGq4Ng4Oj7meLhmGbn1yZp/G8D96qrSzAL7Yy/zkgRyGCX5Wo31thCmGplSwJBzD1Z6vfxiPqw3BjpEIjsNKklbGgXoPJ04ERi2j0kdVbUkcV9ybXEWjqoHBIeSv7FoW4lGzPLIJDJbiKfApIZaDz3Hez+5Zd4bzL9P2noOynZpQwbuATklWzlfMJgcuCAqBidSJ7Zz+kNan+cbaTXsysG+ptZ6B8SpF9bu7f9YSxjXFjAwaWcGxBtgz/60j3fOgGGne5DOmaA9Sqy0V5o6tj/gEjDKUlDuZvWZi8kZ7qTJnkgtPvhcRtteIZIUg1XfA65KCIDBlYbzsgzyvRz72sqC7c1g1TsKUFxTlfnOGvx8bXh3R2bBGgDdZBbWbe+0DzmA5+/Yt8GMl/O/uXb0zaRlhZbO5/3/SJLgKJC1N3Aw7DGkTSXiyKK2kXBj1gj7+oumB+szL5lJESCH1LMig4dv7TAVC4axuq3czmTTrEDhDh1q23nA6GuxgurgOx1eV/LBxM6pHwoD0TIpstaHuvwS32xTKobeQaUtGEitwkuj4hpU+wTSp7gOQr00rWDHWEO3itGfmEbkFXydaPrBEd9BkALoz3Jtb/czdlINO0s3jm4aMzTCyOqad6V5m9UeQmdq6yKKsbjH6om0dOKNwFzBPKyFM3c/SYkLgarXbC42+CC9l6C99SDRZKEmA376zWceYO7hIU0KmcVLTmGRHqXi0CmXUvs8Ncd41z7VbyHd5ngrIbGBA/31HYqE1yCw7QxW44pg8AYVn0UhUbGHVPAHWSdvybjSph+OkbcPZSS849DaBK6/6YI157/ETEK1p0UVsnMGj4z0UKPokyri2OB+mXZcaC0a7gKSC/hJspKZpXBpH0DdP3gzEyCIrSgWO4uxOATTdwlIbS/VWgcoBYOOSoXPu7oWsoy/SEb8Ngd0o6XGggEmqiOluLaXhMxNwjgjIjG4bepqiy9L+QQtEg7saQdzuzk87RjDlni5o/fES9Lgnz1hFHHugqIXCMtu+N7H7XD5AbKHcRHlFd/FM1Y4U2bcJxisKg4pAPaWEgoLkGq9hPoCRGAb3R5S7lBypx+XtcUREPDzwa3E0y35oROWWlg18XZSITzcx/Te5tfqsRIQoHtHb7oluJieOEyFvBHlW0nVOjMRHHX08oWA1PayQCsGKXg0e2KpOKJMxQ/2ABPd05t/m5XvSYu1MyjTtyuRbYZ5B1tvF83+V18vQVXv3YlJJCk9Sc/LX6v7q6YYogIP5lAL/a973sTXMjduDemPdKY7D6P1ruRqgvE7hKYdVaqfe5QsJM02l1h9cRYkVVWRspJ5XFLtvTNI/IM30s8G8JNkKbMtLrrS3WMLfxEVcn8GJDaUU0d/hJk3uZgcwt7/hgNObSzASTu+qcs90sXps8Nr42xLDdyGpBrgXGgR3vvRqgMQlS31Srl2XNZ1rjoPUgzCD6+ufx4nN0VDG/F8l2+yLBz3VHGQV2Hk2cL/rjiP1ZoQ/XrieI5OgYkrLy/gKWrd2T36WmZ7FJtji8Pv6hwmxJhoM0SKgurONS+S2x+beBQSlkVPnq2RFp4Gm1UJS8ITJpGLuPvJJhwB6ZmaLaTArt7tPca3gscmxTqHKQupL5iXT0ONJ+S2LzpOGN/umZhmtL1z+d11ezNe8iFQ44fq/P/TZJzg03DJq/nIUK7ozVlh3uOXv+8yTJcjmOSDETN9l23QdQTLpG2WBPD2ssupTPQmInTrdk+l4Y2vXQ2NoRiCJDoQur2BsmXWxxoHMFL5O4aJZV/u6IwH92iWse76G2w3ypp+YlZs9a/VXcJ8eTefSCtYcazQv4iP391sOysz5BJ+ug09XjtxqQ4Uee1tM+0gzPDz9vf29u3WvQ48TKtKK050Le6SSw8TKMN90/J1wbYPmgU5v1bu+soBWU8O0+3CTOLsN0He1Q0ZGGzFFdm43XYet29S5SjbA7y8jXOs+jXsA/LCcwl1nLcjm+Ib8sNKRtXm00myDyssatN7btaFtex2EzwL+MAarvcgpMxwVJeazKfpqeX+dUmGky2ee0LdtpOqcnA+xQ+1KDvOVtVKrsu2SwHpgVZP905c+/H176l2SUrDjD3KTcIL+3xemABc6vbS1cZgD5NgUSGqNGxoOS2zUujSh44il8tkLZ+oSrRIsE3Iroo1uvWqrJAVUJxWYf3HWKa7OMi0D4pYc0rgv/adyIrrFnEE3EiJUUa0sqbAgD+KWgUCncpx+3Wm3ih0BXoSukY63c1+R3+6Z7P4pGjle1yxJQM0MMJVnaf5OetmM5BiuaZQ2MvA7jdmoET6wmI86ym7yA91jL3Ss+RM5mt+lgCcvYK4Jp2EOO2I3Q3d3fFqweZiIljljiQM1wWH1/+WD/E02u/1oQF1szizSwTnky5017M1KxvQgdNfkJKzwUXcb7iqasRjo9/Crwte/fN+XHQPIgXKDh/TB9/eAFqb0p1Z8Ru6f2kY3TgETTqV1dVV5qAX0IOUmSCFWVUKVzho2FO/Lt/bWtIdXXHChdSToHvfqa+4WE458ccY4lZpqTJVw03mGvyoB/07ldHZw5GHmOl9kHHZC5BBQVR3wNnctiFLVlCJU43YVVIaBCebnD71sb2m4lWk70ecfVxNQH/kxKnR3N+FGZfTRKs+OVz7t2/mWY6ItQre9grU4eWHj9fZpApnWEc1kWm4JPdC/+aOIE/IoiRK/44XRj3qQImwcjD3jzCtMIGzQP/8mSTKaojL/OiT4IXRKu53oMR1apznFCr1b1qwByvCujlHglNENxU2WalJbZNmxzkNY3qQ2MOIr7wCo1ElSuSHFI4GYzdaHxt77eggZQIPnDRfYXUUQm1jjV8Z97F0otMkhaW8q8cZ9qeoq3TdAol3jpwYWpCbeeAFNZ7R9Yzk/GDPPKk+UOgdFrxnBhh9HxB8sKhw3zEldUIU+flpVYOlRWrQmCVH1SyXwLK/rBdLoT+fujaR7xTP4nKkRJOs/U29w+Vja2/wjUAPklxTSf7eDV8h6d9HJg0BMAkKHt8uiLo1ANlz0wv/Jh2NvloOeHBr1yZr853sajxpVFpQlO0d7UvuAUXaSStYD1iqSh1mtJHcjcZABnmEeRFNFGS5BC40tbSCEeJbP63xsVpTP6Ta1r+06EnGlynDZBAmq8rK1CyolFYdwvktbUH1vHSs2O8C5ryzgz7K/JQhj0XKitASEEUQG1rRvWr1Zm3jS+MC0nG4fEXaxD40D61Jl50m5kJXLMl3DEuVau2EU9NdKkcVgD7R7Q+J40G4unpTo2AZYnTAjN44xdhVKl3+TFWnP/6erEyOFF5TRTWcR/j7AcD0cBZLcYZ/guM6JIKdGtugp6A7tbNa0t6+ryJN/0E5+0kZp1Q/mIFkWvw3rABsDKwTl/zlIZIbioVCHEZfJMHVRGBbcjRzYQLd73JP0+6cvQbYQWF66o6pg8AQS5vHfBZB6S9Wd5+cUSWmBnv3l53QSlmGOCrYuEiS+LOJSPdqvlaSvmS9XDwGUSOCnpDqbfW0iNOSOvcpQMpp0Bk8+MUW7R6bJwHW4Sb+OVzGN+l1ErsxP5HqVj8b/uF0BuL2T8VeVPk8RkEKAu5h7jMSspDcgqZPm83It5jDo39IR8kRXIL3HrAJxVlgTO4dwWt1Ba8oLWQytcLTUHhD6owMOPiV51FFPhUPh1TSyTyXldfuTi0CdlM1ySiUMfHH9qYpDD2whqeS4peD6BwYWw/VxZR+bXH6UHbd3hOmpNrgntMSORlYnnPKp5m+OfBBZpu98QDjb2spi6D0ZCWqBNxlCnW88VaFYFzCNE40pkQrP3Sonrhxddtmee706EhF3MRsLB0uOgD6h5dUg2QaqaOvnp7+TwjPshaNOxui2KXh6a6q8fFziuvXmQV9A07dfoVo73JofPlB8+eACpNN7lQNj5BbYlJPvhflzni3rEwL2Cm0VmQ+jJs6kzkByPNuO+TMYpTUDFOc1IQqb3skvPC2g/IiNAEWydCABlnQ5HusFDiQLBUsF0Ikql1XbM10UIpb7rKN52Yg7nJBR/vAcmkM03eW1E6e2W9hoxqC3bNLBvvqCexSBs6nHrFOaW0yz2bvcuPey2OVOVGII7toAFXKRH6t3783+yE0af3ZVX5gfRc++ulr/a6RvOL1mjXx2KH+rxHNCShFOiHPF8m0E0PgjH15nPNpCv19lJWhb8zQYgEQJTFquFs+Qd0XXIv8j4PB20+sNJzqqykszHanDy2n56TEmCTQOrfHxUpf90GOmIzuuiTO0hrUU7pPAaxPWu2XMRx19AqHZ88RgTAvCrVKXJIogT6ka8Xku2iCcbpC9f6jtnhAduYdH8PKbuKdirjlKnWnqgS3UKfShdolNr7j3SZYn2gckxWGFJ7v7JLASX/j7kLR5IOdrJ/XA4qdF20HyQo+gm2RJh7BAgJkHPJX3rSl7anf/4Eg76/I4r82n2Wwh/y/0PtKieanuUmGMQ1X/dedmIW+0tay7QH5oOJwIR1kiLXwXqbzrTkUhHAumR9LzVHwBQ8ehlC7CyY4SNVCxS1qdcgosmE3W5Zn8jc7i8NOyu1xM+e47CtNiSCuydMOZasBwHrOmw3iwL6sLB70KV4PqcpN1rjzuCqTFnydhUVZPVWW9sJPHQhDzTfw4MqhomfeF5JU6GWT9YFYTbi+dxgK1rTV9q8TvvD9CnLej+bxVvYpWbIkND1bG1n/rwVHX3AjxVDa2QmOGh59isK4wFi/DjWFnzvyJgaQwFof7LYDJEkC3ZyGqa6aSk/WHaNiTNHPt3aKVL9n5ljSoZNU5Vd4uJlA4JPKAzcL80gurqhCTCnTkNe1G8CG0aiBiHlIOgkXLw33o7kRZfEZxgC9u10xwNe+LMYc/4oybtyvyZyYIOkmkubDLAYdOBiCs4xCGjn7y83Rw0v8D7gCy0LmsRUfD1cceGzkzA3imXy+lg0eJ5BG60YMfJ0TLDS0bywJplqAh9AkD/hKdLiARTeWqNXOckFSdhnmfgiNhK3v3XcDCykiN++JsASltw701wOUkpbjH1Jz/Nbq8c7uLmdnMjM0Pd57SWrJHpvHen8Ag6cDJUKoZXySUoBKSnNqivcBlGKjLw1WJDqEOVznMg9hvmtfgTKwVnQZV7bA5kA56/CzqPB8gXYp+jDB2g0WBZYZ2yku/5rkUvZZvsLXouYoFLwRj7F0WdA2yrg1pprTNS3q721j64pfGY/QE5gnwwYG7P301KZGPshL1n0baPxYywJ5AOtJ2ks8mfJUsqZCJ0g8dV5A0lgKi3ugpnZ+BXxOxvYXCt5UoHQJ3J/hqiKrXhwQL+CuCx0GHWx/eQ+hcMWuXyeRT1O6YIYWPbMHS/OucYUrFxCgk86lvSPBSD30RSdYo0OJIkjFKhxaibB0BxYUA59o1qW+dSJzIRsGWVDIUHaESzQuXLOT3Zp9r/Nh2R99wbZtcqts4Ge87X5IehSka+wTBV7CWr648nqdIVCHjMd0by1enDN7yGEUhmFFLxKahdoJiGNi4Qb9kqYtLSSgKExowEBJqETD/vYtYe9Xkr2c0MgH7YqgpEFXmpyDCh8pT5UpcueVfj1NN/eL73Wu3epoM+HFWQJKU70L0brGC22zcEMJkShf6vNy5uxcEroRTNgyA+taAH4Rqdaoo+VnP7X3VbnUkfvCXVP2vSf5fm4lGfP37LcnYjLf+apCD/I5RaPtGjvZ4m4/HVChbWFcTTuVdZObTHaolvGej3UsLOrVIZmPTiP/KtF2ItVf2iyUUbVVH7wXFPIRH2KBqxG48RZNjPBba0SdDM02me3vvIwn7hMIa//+r1rMlTqPT6ZAR6y0DK9f0TVWUmyR4p1rk2WCd45UMdjEnRlpLBAyxmib8szwScE09sUX1FLYqK1aOv8GHAUj6fRjafRIklMTnWZqKrIdVZutz9ZfLIpp+G4NqsnnvINxk2ve2gluQ5OR1lQYHPwwEAzmxYv9Y5NzvHcZVkXz+z0SjNNFDLLjNUlep1J+9sWOP9aLer512CdXvV8/eMDgu/hV+BlYpKSuaE4o50pMFfeRDMrfQAOOR4aGA5P6h0IDFaxgAE2lmZfCdCmrwPSe366ktV/5wJ6nLyrjzKlpFeUv8KYUkdKsK1mZ+j18RP9/z1QdY1YyaMpTyNhCaV/aAc+jRPUX+P4TzlKpJ9AWYbVX/209+bn65pmsIjLR9mu/y4P2lYnL65BwmGbUWmFj1WjnlU3W0+fGRUQ4YchLiDvcJLym9STMwcrZZzEDNSv2IOqeTUtgigWh+hNylabT3k00HfWAdEACj/VsexH5KEgLtyTRw13Guecp0VAv4ZJPR8g3JLlro3kTXH6MhlyMgVTYtlWjHiAjiv9M80K8b+WbMPwFWci4LQQ/GKZhcK6d7c215UWs6GuVjxcmsj64BWblWxgrZFn5nVvox7NVYU59Sun+96aQLJLXArLavTUIVBVR+tk/gu9dbfUmDbTwRxSap60MZa0WLbESP3JvIuC7qdWUlSAcx6eWRE/9Ens8inY9NOiwJva4FAdnxneCe3PeR3dLuOJq2opsFl9bNftu8ldivEIw8p5Xp6seSskdjAUU7ohnAlzwydVM1K2JED8UeVASaGFYMExYpXXwXLr4MHCUxEzGu+g1ja5H6o8dXKNe0zkkkcHiBnX5RFLoxt92N1U6A2rLgQCOuQjlM4SGAv3eqSh3nK/psYuxz+I3JQ2XdTPbMGq+Tvd0KU0GLqBsGmHdrfTgdR0jFJDiZfHrggn0uMpjAgM/qP/hqsjvIMdmNcS4i8lAQZzgR5zyphFoKYHv0tRBRPSLTZ9PebaA7xFGXm9ZoeiSkmCBkgjTUCga3+wcc1T16Og1iAJXShtaeA2nPgBOQI0KcbRCCVATGUeyqLJkOgMbx9dozrVGA+nTv3gFhJTW/ZG/aW/qadfstbmmhkgI2HlHT4RPn6xtL0TQG+j366zMwI3TrqFqaJFNQ0iPcACQFJbFBqmcDPX2LghgDUSWHD+bQwLhwxPM7l/JH3WhPmLBlkdM3QF94V3wlh0+QQqHBdgr6/9ylMy8Suuw6JKavKRwr5b/r2T5pw2Sc7B5jzAne3EWV4ayfKYQ1zkIsr4CYINUpc/tRbizDiCGqJEpq+DfcYfacg/oVlM2RUHPYu2ehz7kkrRB5wH6xzd9q6S44SroLfFe37zC+YCaSk3fth2JIdJHSNY7a7YuNtCjnOjF3KZcrktHvIcxG1WBzQKFdno+nATO+O+z6gmgN2CAktiOGUQHZsoxXdIBrkLC5Olu1wD8WSwAVEG0n9PxU81+UxlhSeCv+CzsVhaSPTu5vzvtDeSJUgzrmO0AQNz4TC6LzNm9CSCPpk+LcmVZ71VH0owZATFuSf2Hq4IXi/zG0hO1mOmhpWRusmKjnftLY4IJV5ExVNFylF98e9P4oxz/yl+tXNQJLoICZD/L8+S03LcIISlUBofWtMcaqzA7iyMJst5aAYi7jVMSbL6tfB87qDakowL8YBWHaXIlAFNZkwEW1Ss6o4EtwwXSiGMJ9hYPTZ8B8kVJxda9zhCeOb9IiACMxB+QKbQSU/LG96ajg6VZiPATP7tMei07rjKYYcRDLBQXsElUVaJ8Fb/DEq+hdiTvfJMvqO7TMt0z0XMYivgmYtyqESnQxaucZVv0tUX/O2C4WYJJTxoVHY7C6ajJVxtMgiJAIOPi0jh5+LrNrMJdlxPUGrT7QFYC20tskV+lx/0iHXWghiLlAjBzGRBu+SoeQHRMwEqnL+ifsZD1tv/XNXlnkUoM5DbsLphbSQtJlDAcCzddBSOzk8az3InEMzEb9p8CGpinkWlzDIJW+d64LioLtYdQ9HAx891LdR/XJiXtU5E7noFPh1WiZBatRVo2CSPDNTPIHAQUIarCtoTRDZ7NHDsZhtwX/43xGriLwMaF8ld56JADU5zYJQ8sYpWJGplvyo8hPCAlUEr/sSgg2G385Vi8oFFvRU4d+kArMpo9bqTgPdMSd9qepI6MomTwS2Cb5NXI4v8SWningERx5fsIC5HzeIIMg89mA1VklkopwtklGT3p39A3PKIDp+omWUmeAUuSKyiKRff7cMlY/jvyj5Eac70YwlUfBd+tJf081Lbe9QMx7hIS7cKWbrnHubQGdrXLT1ZdGvlgT8TAAyFEMp/E/JdaVRA80nXM0LT6Rv3M1IyRTfIlhTbUwsmBvmfLk67MkeWswi3CvI8913OJJ++K9jZM0an4Kmz7wJBFt/A4WMPkVNXPGVUYyVG6grEORw2bAdS2r8S8Ka36ewD5ivFWj7P+sbbqKVy2SyAXTIQ1egFGoWl6z8mLRJaVAoEaYE7/tz/ElYVeZI+v/jSs2VYgZF5JE/C7nZUA8XdWWmN0hQ1cjPAT8NuXn07baKtibSFTp+YX/vcMH4KhmxnBc0EHZGTkXxDFVRYbmDKjL1MyYgQ0TAD7CrKs84udOW8Tx5BrMGZGHuaCv8/F4x/SE8X5tbkMP/+SeKH5WqP6M4o6EBG2bkWtY0fkVF/SFa7IeHFL5wMtK0ldYbPr+8V8oLzk3aXx0Ssz4xHbpnIlgF11uwMMLzRTT+aOrfATCbeHt5TUa5LyV4hEy9roPzUj3gh8FErj9kWXd8QIwJnHMQx/TBIpnoDxo9sAydvV/2omfFfyc1h9lqS88Mwz6/kHmI5XM5cQDI/0NISzRW6+eqhSMqRD6hVA3FLsEvwCPer7mfgily/lji5aLS/D2DuMQmg8Uu8AiL9sIeE3B7MvvrSc6uFAE9z3HQzr3FNU9gPswzhYJzLmAABKOV89srSDXKQBu2b+FD/HdUgopt41XPNJXoyHy4dZk4LWZ5Vxr2ZfbaR1yoBA9n4geVqxzW7npn382mRcz0GqEVLSMTpNMf1Ywz4m1t0wHJWb5a6HcP7Z5vHc1GtPrYQTLmF8+4c9vXbZvCAj/JnJ2qrJZLKIm15DL2qZTulyhDCqByiUbTYXnQooYWfxhLjcL1w04yyiCzktbScncsMQjtGShmu6W0e7eyjA1sxM47tVWTtXXSjX0FmiFpKDKmC78Yh1KuWP7F0Q9iL/sdFDyVwT7Y66y7XgG3nPWw3sB4gtTSLQcdkiPmn34F7DQFzs2NrtSlvE2ra1N65C83uB+guzcAS74c8+1qhnLokFos96e5FLAfAKvYe0aY1KIw5YU7Pk6Sx+0wUV4JXYmHl6j4wiwu5H99K39e0d0RB6FCep6v8zbKrgYQIk0N6Fx1AnE/cav6QYyorRK3SpNhzPirEkm5fkR56vQX1UdagPeiTTRWe10uUR3udw+3YEOlEVK7B+asZvmW4ik6vTMcVFUOgb0pIPdoiKbxTEZnJHRQJjMDKHdq7LN2EzswCwb52/Ci4jfSkWq8MIP8n3HmeQw6SeX352jUYCZ3F8Wixlhr9ajyw8I+JkMsPvEmGxXIiwq/kT60q3DjMhxAVBHRtlITxSSvsVMn2AJFmumoU7hSuJ0ucEPmfXH51nai82A6bJAIf6pJLBOnZiMDsnc0p0qaZogKyTM4v7gh6WjTb19KqmLJQ/hABx1Xe6XCTi+d/wiy7+3DYh0CsG5k3ABk40Cfl3A25+FNtcbOcffRFPtNCcZf1gJUfW8gbHJxWQnTDDSqX5ZaLNHMJQZZHqqsDWtSlm6swOAi1z7Ry7hb1ZhbK9U9DxyKpKCzUkOIDRwSFSV9IW15fnysqYjHLIcjX2Zf8XJuwGVIDIFID5cK+Is2CaqgY8c5KiMK/wSPnbyaKQvYZEJ2SCkk1eUQAUbTWBxV0zKe7FgxEK2/wmib/2iAC5IhgwmmOFkX7uot6WHFNbQMpFbViurrwkIkSu1sVGd9gjapn3U7S+5MeWLydPWJaLJgOxyZbF4fNXzLF6FIPUVceDOewGr21ToMxLZzJolIqUPuOT1exkV9/bGJW1C68eFLJdbt7+D9qTfp7em6QW5AIEF5gE24/N3tUGhw3X9+Xgz0OcbWXszkdCL4nJGMuQmBvHHuNqKRidC2LFtCogrtJF1WE/PQzEpvFs7B7NozApYQFfAqmpbEGJcLoZuRTH9gfrOEG45y0zG/EEKl4AODgGDev+j+5kcfU8KB3wG5mPx149UiEudLM1EgqD+g8MvNTJ1u3VF3G587HSzJNLMQOTpyEmwpl1xuH5XKE8p+NYYP2QYldXDUZXPNeFaq6+EiVFk1ChpQzccyHQ7MRjhiOg7cRCeFi/OotXnzDCNV2tIKZa+zlK4TCEIGVLLk8ofYYH90cAEDMaO2Epw8Qn/+gxKg29k1eLEcqWEXg6mZ8KSpasS8x83F2UmuiUHFJb5yKcQeWf3NDB1Xc4kyimvAMd4NqdxZK1bAQugr7XO+qDZsPoZdS0IkxB7BTEDuL7I+5CnG460HW2ZcJP701fs+vQT9M1NNMWB5NhNZmGidjqcA4qXbwi4X3DxDUw0fpcKGx4cZrhGJrSGf/JcmkL35lKdwg5PCRCg5spOjFPpbJ+SqVorRyPxgtILhqup4HnLEtg03iDu1H4dQNPTYL7eKbXGb3/zUdLPASRcH6CBqUfC0nMN936wKmB3L43jVneA6W+ol16g4/q6cYbZJcPIwAf41eUt1/qZEixs+mcBeApq2M9yA4llM1MDHrbCja0Vm0XIlzJIx5LKQTNDhXj4pQ+P/VNZcrJdtL83XvAshevud0vANjDB4Yw298OQQzkZWcoKviElkOT4YPB6YnxCkn40aZ9+4v/lQMS4TX/iYVroiJ1v5X665zXMTpJQ4UljmLQqEK7kA6OmsUz5UonJTwkdPkNGxowSSZOIxUMqnAuz3VdluEOXnI8SWWKBLES6fd0CUvAJiOBISLvLHgVak/ndjblauNVx3ZusS1HJXfg8bklnhmbZ/0XKl7r+p4cvfDzQ0FD4l+e4Wbs3Pq99UsWwcYis2WV8QssQZodKgwI2JolBhjmaFfNoNv3HOj1hecnNgFfNEsrjdJwUQJnKpJ/y7Ci1cf6zK8WULPfFVxQqEFNJFqfMSW8/eym5yx2CQQZ6IcDM8lcLLveVMHeqzGsZHApq9NMsxkF70noii4g+x9M0DiA5l5lx4whGyJttiMMnXonHfUCNbl06tuRTxI1b6vo0VsSuga/3nqhb5oA+OPo6JR2Bcs/vJoBktG2PH/xKgNzSGiJMK8cOuFARoGar4pXGVcqxNVl5E3dTwtXIYq1Fr/T51/WbCz1UAlSYJuZLPnV7Yy5XgaOA6Ioixnh7WF9RD98GqTa23YkhGT/2ueeyLQ5occKdGMgf92O6+aMCFJ00+BicUNbt18HFkd/8M0jUhvSPEgvyE4mBtd4xpJ1qK0ghG+Q5HvzvWziocklDStllSxtAM1s/EhFBFxDKuaHbxfas7pzFwFcIKiOWFaxvCne8dMNc62e3zLFI/tRvn4HYS32fiFEg0lqvCNzS532coeqTw2Ump2YvAgXg6F0GDVrgRFYJoDkn4F/GpEvrzsmBnoHDL3+lNZs21KF4ESGBJQETS817rdYUuPxUnNaYVXHxbLPBmoo9/8XtKYPDpqG7Xz8GtWF+lq6r7tdKiTPZlgETGfcH4MYQCPXtPHzgzqG+MiOpDEQsUOConzlT4/ZSE0D3TYjgF4xriSHlO83b720pVjH9bSqmZN3Zu0hbvNYy39iYXGIihen+tEFnn4OxWY7VcXzwNZbV//8MZZPEULFjWq96exX0rGqBtQ1VbXv5nCNSevpv6OfZcSXntjQboopiFBQlJUYpvpxi+wNFpKFZYz5wx7ytM+mM6Jh/ndjL2WmuWqsqfW/ZtUFXWRH/BSEAtJhrd2dOQA5vESf1vvZCkVlgngDMA5r4lS6WKGtv4p5+/p/YyXllvG4sOc7hTilJOYCJoBXyNpDtTeu8YqpXno2rIioEzfw1uZfiTLgAG4jF1+9zUobIOvkF/UoXfwbzyjntW77FqIlJtJWquXjAlomTtO8pjoSI1H3BKkpazmmRqAw5nk3szsOXRObSoXHbJ0RcrQnGcY1fMqtorrf0+YHCHpbmS3UPh879EjUV76epp+AGxBy8cUn1QqQYQdNORZWazYvfIKBMOAmSUfyWZYIX5Tnwg7jWb08qHCYstJoy4fMA/Z43EI8vmoPRcgs6LyR81sToYPZUGgS8EdMZZ+O/RSaf9g7+LxwG+jRHLXC4I//yAKjzJu0vseZKYiEPQfkFDc4NgwEJuYcmUyeVKmTMAliwmqDne/c+ZWneyiTDnWuTi6QdUEzplSK84U9EgYATA1CWnkbawHJ4Z1u9A5eCS/YRgBu4b3DM0BcZ0Kz8gftD+HsASre7e8D5FfanFOTk7FCjKwdhm2dLY4mj6atLs3rAYk6F2f06Mk6YP0mOaIvnNE1I8Wm1s+ET4vvdo1Qm5cOMxToR/CdQpnePUwltaysyz+bN91EWPEIc3DxZTmfQw5OxHuGK5zVfGdaJlvJK8++WZ/3+1dHIE5+vmhFlcGnp3ecnGyCxvh5ymCRDQJ4d0SPTJTrtxsVxQ6X+BRWqHkQj+dZQDOyGbIPB2DpAUt38FsD/DjTBnnFKM31qS30QdgJtVeNpDY5N+f4JIRNAy2vZ5KsESquoZfjo0yzY7QnEVPfmptFPUSFsBNNNmynla6gIa+QMUvpYu3lQJiJer9zBwAYug9gNH5/uYj9JPugroFJxLg0SMkuCpA/VSIfZXrT1R0DlcHXhu86BpjTro9F87j0FeJ7qluJjp3sr5od2TSQSoNoYysexMqtMenFeplyQFcMFfAfKsv5z8UKe+vSkoIYPS7d1cLKHXA7hLCBpUitXtm4rmfNcnygpxKZWeFcQkeZzgLEo8XdrqvJgM284NQ0N4620ieEQltEvmdtQUyVWtgcUE8Eu2OKU1FHhWrWwsf9C9/fTUP1Lkodxduc9hwHT0RpXajzLk8nC6zD+ct0gys2ZLKhI1GEyIpFW2HnzD8rggg8tOTyRsVSMYJ4I3HbQ2KiSH/d7B1uNWO3AcItW6t8Bb9j3Vj905NzrCof16fPiuIQupBIYRbFPAWCbqMuvX+1RwYLzB9ssxxApt7jiL++EDZJVtVu7SHTgSEKK8fZsXioinbXye9vNr6ugwbkIQh2QWjcdooGmtvvTdT9sBeIOZanR/7M/sFbveW7VutWJ8XFt7VlPKZqHRZCd+jwfFpdmbYeottTetmeOVsuY+IhWxisgpXmtTl4NQAvljwudZ+o+BTwFiwebOi/FvVLgdnJM7x7KfY/IGbrA6vgVyyc2q6R+X3jHGELNxWSXLV6608FzX95BSMBaE0JwPgKDICAb6DgMm6lsBH2Apb0PmohhzPXlVBgXehkCU2Sia4wObWIeLGqyXsY8zH5UkoBXFGISq+/dAoYYnv863nKsKX61neeLmNgIRq58qai9s5+y2/jMVx23/iT9ISc7VGxBffsAf2OhhyD5UQIXI4+Y+eLKSy+iFe3XzIXs3x8zKh+aaQLOeo9Eut2HoC5epez6NGu/PCeq0+PBfBoZGKbMlh+Wa6tlvY2BbzIVsnuqRChkHml276PCOAIHgdxbNWd11k6KwWIMp4FKyOcoc6Gr/bYalzgs4kZju5E9861qZaexLETeLvj7arD/IPeJUlRVHq7hs/ekttLvrnfcxI0sF1HmIxzRjsIwn7bykLo8lWYI82PZwf307RtXlHHTYsc8PE7engELZ1fnDG/dJm7oqOOsfbc2iwS7qDsyVlTgf6iuzQiq1IpSxzFRAD06bsEBmXDfldyGdYI5lbTbSrmFpLJFy70Tt0Q1bgPbGR7ZYXzZIk8s1KpFBpR60P/qSXOPAiWWh/3zx+0P64cbzY2dz+2nWdLtTiWiwUK+ADO1B2geKsgjIFAhYagPq/UNoywNO1ohJ8NXpaCOrD7TqheA223n6Dci56bbi1tBM3vCrNdn35Y62v3EZZBCBW7R94HWlXwwaG4DDCioaHErmRRhjiXoTOOE/uJTWVzIoH88hBRZmF+rKRVu56w4jyPeN2xkL28FUQGyPcZgh5xd3gKR9EdkQ+B6GMdN2yyRKMau1qnM3JJydQyNGal/ATpG56rLvSHLvKr7uZaHzZe80jagkJB302hufAiJTvD2Ey7WjXxgSu/xD7jR7zzC8xwHj1F7UkeXHG/vIJPZkUyCOpDr/c0h0Rkzbp7WllWCQLi2T7qVNhvrPjs+RH4gxh7mi4FbOiz1jLdGAUG+zDI8DUiKNZffpE9IXTRpCP8Q3C5idO5KQcN9dbjzEaD3Fr/JzjWGN8sUONWnYzqn4ikiQYK+IP+LtnF5XXUVckVV2wmyIrsLbnTz2bbxhl4rno4Zp57Dti7XOtlgj3tu4STA3UHohLuK3rSYib4gN6+NxpU4FY2/S9zmIHsePL9tbqn5uFGe8O6QFP/AsvuXUQCZCMX5FMifwlsFX5BmrLAZFPcvCHxa5SDJsdtJ3foxYMLtyz3o8zyJg6QfXdJn2cYt2VpmErWUATjye/ubQDvFVQNzm/Mvy4s77Snhm9DCLu+jGwtueXuDRwgP3cGiHWi02vh6YFBYY7QAVFqkf4UMVuIDUSIPZYYhvLgLNUEXuxY8rjTarv7R8PSjlRAAJ/3D8EWADsXG3AQO0QmYgR80VqwhIcD0l/C2xidSnGdaX9oaz0miOlOYkWAs9jdGuT0QHhqGxxQ6TAaMCl7wsbgvZsB7cgALcpDFA7zx24gfYZ1G7EVQV4VI25MDbE2seUpivsU5mG9whSwPY1KE9gxu9AHwmKiMzM7fnESxU6ZfpCYk+QxEaaI4v8C1J7D2pDzZ8hNI2t2rmT5/akbPQWSLKb4LnB8p010+NMFiYMT7XRmYlXzzdz0kpO3UXx5b3bGcEEM4pzHI4LiVQxfUSKLtqKS39NX94VOpPjWsqwv6HZ6izcg35lCTKS4jx00m3jBGUzdBSnhN9WxwQGCh6JbVewjzptWVsEyITHEfi/rREm6OSpPjp2OU6193xpCqq3Fx6bZDJUMyLu0N2B+akyIO+v3d2Aej7mfmZe8iVfrSxpNI6Tr+yOPjznReCz1MT3qn/OxXDlYqF/OPb4BGoYJgPlADUv/PUEG3hYkLOXVHbTy3m3Q77DMLEvVNi92akf69+oKfyppC50/3FiJ1rhpTEK2l8DCYMvj3/BejMooxv3YsjqzMdF9RFEhI0eIwRvt9LL7/+RV93vkUkkHuSk8Mj3Y79+DR4OKw1styFjn920GS+KGgYEQDQMTI+6r/9bxVZyPLrwLQlGd9UuiXceTksSGX1EsnRccgplkJVGVUM/U7aDWvN0G9E4Erjep8Udx5l1D7709TVHyNmrQJIPpOL9IVfSUU/R5kVUjxH2u5muBpZYdOJ9RhWbcF1yuV3lwwCTvLnYxeU8KUNlztUekF4BDPtwmmx7JyJOP4sg69fR7XwbwDR30P7/qvokc7gXob/XEd2RTcOUSxjclZHVEI9WKQclf26ig0J/vL0YvvFu4GlrVBx8T4SvX4EH9985fcUQ7vrUi79L6CBtnMoKr/NP5mNJJZRytTI0BJst9CGW8BhSJ0T" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="88BBF1AF" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+         <h1><span id="lblUeberschrift1" class="Ueberschrift">Berliner Schulen</span>
+            &nbsp;</h1>
+        <p>
+            <table cellspacing="0" id="FormViewUeberschrift" style="font-weight:bold;border-collapse:collapse;">
+	<tr>
+		<td colspan="2">
+<span id="FormViewUeberschrift_UeberschriftLabel" style="font-weight:normal;"><b>Suchergebnis</b> (<b>Schulart:</b> Integrierte Sekundarschule )</span> 
+</td>
+	</tr>
+</table>
+            <a id="HLinkStadtplan" title="Liste der Schulen in Kartenansicht" href="SchulVerzKarte.aspx" target="_blank"><img title="Liste der Schulen in Kartenansicht" src="stadtplan.gif" alt="Kartenansicht" /></a><span id="lblAnsicht">Kartenansicht</span><br /><br />
+
+            Sortieren nach:&nbsp;<a id="HLink" href="SchulListe.aspx?Sort=Schulname">SchulName</a>&nbsp;&nbsp;&nbsp;<a id="HLinkBSN" href="SchulListe.aspx?Sort=BSN">SchulNr</a>&nbsp;&nbsp;&nbsp;<a id="HLinkSchulart" href="SchulListe.aspx?Sort=Schulzweig">Schulart</a>&nbsp;&nbsp;&nbsp;<a id="HLinkOrtsteil" href="SchulListe.aspx?Sort=Ortsteil">Ortsteil</a><br /><br />
+            <table id="DataListSchulen" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_0" href="Schulportrait.aspx?IDSchulzweig= 21280" style="font-weight:bold;">06K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_0" style="font-weight:bold;">Gail-S.-Halvorsen-Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_0">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_0">Dahlem</span>&nbsp;(<span id="DataListSchulen_lblBezirk_0">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_1" href="Schulportrait.aspx?IDSchulzweig= 21289" style="font-weight:bold;">10P12</a>&nbsp;<span id="DataListSchulen_lblSchulName_1" style="font-weight:bold;">Freie Schule am Elsengrund (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_1">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_1">Mahlsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_1">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_2" href="Schulportrait.aspx?IDSchulzweig= 21301" style="font-weight:bold;">06K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_2" style="font-weight:bold;">John-F.-Kennedy-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_2">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_2">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_2">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_3" href="Schulportrait.aspx?IDSchulzweig= 21302" style="font-weight:bold;">06K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_3" style="font-weight:bold;">Wilma-Rudolph-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_3">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_3">Dahlem</span>&nbsp;(<span id="DataListSchulen_lblBezirk_3">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_4" href="Schulportrait.aspx?IDSchulzweig= 21306" style="font-weight:bold;">06S01</a>&nbsp;<span id="DataListSchulen_lblSchulName_4" style="font-weight:bold;">Pestalozzi-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_4">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_4">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_4">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_5" href="Schulportrait.aspx?IDSchulzweig= 21319" style="font-weight:bold;">06P06</a>&nbsp;<span id="DataListSchulen_lblSchulName_5" style="font-weight:bold;">Königin-Luise-Stiftung</span><br />
+                        <span id="DataListSchulen_lblSchulart_5">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_5">Dahlem</span>&nbsp;(<span id="DataListSchulen_lblBezirk_5">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_6" href="Schulportrait.aspx?IDSchulzweig= 21335" style="font-weight:bold;">07K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_6" style="font-weight:bold;">Gustav-Langenscheidt-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_6">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_6">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_6">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_7" href="Schulportrait.aspx?IDSchulzweig= 21336" style="font-weight:bold;">07K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_7" style="font-weight:bold;">Friedrich-Bergius-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_7">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_7">Friedenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_7">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_8" href="Schulportrait.aspx?IDSchulzweig= 21337" style="font-weight:bold;">07K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_8" style="font-weight:bold;">Georg-von-Giesche-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_8">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_8">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_8">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_9" href="Schulportrait.aspx?IDSchulzweig= 21364" style="font-weight:bold;">06K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_9" style="font-weight:bold;">Kopernikus-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_9">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_9">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_9">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_10" href="Schulportrait.aspx?IDSchulzweig= 21365" style="font-weight:bold;">06K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_10" style="font-weight:bold;">Bröndby-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_10">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_10">Lankwitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_10">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_11" href="Schulportrait.aspx?IDSchulzweig= 21377" style="font-weight:bold;">06P12</a>&nbsp;<span id="DataListSchulen_lblSchulName_11" style="font-weight:bold;">Evangelische Schule Steglitz (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_11">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_11">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_11">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_12" href="Schulportrait.aspx?IDSchulzweig= 21382" style="font-weight:bold;">07K11</a>&nbsp;<span id="DataListSchulen_lblSchulName_12" style="font-weight:bold;">Hugo-Gaudig-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_12">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_12">Tempelhof</span>&nbsp;(<span id="DataListSchulen_lblBezirk_12">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_13" href="Schulportrait.aspx?IDSchulzweig= 21383" style="font-weight:bold;">07K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_13" style="font-weight:bold;">Johanna-Eck-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_13">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_13">Tempelhof</span>&nbsp;(<span id="DataListSchulen_lblBezirk_13">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_14" href="Schulportrait.aspx?IDSchulzweig= 21384" style="font-weight:bold;">07K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_14" style="font-weight:bold;">Theodor-Haubach-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_14">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_14">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_14">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_15" href="Schulportrait.aspx?IDSchulzweig= 21385" style="font-weight:bold;">07K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_15" style="font-weight:bold;">Solling-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_15">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_15">Marienfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_15">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_16" href="Schulportrait.aspx?IDSchulzweig= 21401" style="font-weight:bold;">08K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_16" style="font-weight:bold;">Hermann-von-Helmholtz-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_16">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_16">Gropiusstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_16">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_17" href="Schulportrait.aspx?IDSchulzweig= 21402" style="font-weight:bold;">08K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_17" style="font-weight:bold;">Otto-Hahn-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_17">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_17">Britz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_17">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_18" href="Schulportrait.aspx?IDSchulzweig= 21403" style="font-weight:bold;">08K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_18" style="font-weight:bold;">Clay-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_18">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_18">Rudow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_18">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_19" href="Schulportrait.aspx?IDSchulzweig= 21408" style="font-weight:bold;">08S04</a>&nbsp;<span id="DataListSchulen_lblSchulName_19" style="font-weight:bold;">Schule am Zwickauer Damm</span><br />
+                        <span id="DataListSchulen_lblSchulart_19">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_19">Rudow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_19">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_20" href="Schulportrait.aspx?IDSchulzweig= 21426" style="font-weight:bold;">09P09</a>&nbsp;<span id="DataListSchulen_lblSchulName_20" style="font-weight:bold;">BEST-Sabel-Oberschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_20">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_20">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_20">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_21" href="Schulportrait.aspx?IDSchulzweig= 21431" style="font-weight:bold;">08S08</a>&nbsp;<span id="DataListSchulen_lblSchulName_21" style="font-weight:bold;">Schilling-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_21">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_21">Britz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_21">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_22" href="Schulportrait.aspx?IDSchulzweig= 21433" style="font-weight:bold;">08S09</a>&nbsp;<span id="DataListSchulen_lblSchulName_22" style="font-weight:bold;">Schule an der Windmühle</span><br />
+                        <span id="DataListSchulen_lblSchulart_22">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_22">Buckow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_22">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_23" href="Schulportrait.aspx?IDSchulzweig= 21456" style="font-weight:bold;">08P03</a>&nbsp;<span id="DataListSchulen_lblSchulName_23" style="font-weight:bold;">Evangelische Schule Neukölln (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_23">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_23">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_23">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_24" href="Schulportrait.aspx?IDSchulzweig= 21458" style="font-weight:bold;">08P04</a>&nbsp;<span id="DataListSchulen_lblSchulName_24" style="font-weight:bold;">Katholische Schule Sankt Marien</span><br />
+                        <span id="DataListSchulen_lblSchulart_24">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_24">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_24">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_25" href="Schulportrait.aspx?IDSchulzweig= 21466" style="font-weight:bold;">09K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_25" style="font-weight:bold;">Hans-Grade-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_25">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_25">Johannisthal</span>&nbsp;(<span id="DataListSchulen_lblBezirk_25">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_26" href="Schulportrait.aspx?IDSchulzweig= 21467" style="font-weight:bold;">09K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_26" style="font-weight:bold;">Fritz-Kühn-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_26">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_26">Bohnsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_26">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_27" href="Schulportrait.aspx?IDSchulzweig= 21470" style="font-weight:bold;">01P16</a>&nbsp;<span id="DataListSchulen_lblSchulName_27" style="font-weight:bold;">Berlin Metropolitan School (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_27">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_27">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_27">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_28" href="Schulportrait.aspx?IDSchulzweig= 21485" style="font-weight:bold;">04K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_28" style="font-weight:bold;">Integrierte Sekundarschule Wilmersdorf</span><br />
+                        <span id="DataListSchulen_lblSchulart_28">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_28">Schmargendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_28">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_29" href="Schulportrait.aspx?IDSchulzweig= 21497" style="font-weight:bold;">06P11</a>&nbsp;<span id="DataListSchulen_lblSchulName_29" style="font-weight:bold;">Private Kant-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_29">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_29">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_29">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_30" href="Schulportrait.aspx?IDSchulzweig= 21512" style="font-weight:bold;">07K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_30" style="font-weight:bold;">Gustav-Heinemann-Oberschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_30">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_30">Marienfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_30">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_31" href="Schulportrait.aspx?IDSchulzweig= 21522" style="font-weight:bold;">07K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_31" style="font-weight:bold;">Carl-Zeiss-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_31">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_31">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_31">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_32" href="Schulportrait.aspx?IDSchulzweig= 21528" style="font-weight:bold;">06K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_32" style="font-weight:bold;">Max-von-Laue-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_32">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_32">Lichterfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_32">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_33" href="Schulportrait.aspx?IDSchulzweig= 21538" style="font-weight:bold;">07K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_33" style="font-weight:bold;">Sophie-Scholl-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_33">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_33">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_33">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_34" href="Schulportrait.aspx?IDSchulzweig= 21549" style="font-weight:bold;">07P01</a>&nbsp;<span id="DataListSchulen_lblSchulName_34" style="font-weight:bold;">Katholische Schule Sankt Franziskus (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_34">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_34">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_34">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_35" href="Schulportrait.aspx?IDSchulzweig= 21561" style="font-weight:bold;">04S05</a>&nbsp;<span id="DataListSchulen_lblSchulName_35" style="font-weight:bold;">Ernst-Adolf-Eschke-Schule für Gehörlose</span><br />
+                        <span id="DataListSchulen_lblSchulart_35">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_35">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_35">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_36" href="Schulportrait.aspx?IDSchulzweig= 21577" style="font-weight:bold;">02K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_36" style="font-weight:bold;">Ferdinand-Freiligrath-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_36">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_36">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_36">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_37" href="Schulportrait.aspx?IDSchulzweig= 21581" style="font-weight:bold;">02K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_37" style="font-weight:bold;">Ellen-Key-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_37">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_37">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_37">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_38" href="Schulportrait.aspx?IDSchulzweig= 21593" style="font-weight:bold;">02S01</a>&nbsp;<span id="DataListSchulen_lblSchulName_38" style="font-weight:bold;">Temple-Grandin-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_38">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_38">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_38">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_39" href="Schulportrait.aspx?IDSchulzweig= 21609" style="font-weight:bold;">04K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_39" style="font-weight:bold;">Schule am Schloss (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_39">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_39">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_39">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_40" href="Schulportrait.aspx?IDSchulzweig= 21611" style="font-weight:bold;">04K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_40" style="font-weight:bold;">Friedensburg-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_40">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_40">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_40">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_41" href="Schulportrait.aspx?IDSchulzweig= 21663" style="font-weight:bold;">01K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_41" style="font-weight:bold;">Hemingway-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_41">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_41">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_41">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_42" href="Schulportrait.aspx?IDSchulzweig= 21673" style="font-weight:bold;">01S01</a>&nbsp;<span id="DataListSchulen_lblSchulName_42" style="font-weight:bold;">Schule am Zille-Park</span><br />
+                        <span id="DataListSchulen_lblSchulart_42">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_42">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_42">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_43" href="Schulportrait.aspx?IDSchulzweig= 21677" style="font-weight:bold;">05K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_43" style="font-weight:bold;">Schule am Staakener Kleeblatt (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_43">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_43">Staaken</span>&nbsp;(<span id="DataListSchulen_lblBezirk_43">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_44" href="Schulportrait.aspx?IDSchulzweig= 21723" style="font-weight:bold;">09P15</a>&nbsp;<span id="DataListSchulen_lblSchulName_44" style="font-weight:bold;">Schulen der Pfefferwerk Stadtkultur gGmbH</span><br />
+                        <span id="DataListSchulen_lblSchulart_44">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_44">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_44">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_45" href="Schulportrait.aspx?IDSchulzweig= 21734" style="font-weight:bold;">01K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_45" style="font-weight:bold;">Hedwig-Dohm-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_45">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_45">Moabit</span>&nbsp;(<span id="DataListSchulen_lblBezirk_45">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_46" href="Schulportrait.aspx?IDSchulzweig= 21741" style="font-weight:bold;">01S06</a>&nbsp;<span id="DataListSchulen_lblSchulName_46" style="font-weight:bold;">Albert-Gutzmann-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_46">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_46">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_46">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_47" href="Schulportrait.aspx?IDSchulzweig= 21779" style="font-weight:bold;">01K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_47" style="font-weight:bold;">Herbert-Hoover-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_47">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_47">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_47">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_48" href="Schulportrait.aspx?IDSchulzweig= 21782" style="font-weight:bold;">05K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_48" style="font-weight:bold;">Bertolt-Brecht-Oberschule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_48">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_48">Wilhelmstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_48">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_49" href="Schulportrait.aspx?IDSchulzweig= 21789" style="font-weight:bold;">02K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_49" style="font-weight:bold;">Georg-Weerth-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_49">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_49">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_49">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_50" href="Schulportrait.aspx?IDSchulzweig= 21798" style="font-weight:bold;">03B08</a>&nbsp;<span id="DataListSchulen_lblSchulName_50" style="font-weight:bold;">Staatliche Ballettschule Berlin und Schule für Artistik</span><br />
+                        <span id="DataListSchulen_lblSchulart_50">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_50">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_50">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_51" href="Schulportrait.aspx?IDSchulzweig= 21821" style="font-weight:bold;">04P15</a>&nbsp;<span id="DataListSchulen_lblSchulName_51" style="font-weight:bold;">Freie Schule Charlottenburg</span><br />
+                        <span id="DataListSchulen_lblSchulart_51">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_51">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_51">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_52" href="Schulportrait.aspx?IDSchulzweig= 21832" style="font-weight:bold;">05P13</a>&nbsp;<span id="DataListSchulen_lblSchulName_52" style="font-weight:bold;">Wilhelmstadt Schulen</span><br />
+                        <span id="DataListSchulen_lblSchulart_52">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_52">Wilhelmstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_52">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_53" href="Schulportrait.aspx?IDSchulzweig= 21844" style="font-weight:bold;">12S05</a>&nbsp;<span id="DataListSchulen_lblSchulName_53" style="font-weight:bold;">Wiesengrund-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_53">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_53">Hermsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_53">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_54" href="Schulportrait.aspx?IDSchulzweig= 21852" style="font-weight:bold;">01K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_54" style="font-weight:bold;">Schule am Schillerpark (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_54">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_54">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_54">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_55" href="Schulportrait.aspx?IDSchulzweig= 21854" style="font-weight:bold;">08K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_55" style="font-weight:bold;">Heinrich-Mann-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_55">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_55">Buckow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_55">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_56" href="Schulportrait.aspx?IDSchulzweig= 21866" style="font-weight:bold;">10K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_56" style="font-weight:bold;">Kerschensteiner-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_56">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_56">Marzahn</span>&nbsp;(<span id="DataListSchulen_lblBezirk_56">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_57" href="Schulportrait.aspx?IDSchulzweig= 21871" style="font-weight:bold;">04K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_57" style="font-weight:bold;">Robert-Jungk-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_57">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_57">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_57">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_58" href="Schulportrait.aspx?IDSchulzweig= 21886" style="font-weight:bold;">02K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_58" style="font-weight:bold;">Schule am Königstor (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_58">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_58">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_58">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_59" href="Schulportrait.aspx?IDSchulzweig= 21888" style="font-weight:bold;">03K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_59" style="font-weight:bold;">Konrad-Duden-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_59">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_59">Niederschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_59">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_60" href="Schulportrait.aspx?IDSchulzweig= 21889" style="font-weight:bold;">01K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_60" style="font-weight:bold;">Willy-Brandt-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_60">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_60">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_60">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_61" href="Schulportrait.aspx?IDSchulzweig= 21891" style="font-weight:bold;">01K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_61" style="font-weight:bold;">Ernst-Reuter-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_61">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_61">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_61">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_62" href="Schulportrait.aspx?IDSchulzweig= 21892" style="font-weight:bold;">12K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_62" style="font-weight:bold;">Max-Beckmann-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_62">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_62">Reinickendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_62">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_63" href="Schulportrait.aspx?IDSchulzweig= 21893" style="font-weight:bold;">12K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_63" style="font-weight:bold;">Gustav-Freytag-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_63">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_63">Reinickendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_63">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_64" href="Schulportrait.aspx?IDSchulzweig= 21894" style="font-weight:bold;">12K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_64" style="font-weight:bold;">Benjamin-Franklin-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_64">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_64">Wittenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_64">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_65" href="Schulportrait.aspx?IDSchulzweig= 21896" style="font-weight:bold;">09K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_65" style="font-weight:bold;">Wilhelm-Bölsche-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_65">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_65">Friedrichshagen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_65">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_66" href="Schulportrait.aspx?IDSchulzweig= 21932" style="font-weight:bold;">10S07</a>&nbsp;<span id="DataListSchulen_lblSchulName_66" style="font-weight:bold;">Schule am Rosenhain</span><br />
+                        <span id="DataListSchulen_lblSchulart_66">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_66">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_66">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_67" href="Schulportrait.aspx?IDSchulzweig= 21944" style="font-weight:bold;">09A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_67" style="font-weight:bold;">Flatow-Oberschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_67">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_67">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_67">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_68" href="Schulportrait.aspx?IDSchulzweig= 21948" style="font-weight:bold;">09K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_68" style="font-weight:bold;">Merian-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_68">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_68">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_68">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_69" href="Schulportrait.aspx?IDSchulzweig= 21961" style="font-weight:bold;">02K03</a>&nbsp;<span id="DataListSchulen_lblSchulName_69" style="font-weight:bold;">Hector-Peterson-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_69">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_69">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_69">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_70" href="Schulportrait.aspx?IDSchulzweig= 21970" style="font-weight:bold;">03K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_70" style="font-weight:bold;">Heinz-Brandt-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_70">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_70">Weißensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_70">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_71" href="Schulportrait.aspx?IDSchulzweig= 21971" style="font-weight:bold;">03K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_71" style="font-weight:bold;">Hagenbeck-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_71">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_71">Weißensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_71">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_72" href="Schulportrait.aspx?IDSchulzweig= 21980" style="font-weight:bold;">03K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_72" style="font-weight:bold;">Reinhold-Burger-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_72">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_72">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_72">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_73" href="Schulportrait.aspx?IDSchulzweig= 21981" style="font-weight:bold;">03K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_73" style="font-weight:bold;">Janusz-Korczak-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_73">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_73">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_73">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_74" href="Schulportrait.aspx?IDSchulzweig= 21992" style="font-weight:bold;">12K11</a>&nbsp;<span id="DataListSchulen_lblSchulName_74" style="font-weight:bold;">Albrecht-Haushofer-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_74">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_74">Heiligensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_74">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_75" href="Schulportrait.aspx?IDSchulzweig= 21994" style="font-weight:bold;">01P06</a>&nbsp;<span id="DataListSchulen_lblSchulName_75" style="font-weight:bold;">Canisius-Kolleg</span><br />
+                        <span id="DataListSchulen_lblSchulart_75">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_75">Tiergarten</span>&nbsp;(<span id="DataListSchulen_lblBezirk_75">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_76" href="Schulportrait.aspx?IDSchulzweig= 21995" style="font-weight:bold;">09K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_76" style="font-weight:bold;">Isaac-Newton-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_76">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_76">Oberschöneweide</span>&nbsp;(<span id="DataListSchulen_lblBezirk_76">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_77" href="Schulportrait.aspx?IDSchulzweig= 21996" style="font-weight:bold;">04P05</a>&nbsp;<span id="DataListSchulen_lblSchulName_77" style="font-weight:bold;">Evangelische Schule Charlottenburg (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_77">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_77">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_77">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_78" href="Schulportrait.aspx?IDSchulzweig= 22028" style="font-weight:bold;">03K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_78" style="font-weight:bold;">Kurt-Tucholsky-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_78">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_78">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_78">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_79" href="Schulportrait.aspx?IDSchulzweig= 22039" style="font-weight:bold;">11S05</a>&nbsp;<span id="DataListSchulen_lblSchulName_79" style="font-weight:bold;">Schule am grünen Grund</span><br />
+                        <span id="DataListSchulen_lblSchulart_79">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_79">Lichtenberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_79">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_80" href="Schulportrait.aspx?IDSchulzweig= 22049" style="font-weight:bold;">05K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_80" style="font-weight:bold;">Martin-Buber-Oberschule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_80">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_80">Falkenhagener Feld</span>&nbsp;(<span id="DataListSchulen_lblBezirk_80">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_81" href="Schulportrait.aspx?IDSchulzweig= 22051" style="font-weight:bold;">05K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_81" style="font-weight:bold;">Carlo-Schmid-Oberschule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_81">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_81">Wilhelmstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_81">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_82" href="Schulportrait.aspx?IDSchulzweig= 22052" style="font-weight:bold;">05K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_82" style="font-weight:bold;">Heinrich-Böll-Oberschule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_82">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_82">Hakenfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_82">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_83" href="Schulportrait.aspx?IDSchulzweig= 22053" style="font-weight:bold;">09K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_83" style="font-weight:bold;">Schule an der Dahme (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_83">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_83">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_83">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_84" href="Schulportrait.aspx?IDSchulzweig= 22055" style="font-weight:bold;">03K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_84" style="font-weight:bold;">Gustave-Eiffel-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_84">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_84">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_84">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_85" href="Schulportrait.aspx?IDSchulzweig= 22061" style="font-weight:bold;">12K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_85" style="font-weight:bold;">Carl-Bosch-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_85">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_85">Hermsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_85">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_86" href="Schulportrait.aspx?IDSchulzweig= 22065" style="font-weight:bold;">12P04</a>&nbsp;<span id="DataListSchulen_lblSchulName_86" style="font-weight:bold;">Katholische Schule Salvator</span><br />
+                        <span id="DataListSchulen_lblSchulart_86">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_86">Waidmannslust</span>&nbsp;(<span id="DataListSchulen_lblBezirk_86">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_87" href="Schulportrait.aspx?IDSchulzweig= 22071" style="font-weight:bold;">01K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_87" style="font-weight:bold;">Ernst-Schering-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_87">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_87">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_87">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_88" href="Schulportrait.aspx?IDSchulzweig= 22084" style="font-weight:bold;">04K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_88" style="font-weight:bold;">Peter-Ustinov-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_88">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_88">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_88">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_89" href="Schulportrait.aspx?IDSchulzweig= 22098" style="font-weight:bold;">12K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_89" style="font-weight:bold;">Jean-Krämer-Schule (Integrierte Sekundarschule) Wittenau</span><br />
+                        <span id="DataListSchulen_lblSchulart_89">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_89">Wittenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_89">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_90" href="Schulportrait.aspx?IDSchulzweig= 22118" style="font-weight:bold;">10K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_90" style="font-weight:bold;">Konrad-Wachsmann-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_90">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_90">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_90">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_91" href="Schulportrait.aspx?IDSchulzweig= 22121" style="font-weight:bold;">10K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_91" style="font-weight:bold;">Caspar-David-Friedrich-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_91">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_91">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_91">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_92" href="Schulportrait.aspx?IDSchulzweig= 22139" style="font-weight:bold;">02K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_92" style="font-weight:bold;">Refik-Veseli-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_92">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_92">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_92">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_93" href="Schulportrait.aspx?IDSchulzweig= 22142" style="font-weight:bold;">11A07</a>&nbsp;<span id="DataListSchulen_lblSchulName_93" style="font-weight:bold;">Schul- und Leistungssportzentrum Berlin (Sportforum)</span><br />
+                        <span id="DataListSchulen_lblSchulart_93">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_93">Alt-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_93">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_94" href="Schulportrait.aspx?IDSchulzweig= 22144" style="font-weight:bold;">11K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_94" style="font-weight:bold;">Gutenberg-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_94">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_94">Alt-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_94">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_95" href="Schulportrait.aspx?IDSchulzweig= 22150" style="font-weight:bold;">11K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_95" style="font-weight:bold;">Fritz-Reuter-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_95">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_95">Neu-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_95">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_96" href="Schulportrait.aspx?IDSchulzweig= 22152" style="font-weight:bold;">11K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_96" style="font-weight:bold;">Philipp-Reis-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_96">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_96">Alt-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_96">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_97" href="Schulportrait.aspx?IDSchulzweig= 22153" style="font-weight:bold;">11K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_97" style="font-weight:bold;">Vincent-van-Gogh-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_97">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_97">Neu-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_97">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_98" href="Schulportrait.aspx?IDSchulzweig= 22160" style="font-weight:bold;">12K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_98" style="font-weight:bold;">Paul-Löbe-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_98">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_98">Reinickendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_98">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_99" href="Schulportrait.aspx?IDSchulzweig= 22187" style="font-weight:bold;">03P13</a>&nbsp;<span id="DataListSchulen_lblSchulName_99" style="font-weight:bold;">Freie Schule Pankow (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_99">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_99">Weißensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_99">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_100" href="Schulportrait.aspx?IDSchulzweig= 22193" style="font-weight:bold;">11K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_100" style="font-weight:bold;">Alexander-Puschkin-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_100">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_100">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_100">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_101" href="Schulportrait.aspx?IDSchulzweig= 22194" style="font-weight:bold;">11K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_101" style="font-weight:bold;">Mildred-Harnack-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_101">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_101">Lichtenberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_101">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_102" href="Schulportrait.aspx?IDSchulzweig= 22200" style="font-weight:bold;">11K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_102" style="font-weight:bold;">Schule am Rathaus</span><br />
+                        <span id="DataListSchulen_lblSchulart_102">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_102">Lichtenberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_102">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_103" href="Schulportrait.aspx?IDSchulzweig= 22201" style="font-weight:bold;">11K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_103" style="font-weight:bold;">George-Orwell-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_103">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_103">Friedrichsfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_103">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_104" href="Schulportrait.aspx?IDSchulzweig= 22202" style="font-weight:bold;">03P24</a>&nbsp;<span id="DataListSchulen_lblSchulName_104" style="font-weight:bold;">Ting-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_104">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_104">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_104">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_105" href="Schulportrait.aspx?IDSchulzweig= 22228" style="font-weight:bold;">10K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_105" style="font-weight:bold;">Ernst-Haeckel-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_105">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_105">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_105">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_106" href="Schulportrait.aspx?IDSchulzweig= 22236" style="font-weight:bold;">04K04</a>&nbsp;<span id="DataListSchulen_lblSchulName_106" style="font-weight:bold;">Nelson-Mandela-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_106">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_106">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_106">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_107" href="Schulportrait.aspx?IDSchulzweig= 22247" style="font-weight:bold;">12K02</a>&nbsp;<span id="DataListSchulen_lblSchulName_107" style="font-weight:bold;">Bettina-von-Arnim-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_107">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_107">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_107">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_108" href="Schulportrait.aspx?IDSchulzweig= 22251" style="font-weight:bold;">12K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_108" style="font-weight:bold;">Carl-Benz-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_108">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_108">Hermsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_108">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_109" href="Schulportrait.aspx?IDSchulzweig= 22255" style="font-weight:bold;">10K05</a>&nbsp;<span id="DataListSchulen_lblSchulName_109" style="font-weight:bold;">Jean-Piaget-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_109">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_109">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_109">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_110" href="Schulportrait.aspx?IDSchulzweig= 22257" style="font-weight:bold;">03P03</a>&nbsp;<span id="DataListSchulen_lblSchulName_110" style="font-weight:bold;">Christburg Campus gGmbH</span><br />
+                        <span id="DataListSchulen_lblSchulart_110">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_110">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_110">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_111" href="Schulportrait.aspx?IDSchulzweig= 22261" style="font-weight:bold;">12K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_111" style="font-weight:bold;">Julius-Leber-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_111">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_111">Tegel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_111">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_112" href="Schulportrait.aspx?IDSchulzweig= 22264" style="font-weight:bold;">10K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_112" style="font-weight:bold;">Georg-Klingenberg-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_112">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_112">Biesdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_112">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_113" href="Schulportrait.aspx?IDSchulzweig= 22283" style="font-weight:bold;">03K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_113" style="font-weight:bold;">Hufeland-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_113">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_113">Buch</span>&nbsp;(<span id="DataListSchulen_lblBezirk_113">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_114" href="Schulportrait.aspx?IDSchulzweig= 22288" style="font-weight:bold;">02K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_114" style="font-weight:bold;">Albrecht-von-Graefe-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_114">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_114">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_114">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_115" href="Schulportrait.aspx?IDSchulzweig= 22354" style="font-weight:bold;">10K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_115" style="font-weight:bold;">Rudolf-Virchow-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_115">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_115">Marzahn</span>&nbsp;(<span id="DataListSchulen_lblBezirk_115">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_116" href="Schulportrait.aspx?IDSchulzweig= 22380" style="font-weight:bold;">10K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_116" style="font-weight:bold;">Johann-Julius-Hecker-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_116">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_116">Marzahn</span>&nbsp;(<span id="DataListSchulen_lblBezirk_116">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_117" href="Schulportrait.aspx?IDSchulzweig= 22383" style="font-weight:bold;">04A08</a>&nbsp;<span id="DataListSchulen_lblSchulName_117" style="font-weight:bold;">Sportschule im Olympiapark - Poelchau-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_117">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_117"></span>&nbsp;(<span id="DataListSchulen_lblBezirk_117"></span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_118" href="Schulportrait.aspx?IDSchulzweig= 22410" style="font-weight:bold;">03K01</a>&nbsp;<span id="DataListSchulen_lblSchulName_118" style="font-weight:bold;">Kurt-Schwitters-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_118">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_118">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_118">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_119" href="Schulportrait.aspx?IDSchulzweig= 22427" style="font-weight:bold;">03P22</a>&nbsp;<span id="DataListSchulen_lblSchulName_119" style="font-weight:bold;">Klax-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_119">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_119">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_119">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_120" href="Schulportrait.aspx?IDSchulzweig= 22428" style="font-weight:bold;">08K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_120" style="font-weight:bold;">Zuckmayer-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_120">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_120">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_120">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_121" href="Schulportrait.aspx?IDSchulzweig= 22429" style="font-weight:bold;">08K12</a>&nbsp;<span id="DataListSchulen_lblSchulName_121" style="font-weight:bold;">Kepler-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_121">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_121">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_121">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_122" href="Schulportrait.aspx?IDSchulzweig= 22430" style="font-weight:bold;">08K11</a>&nbsp;<span id="DataListSchulen_lblSchulName_122" style="font-weight:bold;">Alfred-Nobel-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_122">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_122">Britz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_122">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_123" href="Schulportrait.aspx?IDSchulzweig= 22434" style="font-weight:bold;">08K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_123" style="font-weight:bold;">Röntgen-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_123">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_123">Alt-Treptow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_123">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_124" href="Schulportrait.aspx?IDSchulzweig= 22441" style="font-weight:bold;">05K06</a>&nbsp;<span id="DataListSchulen_lblSchulName_124" style="font-weight:bold;">Wolfgang-Borchert-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_124">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_124">Spandau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_124">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_125" href="Schulportrait.aspx?IDSchulzweig= 22442" style="font-weight:bold;">05K07</a>&nbsp;<span id="DataListSchulen_lblSchulName_125" style="font-weight:bold;">Schule an der Jungfernheide (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_125">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_125">Siemensstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_125">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_126" href="Schulportrait.aspx?IDSchulzweig= 22443" style="font-weight:bold;">05K08</a>&nbsp;<span id="DataListSchulen_lblSchulName_126" style="font-weight:bold;">Schule an der Haveldüne (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_126">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_126">Wilhelmstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_126">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_127" href="Schulportrait.aspx?IDSchulzweig= 22450" style="font-weight:bold;">05P03</a>&nbsp;<span id="DataListSchulen_lblSchulName_127" style="font-weight:bold;">Evangelische Schule Spandau im Johannesstift</span><br />
+                        <span id="DataListSchulen_lblSchulart_127">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_127">Hakenfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_127">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_128" href="Schulportrait.aspx?IDSchulzweig= 22492" style="font-weight:bold;">11K11</a>&nbsp;<span id="DataListSchulen_lblSchulName_128" style="font-weight:bold;">Paul-Schmidt-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_128">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_128">Alt-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_128">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_129" href="Schulportrait.aspx?IDSchulzweig= 22498" style="font-weight:bold;">05P19</a>&nbsp;<span id="DataListSchulen_lblSchulName_129" style="font-weight:bold;">SIS Swiss International School Berlin</span><br />
+                        <span id="DataListSchulen_lblSchulart_129">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_129">Staaken</span>&nbsp;(<span id="DataListSchulen_lblBezirk_129">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_130" href="Schulportrait.aspx?IDSchulzweig= 22499" style="font-weight:bold;">06K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_130" style="font-weight:bold;">Helene-Lange-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_130">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_130">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_130">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_131" href="Schulportrait.aspx?IDSchulzweig= 22509" style="font-weight:bold;">12P14</a>&nbsp;<span id="DataListSchulen_lblSchulName_131" style="font-weight:bold;">Montessori Campus am Tegeler Forst</span><br />
+                        <span id="DataListSchulen_lblSchulart_131">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_131">Tegel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_131">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_132" href="Schulportrait.aspx?IDSchulzweig= 22523" style="font-weight:bold;">07K13</a>&nbsp;<span id="DataListSchulen_lblSchulName_132" style="font-weight:bold;">Schule am Berlinickeplatz (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_132">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_132">Tempelhof</span>&nbsp;(<span id="DataListSchulen_lblBezirk_132">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_133" href="Schulportrait.aspx?IDSchulzweig= 22527" style="font-weight:bold;">09S06</a>&nbsp;<span id="DataListSchulen_lblSchulName_133" style="font-weight:bold;">Schule am Wildgarten</span><br />
+                        <span id="DataListSchulen_lblSchulart_133">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_133">Baumschulenweg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_133">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_134" href="Schulportrait.aspx?IDSchulzweig= 22551" style="font-weight:bold;">01P49</a>&nbsp;<span id="DataListSchulen_lblSchulName_134" style="font-weight:bold;">Quinoa-Schule Freie Sekundarschule Berlin Wedding</span><br />
+                        <span id="DataListSchulen_lblSchulart_134">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_134">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_134">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_135" href="Schulportrait.aspx?IDSchulzweig= 22572" style="font-weight:bold;">04K09</a>&nbsp;<span id="DataListSchulen_lblSchulName_135" style="font-weight:bold;">Otto-von-Guericke-Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_135">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_135">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_135">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_136" href="Schulportrait.aspx?IDSchulzweig= 22601" style="font-weight:bold;">03P37</a>&nbsp;<span id="DataListSchulen_lblSchulName_136" style="font-weight:bold;">Berlin Bilingual School (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_136">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_136">Weißensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_136">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_137" href="Schulportrait.aspx?IDSchulzweig= 22605" style="font-weight:bold;">04P40</a>&nbsp;<span id="DataListSchulen_lblSchulName_137" style="font-weight:bold;">Berlin British School (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_137">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_137">Grunewald</span>&nbsp;(<span id="DataListSchulen_lblBezirk_137">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_138" href="Schulportrait.aspx?IDSchulzweig= 22609" style="font-weight:bold;">05S01</a>&nbsp;<span id="DataListSchulen_lblSchulName_138" style="font-weight:bold;">Schule am Grüngürtel</span><br />
+                        <span id="DataListSchulen_lblSchulart_138">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_138">Spandau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_138">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_139" href="Schulportrait.aspx?IDSchulzweig= 22614" style="font-weight:bold;">04P42</a>&nbsp;<span id="DataListSchulen_lblSchulName_139" style="font-weight:bold;">Private Kant-Schule - Berlin International School</span><br />
+                        <span id="DataListSchulen_lblSchulart_139">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_139">Schmargendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_139">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_140" href="Schulportrait.aspx?IDSchulzweig= 22623" style="font-weight:bold;">04K10</a>&nbsp;<span id="DataListSchulen_lblSchulName_140" style="font-weight:bold;">Wangari-Maathai-Internationale-Schule</span><br />
+                        <span id="DataListSchulen_lblSchulart_140">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_140">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_140">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_141" href="Schulportrait.aspx?IDSchulzweig= 22630" style="font-weight:bold;">09P21</a>&nbsp;<span id="DataListSchulen_lblSchulName_141" style="font-weight:bold;">NEWSchool (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_141">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_141">Alt-Treptow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_141">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_142" href="Schulportrait.aspx?IDSchulzweig= 22653" style="font-weight:bold;">10K13</a>&nbsp;<span id="DataListSchulen_lblSchulName_142" style="font-weight:bold;">13. Schule (Integrierte Sekundarschule)</span><br />
+                        <span id="DataListSchulen_lblSchulart_142">Integrierte Sekundarschule</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_142">Mahlsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_142">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr>
+</table>
+        </p>
+    <a id="HyperLinkNeueAbfrage" href="Index.aspx">Neue Abfrage</a>
+    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <a href="javascript:history.back()">Zurück</a>
+    </div>
+    </form>
+
+        
+            
+
+        </div><!-- /html5-section -->
+
+            </div>
+    
+    <!-- INCLUDE BEGIN: Infocolumn -->
+
+<div class="span3 column-right html5-aside" role="complementary">
+    <h2 class="aural">Es folgen die Inhalte der rechten Seitenspalte</h2>
+    <div class="html5-section content-marginal">
+
+
+            
+<!-- FLEX BEGIN: Contact -->
+<div class="html5-section modul-contact block boxmerge">
+    <div class="html5-header header">
+        <h3 class="title">Senatsverwaltung für Bildung, Jugend und Familie</h3>    </div>
+    <div class="html5-section body">
+                <div class="loc"><span class="icon icon-pin_filled_32 pull-left"></span><a href="https://www.Berlin.de/stadtplan/?ADR_ZIP=10178&#38;ADR_CITY=Berlin&#38;ADR_STREET=Bernhard-Wei%C3%9F-Str.&#38;ADR_HOUSE=6" target="_blank">Bernhard-Weiß-Str. 6<br />10178 Berlin</a></div>                    <dl class="telefon">
+                                                    <dt>Tel.:</dt>
+                    <dd>(030) 90227 - 5050</dd>
+                                            </dl>
+                <ul class="list contact-info">
+                <li class="">
+        <a href="mailto:post@senbjf.berlin.de" >E-Mail</a>          </li>
+                        </ul>
+                            </div>
+</div>
+<!-- FLEX END: Contact -->
+
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild">    <div class="html5-section body">
+                <div class="text textalignleft">
+            <div class="textile">
+  <ul>
+    <li>
+      <a href=
+      "https://www.berlin.de/sen/bjf/service/ihre-ansprechpartner/index.php">
+      Ihre Ansprechpartner</a>
+    </li>
+  </ul>
+  <p>
+    <a href=
+    "/sen/bjf/ueber-uns/audit-berufundfamilie/artikel.501812.php"><img alt="Beruf und Familie"
+    class="misc-icon" src=
+    "https://www.berlin.de/i9f/v4/css/images/misc/audit.svg" title=
+    "Beruf und Familie" /></a>
+  </p>
+</div>        </div>
+               </div>
+</div>
+<!--FLEX END: Text/Bild-->
+
+    </div>
+</div>
+
+<!-- INCLUDE END: Infocolumn -->
+</div>
+
+<!--    container-wrapper + container + row + span12 -->
+
+                                                <div class="row">
+                            <div class="span12">
+                                <div class="html5-footer content-footer" role="contentinfo">
+                                                                        <!-- NAVIGATION BEGIN: footer -->
+
+    <div class="html5-nav">
+        <ul class="nav">
+            <li><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" class="ic-fa-impressum">Impressum</a></li>
+            <li><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" class="ic-fa-info">Geschlechtergerechte Sprache</a></li>
+            <li><a href="https://www.berlin.de/sen/bjf/service/ihre-ansprechpartner/index.php" class="ic-fa-mail">Ansprechpartner</a></li>
+            <li class="right"><a class="ic-fa-print" href="javascript:window.print();">Druckversion</a></li>
+            <li class="right"><a class="ic-fa-totop" href="#top">zum Seitenanfang</a></li>
+        </ul>
+    </div>
+
+<!-- NAVIGATION END: footer -->
+                                                                        <div class="section_splitter hidden-desktop hidden-tablet"></div>
+                                    <div class="html5-nav meta-navi hidden-desktop hidden-tablet">
+                                        <ul class="nav">
+                                            <li class="odd pos0"><a href="https://www.berlin.de/sen/bjf/a-bis-z/index.php" >A bis Z</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" >Impressum</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bjf/service/newsletter/index.php" >Newsletter</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bjf/service/presse/index.php" >Presse</a></li><li class="odd pos4"><a href="https://www.facebook.com/senbjw" class="social_media icon_facebook extern extern" target="_blank" title="auf Facebook folgen (Öffnet in neuem Fenster)">https://www.facebook.com/senbjw</a></li>                                        </ul>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                        <div class="container-wrapper container-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        
+<!-- template start: portal-footer -->
+<div class="html5-footer portal-footer">
+    <div>
+                <p>
+            Berlin.de ist ein Angebot des Landes Berlin und der BerlinOnline Stadtportal GmbH & Co. KG.            Weitere Informationen hierzu finden Sie im <a href="https://www.berlin.de/wir-ueber-uns-be/impressum/">Impressum</a>.        </p>
+    </div>
+    <div class="html5-nav">
+        <ul class="nav">
+            <li>Weitere Metropol-Webseiten:</li>
+            <li><a href="https://www.hamburg.de/">Hamburg</a></li>
+            <li><a href="https://www.muenchen.de/">München</a></li>
+            <li><a href="https://www.koeln.de/">Köln</a></li>
+        </ul>
+    </div><!-- /html5-nav -->
+</div><!-- /html5-footer -->
+<!-- /template end: portal-footer -->
+                    </div>
+                </div>
+            </div>
+        </div>
+                                <!-- MOBILE NAVIGATION START -->
+        <div class="navigation-mobile hidden-desktop hidden-tablet" role="navigation">
+            <p class="navSkip">Navigiere direkt zu:</p>
+            <ul class="navSkip">
+                <li><a href="#mobile-nav-toggle" tabindex="1" id="hiddenNavToggler">Navigation <!-- append text per css here --></a></li>
+            </ul>
+            <div class="sticky-header bde-gradient">
+                <div class="red-line"></div>
+                                <div class="portal-logo">
+                    <a title="Link führt zur Startseite von Berlin.de" href="https://www.berlin.de" >
+                        <img title="Link führt zur Startseite von Berlin.de" alt="Bild zeigt: Berlin.de Logo" src="//www.berlin.de/i9f/images/berlin_de.png" />
+                    </a>
+                </div>
+                                <button class="btn nav-toggle" id="mobile-nav-toggle" title="Mobile Navigation" aria-labelledby="hiddenNavToggler">
+                    <span class="aural">Öffnet und schließt die mobile Navigation</span>
+                    <span class="icon-menu"> 
+                        <span class="line line-1"></span>
+                        <span class="line line-2"></span>
+                        <span class="line line-3"></span>
+                    </span>
+                </button>
+            </div>
+            <div class="wrapper">
+                <div class="sticky-container-head">
+                    <div class="offcanvas-search">
+                    <form class="institutionssuche institutionssuche-mobile" method="get" action="https://www.berlin.de/sen/bildung/suche.php">
+    <div class="control-group searchform mobile" role="search">
+        <label class="aural" id="aural_institutionssuche_mobile">
+            Suche auf der Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie':        </label>
+        <input type="search" placeholder="Suchbegriff"
+            name="q" aria-labelledby="aural_institutionssuche_mobile"
+            maxlength="255"
+            title="Hier können Sie einen Text eingeben, um die Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie' zu durchsuchen"
+        />
+        <button class="btn global-search-submit" type="submit">
+            <span class="hidden-phone">Suchen</span>
+        </button>
+    </div>
+</form>
+                    </div>
+                </div>
+                <div class="nav-container">
+                    <div class="nav-container-body">
+                        <ul class="nav-menu menu">
+                            <li class="menu-item has-dropdown ">
+                                <a href="#!" class="menu-link">
+                                    Senatsverwaltung für Bildung, Jugend und Familie                                </a>
+                                <ul class="nav-dropdown menu ">
+                                    <li class="menu-item">
+                                        <a href="https://www.berlin.de/sen/bjf/" class="menu-link" title="Link zu: Startseite von Senatsverwaltung für Bildung, Jugend und Familie">Senatsverwaltung für Bildung, Jugend und Familie: Startseite</a>                                        <ul class="nav"><li class=" menu-item active">
+            <a href="https://www.berlin.de/sen/bildung/schule/" class=" menu-link">Schule</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/" class=" menu-link">Unterricht</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/" class=" menu-link">Schule und Beruf</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/" class=" menu-link">Fachkräfte</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/" class=" menu-link">Unterstützung</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/" class=" menu-link">Lebenslanges Lernen</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/index.php" class=" menu-link">Politik</a>                    </li></ul>                                    </li>
+                                </ul>
+<!-- HIER 1 -->
+                                
+		<ul class="sub crumbs1">
+			<li class="menu-item has-no-dropdown">
+<a href="https://www.berlin.de/sen/bildung/schule/" class="menu-link">Schule</a>
+			<ul class="sub crumbs2">
+				<li class="menu-item has-no-dropdown">
+<a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" class="menu-link">Berliner Schulen</a><ul class="sub level-1">
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" class="menu-link active">Schul&shy;verzeichnis</a>
+    </li>
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.bildung.berlin.de/Umkreissuche/" class="menu-link" target="_blank" title=" (Öffnet in neuem Fenster)">Schulen/Kitas in der Nähe</a>
+    </li>
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulwechsel-nach-berlin/" class="menu-link">Schulwechsel nach Berlin</a>
+    </li>
+</ul><!-- class="sub level-1" -->
+			</li>
+		</ul><!-- crumbs1 -->
+				</li>
+			</ul><!-- crumbs2 -->
+<!-- HIER 2 -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MOBILE NAVIGATION END -->
+
+        <script type="text/javascript" src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1484664807"></script>
+
+
+<!-- Zählpixel -->
+
+<div id="cp">
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof (DartIvwKategorie) == "undefined") DartIvwKategorie = "beberlin";
+
+
+    var CP = location.protocol + "//boss.berlinonline.de/cp.php?a=berlin&amp;r=" + escape(document.referrer) + "&amp;cat=" + DartIvwKategorie + "&amp;p=" + escape(document.location) + "&amp;d=" + (Math.random() * 100000);
+    document.write("<img src=\"" + CP + "\" width=\"1\" height=\"1\" alt=\"\" id=\"cp_pixel\" style=\"position:absolute;width:1px;height:1px;\" />");
+    /*]]>*/</script>
+<noscript><img src="https://boss.berlinonline.de/cp.php?a=berlin&amp;p=http%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Fschule%2Fberliner-schulen%2Fschulverzeichnis%2F__i9%2Fstd%2F&amp;r=" alt="" /></noscript>
+
+    <div id="ivw">
+
+         <!-- szm pixel desktop variante -->
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+<script type="text/javascript">
+    var iam_data = { "mg": "yes", "cp": DartIvwKategorie, "oc": DartIvwKategorie, "st": "berlin", "sv": (location.pathname == "/" ? "ke" : "in"), "co": location.hostname }
+    iom.c(iam_data, 1);
+</script>
+<!-- /SZM -->
+
+    </div>
+</div>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.berlinonline.de"]);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function () {
+        var u = (("https:" == document.location.protocol) ? "https" : "http") + "://piwik.berlinonline.de/";
+        _paq.push(["setTrackerUrl", u + "piwik.php"]);
+        _paq.push(["setSiteId", document.location.hostname.match(/service\.berlin\.de$/) ? "6" : "1"]);
+        var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0]; g.type = "text/javascript";
+        g.defer = true; g.async = true; g.src = u + "piwik.js"; s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+</body>
+</html>
+

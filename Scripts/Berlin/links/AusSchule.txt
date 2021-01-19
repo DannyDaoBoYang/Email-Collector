@@ -1,0 +1,2 @@
+                        <a id="DataListSchulen_HLinkSchulNr_0" href="Schulportrait.aspx?IDSchulzweig= 21625" style="font-weight:bold;">04E33</a>&nbsp;<span id="DataListSchulen_lblSchulName_0" style="font-weight:bold;">SSB Schwedische Schule in Berlin</span><br />
+                        <a id="DataListSchulen_HLinkSchulNr_1" href="Schulportrait.aspx?IDSchulzweig= 22260" style="font-weight:bold;">06E13</a>&nbsp;<span id="DataListSchulen_lblSchulName_1" style="font-weight:bold;">Japanische Internationale Schule zu Berlin</span><br />

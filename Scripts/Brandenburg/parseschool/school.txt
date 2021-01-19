@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="de" lang="de" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2017 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://bildung-brandenburg.de/schulportraets/" />
+
+<title>Schulporträts Brandenburg: Schule-Stammdaten</title>
+<meta name="generator" content="TYPO3 CMS" />
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/Assets/8dd2e95f80.css?1488273209" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/layout.css?1486738458" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/commonFonts.css?1233223429" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/screen.css?1168851722" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/M1.css?1168852011" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/menuhead.css?1166065616" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/menupfad.css?1167237047" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/cssStyledContent.css?1166007199" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/cTables.css?1163459410" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/mailform.css?1183461123" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/content.css?1173685048" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/template/css/wmdbsql.css?1320329381" media="all" />
+
+
+
+
+<script src="typo3temp/Assets/b9ac716825.js?1488273209" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="fileadmin/template/js/menu.js" language="JavaScript"></script>
+
+</head>
+<body>
+
+
+		<div id="boxAlignLayout">
+
+			<div id="boxHeader">
+				<div id="box_logoFloat">
+					<div id="box_logo" class="clearfix">
+						<a href="http://bildungsserver.berlin-brandenburg.de" title="Bildungsserver Berlin-Brandenburg bbb"><img src="fileadmin/template/images/bbb_logo.jpg" alt="bbb-Logo" width="207" height="64" border="0" /></a>
+					</div>
+				</div>
+			</div>
+
+			<div id="boxBluebar">
+				<div id="boxServiceMenu">
+					<ul id="menuhead"><li class="first"><a href="index.php?id=71&amp;schuljahr=2020&amp;schulnr=130060" title="Startseite">Startseite</a></li><li><a href="index.php?id=schulsuche&amp;schuljahr=2020&amp;schulnr=130060" title="Schulsuche">Schulsuche</a></li><li><a href="index.php?id=glossar&amp;schuljahr=2020&amp;schulnr=130060" title="Glossar">Glossar</a></li><li class="last"><a href="index.php?id=kontakt&amp;schuljahr=2020&amp;schulnr=130060" title="Kontakt">Kontakt</a></li></ul>
+				</div>
+			</div>
+
+			<div id="boxLogo2">
+					<a href="index.php" title="Home"><img src="fileadmin/template/images/logo-schulportraits.gif" alt="Logo Schulportraits" width="163" height="103" border="0" title="Logo Schulportraits" /></a>
+			</div>
+
+			<div class="M1-positioner-1">
+				<div class="M1-positioner-2">
+					<div class="M1-positioner-3">
+						<!-- Menu M1 begin -->
+						<div id="menu-M1">
+							<ul id="menu"><li class="first"><a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130060" title="Stammdaten">Stammdaten</a></li><li><a href="index.php?id=15&amp;schuljahr=2020&amp;schulnr=130060" title="Schülerinnen und Schüler">Schülerinnen und Schüler</a></li><li><a href="index.php?id=14&amp;schuljahr=2020&amp;schulnr=130060" title="Schulpersonal">Schulpersonal</a></li><li><a href="index.php?id=13&amp;schuljahr=2020&amp;schulnr=130060" title="Organisationsstruktur, Mitwirkung">Organisationsstruktur, Mitwirkung</a></li><li><a href="index.php?id=12&amp;schuljahr=2020&amp;schulnr=130060" title="Abschlüsse, Ganztag, Unterrichtsorganisation">Abschlüsse, Ganztag, Unterrichtsorganisation</a></li><li><a href="index.php?id=37&amp;schuljahr=2020&amp;schulnr=130060" title="Lehren und Lernen" class="sub">Lehren und Lernen</a><ul title="Hauptmenu, zweite Ebene"><li class="first"><a href="index.php?id=37&amp;schuljahr=2020&amp;schulnr=130060" title="Unterrichtsangebot">Unterrichtsangebot</a></li><li><a href="index.php?id=36&amp;schuljahr=2020&amp;schulnr=130060" title="Kursangebot">Kursangebot</a></li><li><a href="index.php?id=35&amp;schuljahr=2020&amp;schulnr=130060" title="Angewandte Lehr- und Lernformen">Angewandte Lehr- und Lernformen</a></li><li><a href="index.php?id=34&amp;schuljahr=2020&amp;schulnr=130060" title="Angebote zur individuellen Förderung">Angebote zur individuellen Förderung</a></li><li><a href="index.php?id=33&amp;schuljahr=2020&amp;schulnr=130060" title="Arbeitsgemeinschaften">Arbeitsgemeinschaften</a></li><li class="last"><a href="index.php?id=32&amp;schuljahr=2020&amp;schulnr=130060" title="Berufs- und Studienorientierung">Berufs- und Studienorientierung</a></li></ul></li><li><a href="index.php?id=10&amp;schuljahr=2020&amp;schulnr=130060" title="Schulgebäude">Schulgebäude</a></li><li><a href="index.php?id=9&amp;schuljahr=2020&amp;schulnr=130060" title="Ausstattung">Ausstattung</a></li><li><a href="index.php?id=8&amp;schuljahr=2020&amp;schulnr=130060" title="Schulprogramm">Schulprogramm</a></li><li><a href="index.php?id=467&amp;schuljahr=2020&amp;schulnr=130060" title="Evaluation, Visitation">Evaluation, Visitation</a></li><li><a href="index.php?id=7&amp;schuljahr=2020&amp;schulnr=130060" title="Schul- und Modellversuche">Schul- und Modellversuche</a></li><li><a href="index.php?id=50&amp;schuljahr=2020&amp;schulnr=130060" title="Schulkultur, Kooperation" class="sub">Schulkultur, Kooperation</a><ul title="Hauptmenu, zweite Ebene"><li class="first"><a href="index.php?id=50&amp;schuljahr=2020&amp;schulnr=130060" title="Schulveranstaltungen, Schülerzeitung und Schülerradio">Schulveranstaltungen, Schülerzeitung und Schülerradio</a></li><li><a href="index.php?id=47&amp;schuljahr=2020&amp;schulnr=130060" title="Schulförderverein">Schulförderverein</a></li><li class="last"><a href="index.php?id=46&amp;schuljahr=2020&amp;schulnr=130060" title="Schulpartnerschaften und Kooperationen">Schulpartnerschaften und Kooperationen</a></li></ul></li><li><a href="index.php?id=18&amp;schuljahr=2020&amp;schulnr=130060" title="Lehrkräftefortbildung">Lehrkräftefortbildung</a></li><li><a href="index.php?id=58&amp;schuljahr=2020&amp;schulnr=130060" title="Schülerleistungen" class="sub">Schülerleistungen</a><ul title="Hauptmenu, zweite Ebene"><li class="first"><a href="index.php?id=58&amp;schuljahr=2020&amp;schulnr=130060" title="Zentrale Prüfungen / Jahrgangsstufe 10 ">Zentrale Prüfungen / Jahrgangsstufe 10 </a></li><li><a href="index.php?id=57&amp;schuljahr=2020&amp;schulnr=130060" title="Zentrale Prüfungen / Schriftliches Abitur ">Zentrale Prüfungen / Schriftliches Abitur </a></li><li><a href="index.php?id=56&amp;schuljahr=2020&amp;schulnr=130060" title="erreichter Schulabschluss (Jahrgangsstufe 10)">erreichter Schulabschluss (Jahrgangsstufe 10)</a></li><li><a href="index.php?id=55&amp;schuljahr=2020&amp;schulnr=130060" title="Wiederholer im Schuljahr">Wiederholer im Schuljahr</a></li><li class="last"><a href="index.php?id=54&amp;schuljahr=2020&amp;schulnr=130060" title="Teilnahme an Wettbewerben">Teilnahme an Wettbewerben</a></li></ul></li><li class="last"><a href="index.php?id=201&amp;schuljahr=2020&amp;schulnr=130060" title="Absicherung des Unterrichts">Absicherung des Unterrichts</a></li></ul>
+						</div>
+						<!-- Menu M1 end -->
+					</div>
+				</div>
+			</div>
+
+			<div id="boxContent">
+
+				<!--TYPO3SEARCH_begin-->
+
+				<div class="boxPageTitle">
+					<div id="menupfad"><a href="http://www.bildungsserver.berlin-brandenburg.de">bbb</a>&nbsp;>&nbsp;<a href="index.php?id=schulsuche&amp;schuljahr=2020&amp;schulnr=130060">Schulportr&auml;ts</a>&nbsp;>&nbsp;COMENIUS-SCHULE berufsorientierende Oberschule Wünsdorf </div>
+					<div style="clear: both;"></div>
+					<h1>COMENIUS-SCHULE berufsorientierende Oberschule Wünsdorf <br /><span style="font-size:80%">Zossen/OT Wünsdorf</span></h1>
+					
+					
+					<div style="clear: both;"></div>
+
+				</div>
+
+				<div class="boxNormal">
+					
+	<!--  CONTENT ELEMENT, uid:/ [begin] -->
+		<div id="c" class="csc-default">
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1"
+
+	-->
+	<div class="tx-wmdbsql-pi1">
+		<table class="layout-1 borderless"><tr  valign="top"><td style="padding-bottom:10px;padding-right:50px;"><img src="fileadmin/_processed_/9/8/csm_130060_533d98944c.jpg" width="250" height="159"   alt="Bild der Schule" title="Bild der Schule"  border="0" /></td><td><iframe src=https://schullandschaft.brandenburg.de/edugis/viewer.html?l=Karte&snr=130060&zoom=6 width="250" height="188" style="border:1px solid #ccc"></iframe><p class="quelle">&copy; <a href="http://www.geobasis-bb.de" target="_blank">GeoBasis-DE/LGB 2011</a> und <a href="http://schullandschaft.brandenburg.de" target="_blank" >EduGis-BB</a></td></tr><tr  valign="top"><th align="right" style="padding-right:50px;" >Adresse:</th><td>COMENIUS-SCHULE berufsorientierende Oberschule Wünsdorf <br />Chausseestraße 6<br />15806 Zossen/OT Wünsdorf</td></tr><tr  valign="top"><th align="right" style="padding-right:50px;">Schulleiter/in:</th><td>Frau   Moeß</td></tr><tr valign="top"><th align="right" style="padding-right:50px;">Telefon:</th><td>033702 66411</td></tr><tr valign="top"><th align="right" style="padding-right:50px;">Fax:</th><td>033702 66629</td></tr><tr valign="top"><th align="right" style="padding-right:50px;">E-Mail:</th><td><a href="javascript:linkTo_UnCryptMailto('kygjrm8mzcpqafsjc,usclqbmpdYqafsjcl,zpylbclzspe,bc');" title="E-Mail">oberschule.wuensdorf|at|schulen.brandenburg.de</a>*</td></tr><tr valign="top"><th align="right" style="padding-right:50px;">Internet:</th><td><a href="http:\www.oberschule-wuensdorf.de" target="_blank" title="Homepage">http:\\www.oberschule-wuensdorf.de</a></td></tr><tr valign="top"><th align="right" style="padding-right:50px;">Landkreis/<br />Kreisfreie Stadt:</th><td valign="bottom">Teltow-Fläming</td></tr><tr><th align="right" style="padding-right:50px;">Schulamt:</th><td valign="bottom">Staatliches Schulamt Brandenburg an der Havel</td></tr><tr valign="top"><th valign="top" align="right"  style="padding-right:50px;">Schulform: </th><td>Oberschule</td></tr><tr valign="top"><th align="right" style="padding-right:50px;">Schulträger:</th><td>Gemeinde</td></tr><tr valign="top"><th align="right" style="padding-right:50px;">Besonderheit:</th><td>Optimale Lernbedingungen in einer "kleinen" Schule ,<br />
+starke Praxisorientierung für den bestmögliche Start ins Berufsleben, <br />
+eine freundliche, offene und repektvolle Atmospäre</td></tr></table><p class="quelle">Quelle: Schulverzeichnis (ZENSOS)</p>
+	</div>
+	
+	<!-- END: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:/ [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:/ [begin] -->
+		<div id="c" class="csc-default">
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1"
+
+	-->
+	<div class="tx-wmdbsql-pi1">
+		<a href="index.php?id=gesamtdossier&amp;schuljahr=2020&amp;schulnr=130060&amp;type=98&amp;cHash=75c6a0a84656bec51182a0502c79b7eb">Gesamtdossier der Schule für das Schuljahr 2019/2020 (Stand:15.09.2020)</a><a href="fileadmin/user_upload/2018/130060.html" title="Dossier 2018/2019"><br /><br />Zum Vergleich das Gesamtdossier der Schule für das Schuljahr 2018/2019</a><a href="fileadmin/user_upload/2017/130060.html" title="Dossier 2017/2018"><br />Zum Vergleich das Gesamtdossier der Schule für das Schuljahr 2017/2018</a><a href="fileadmin/user_upload/2016/130060.html" title="Dossier 2016/2017"><br />Zum Vergleich das Gesamtdossier der Schule für das Schuljahr 2016/2017</a>
+	</div>
+	
+	<!-- END: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:/ [end] -->
+		<br /><br />
+
+
+	<!--
+
+		BEGIN: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1"
+
+	-->
+	<div class="tx-wmdbsql-pi1">
+		<div class="box" ><div class="boxbody"><form action="index.php" name="amenuform"><input type="text" value="Vergleichen mit:" name="replacer" size="105" id="replacer" style="display:none;" /><select style="border: 1px solid; font-size: 0.9em; color: black;" onchange="document.amenuform.submit();" name="schulnr"><option selected="selected" value="" disabled="disabled">Vergleichen mit:</option><option value="111314">Barnim: Oberschule am Rollberg  </option><option value="111338">Barnim: Europaschule Werneuchen  </option><option value="113098">Barnim: Schule Finowfurt  </option><option value="113130">Barnim: Karl-Sellheim-Schule  </option><option value="130369">Barnim: Oberschule Klosterfelde  </option><option value="130370">Barnim: Grund- und Oberschule Schwanebeck  </option><option value="130382">Barnim: Tobias-Seiler-Oberschule  </option><option value="130746">Barnim: Johann-Wolfgang-von-Goethe-Schule  </option><option value="180130">Barnim: Oberbarnim-Oberschule anerkannte Ersatzschule  (in freier Tr&auml;gerschaft)</option><option value="180257">Barnim: Private Oberschule Blumberg - genehmigte Ersatzschule - anerkannt in der Sekundarstufe I (in freier Tr&auml;gerschaft)</option><option value="180294">Barnim: Freie Naturschule Barnim - Oberschule mit integrierter Grundschule als genehmigte Ersatzschule in freier Trägerschaft (in freier Tr&auml;gerschaft)</option><option value="110796">Brandenburg an der Havel: Berufsorientierte Schule Kirchmöser  </option><option value="110826">Brandenburg an der Havel: Otto-Tschirch-Oberschule  </option><option value="110838">Brandenburg an der Havel: Oberschule Brandenburg Nord  </option><option value="130205">Brandenburg an der Havel: Nicolaischule - Städtische Oberschule (Brandenburg an der Havel) </option><option value="110565">Cottbus: Sachsendorfer Oberschule Cottbus  </option><option value="110619">Cottbus: Paul-Werner-Oberschule Cottbus </option><option value="180300">Cottbus: Schmellwitzer Oberschule  </option><option value="111090">Dahme-Spreewald: Spreewald-Schule Lübben Oberschule </option><option value="112513">Dahme-Spreewald: "Oberschule  An der Schanze" Luckau  </option><option value="112586">Dahme-Spreewald: Oberschule am Airport Schönefeld  </option><option value="112616">Dahme-Spreewald: Grund-und Oberschule Schenkenland  </option><option value="130679">Dahme-Spreewald: Ludwig Witthöft Oberschule Wildau  </option><option value="180026">Dahme-Spreewald: Ludwig Leichhardt Oberschule des Amtes Lieberose/Oberspreewald </option><option value="180129">Dahme-Spreewald: Freie Oberschule Villa Elisabeth Eichwalde - anerkannte Ersatzschule - (in freier Tr&auml;gerschaft)</option><option value="180142">Dahme-Spreewald: Jean-Itard-Ersatzschule Integrative Oberschule  -genehmigte Ersatzschule - (in freier Tr&auml;gerschaft)</option><option value="111028">Elbe-Elster: Elsterschulzentrum Primarstufe & Sekundarstufe I </option><option value="111200">Elbe-Elster: Grund- und Oberschule I Johannes Clajus Herzberg </option><option value="111211">Elbe-Elster: Oberschule mit Grundschule Ernst Legal Schlieben </option><option value="112288">Elbe-Elster: Oscar-Kjellberg-Oberschule  </option><option value="130280">Elbe-Elster: Robert-Reiss-Oberschule Schule mit berufsfeldorientiertem Unterricht </option><option value="130310">Elbe-Elster: Oberschule Falkenberg  </option><option value="130606">Elbe-Elster: Grund- und Oberschule Massen  </option><option value="130916">Elbe-Elster: Oberschule Prösen "Aktive Entwicklungsschule" - anerkannte Ersatzschule - (in freier Tr&auml;gerschaft)</option><option value="180051">Elbe-Elster: Evangelische Gemeinschaftsschule Doberlug-Kirchhain staatlich anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="111454">Frankfurt (Oder): Oberschule "Ulrich von Hutten" Frankfurt (Oder) </option><option value="130394">Frankfurt (Oder): Oberschule "Heinrich v. Kleist" Frankfurt (Oder) </option><option value="112124">Havelland: Grund- und Oberschule "Dr. Georg Graf von Arco" Nauen  </option><option value="112136">Havelland: Oberschule "Theodor Fontane"  </option><option value="112148">Havelland: Oberschule Falkensee  </option><option value="112161">Havelland: Heinz Sielmann Oberschule Elstal  </option><option value="112173">Havelland: Hans-Klakow-Oberschule  </option><option value="112823">Havelland: Kooperationsschule Friesack mit Primarstufe </option><option value="112860">Havelland: Oberschule Premnitz  </option><option value="130722">Havelland: Oberschule "Johann Heinrich August Duncker" </option><option value="110073">Märkisch-Oderland: Schulzentrum "Am Friedensplatz" Neutrebbin  </option><option value="110097">Märkisch-Oderland: Grund- und Oberschule "Salvador Allende" Wriezen  </option><option value="110620">Märkisch-Oderland: Stadtschule Altlandsberg Oberschule mit Grundschulteil </option><option value="110670">Märkisch-Oderland: Oberschule Müncheberg  </option><option value="110693">Märkisch-Oderland: Anne-Frank-Oberschule Strausberg  </option><option value="110711">Märkisch-Oderland: Lise-Meitner-Oberschule  Strausberg</option><option value="111569">Märkisch-Oderland: Grund- und Oberschule Rüdersdorf </option><option value="112549">Märkisch-Oderland: Theodor-Fontane-Schule Letschin  </option><option value="112574">Märkisch-Oderland: Bertolt-Brecht-Oberschule Seelow Ganztagsschule </option><option value="113207">Märkisch-Oderland: Peter Joseph Lenné Oberschule mit Grundschulteil Hoppegarten  </option><option value="130163">Märkisch-Oderland: Oberschule Fredersdorf  </option><option value="130825">Märkisch-Oderland: Erna-und-Kurt-Kretschmann-Oberschule Bad Freienwalde  </option><option value="180014">Märkisch-Oderland: Oberschule Neuenhagen bei Berlin mit berufsorientierendem Profil anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="180324">Märkisch-Oderland: Oberschule der bundtStift_Schulen genehmigte Ersatzschule in freier Trägerschaft  (in freier Tr&auml;gerschaft)</option><option value="111764">Oberhavel: Libertasschule Löwenberg Grund- und Oberschule</option><option value="111788">Oberhavel: Werner-von-Siemens-Schule Gransee  </option><option value="111818">Oberhavel: Exin-Oberschule Zehdenick  </option><option value="112707">Oberhavel: Goethe-Oberschule Kremmen  </option><option value="112756">Oberhavel: Jean-Clermont-Oberschule Sachsenhausen  </option><option value="112793">Oberhavel: Oberschule "Albert Schweitzer" Hennigsdorf </option><option value="130680">Oberhavel: Barbara-Zürner-Oberschule  </option><option value="130692">Oberhavel: Dr. Hugo Rosenthal Oberschule  </option><option value="130801">Oberhavel: Oberschule "Adolph Diesterweg" Hennigsdorf </option><option value="130886">Oberhavel: Oberschule "An der Polz" der Balance gGmbH  (in freier Tr&auml;gerschaft)</option><option value="180191">Oberhavel: Adventschule Oberhavel Oberschule mit  Grundschulteil  (in freier Tr&auml;gerschaft)</option><option value="180268">Oberhavel: Mosaik-Oberschule Oberhavel - anerkannte Ersatzschule in freier Trägerschaft der Jugend- und Sozialwerk gGmbH Oranienburg Kreis Oberhavel (in freier Tr&auml;gerschaft)</option><option value="180312">Oberhavel: Oberschule Stadt Oranienburg/OT Lehnitz </option><option value="190147">Oberhavel: Freie Naturschule im Fürstenberger Seenland, Oberschule mit integrierter Grundschule - genehmigte Ersatzschule in freier Trägerschaft (in freier Tr&auml;gerschaft)</option><option value="110127">Oberspreewald-Lausitz: Grund- und Oberschule Calau  </option><option value="112367">Oberspreewald-Lausitz: Friedrich-Hoffmann-Oberschule Großräschen  </option><option value="112379">Oberspreewald-Lausitz: Bernhard-Kellermann-Oberschule Senftenberg </option><option value="112409">Oberspreewald-Lausitz: Karl-Eduard von Lingenthal-Oberschule Ortrand mit integrierter Grundschule Europaschule</option><option value="112410">Oberspreewald-Lausitz: Geschwister-Scholl-Oberschule mit Grundschule Ruhland </option><option value="112434">Oberspreewald-Lausitz: Oberschule "Am Wehlenteich" Lauchhammer </option><option value="113244">Oberspreewald-Lausitz: Oberschule mit Grundschulteil Schulzentrum "Dr. Albert Schweitzer" Vetschau/Spreewald</option><option value="130023">Oberspreewald-Lausitz: Oberschule "Ehm Welk" Lübbenau/Spreewald </option><option value="130643">Oberspreewald-Lausitz: Dr.-Otto-Rindt-Oberschule Senftenberg </option><option value="111144">Oder-Spree: Albert-Schweitzer-Oberschule  </option><option value="111168">Oder-Spree: Europaschule Storkow Grund- und Oberschule </option><option value="111491">Oder-Spree: Grund- und Oberschule Müllrose  </option><option value="111600">Oder-Spree: Juri-Gagarin-Oberschule Fürstenwalde </option><option value="111612">Oder-Spree: Spree-Oberschule Fürstenwalde  </option><option value="111650">Oder-Spree: Oberschule "Maxim Gorki" Bad Saarow Oberschule mit Grundschulteil </option><option value="130448">Oder-Spree: MORUS-Oberschule Erkner  </option><option value="130850">Oder-Spree: Katholische Schule Bernhardinum Oberschule anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="130904">Oder-Spree: Oberschule Chance BugK/Grünheide genehmigte Ersatzschule  (in freier Tr&auml;gerschaft)</option><option value="180040">Oder-Spree: Bettina-von-Arnim-Schule Private Oberschule anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="180075">Oder-Spree: Johannes-Gutenberg-Oberschule -anerkannte Ersatzschule-  (in freier Tr&auml;gerschaft)</option><option value="180099">Oder-Spree: Rahn Education - Freie Oberschule Fürstenwalde, Staatlich anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="180105">Oder-Spree: Freie Montessori Oberschule Hangelsberg der FAWZ gGmbH -anerkannte Ersatzschule- (in freier Tr&auml;gerschaft)</option><option value="180154">Oder-Spree: Rahn Education - Freie Oberschule im Stift Neuzelle, Staatlich anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="180166">Oder-Spree: Oberschule Briesen der FAWZ gGmbH anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="110280">Ostprignitz-Ruppin: Oberschule "Schule am Rhin" Fehrbellin </option><option value="110292">Ostprignitz-Ruppin: FontaneSchule Neuruppin  </option><option value="110917">Ostprignitz-Ruppin: Dr.-Wilhelm-Polthier-Oberschule Wittstock </option><option value="112835">Ostprignitz-Ruppin: Grund- und Oberschule Schulzentrum "Bildungscampus-Rheinsberg" </option><option value="130485">Ostprignitz-Ruppin: Carl-Diercke-Schule Oberschule Kyritz  </option><option value="130862">Ostprignitz-Ruppin: Oberschule "Alexander Puschkin" Neuruppin </option><option value="130898">Ostprignitz-Ruppin: Nachbarschaftsschule Freie Schule   (in freier Tr&auml;gerschaft)</option><option value="180063">Ostprignitz-Ruppin: Gemeinschaftsschule im Kloster Stift zum Heiligengrabe Oberschule m. angegliederten Grundschulteil, anerkannte Ersatzschule für die Oberschule (in freier Tr&auml;gerschaft)</option><option value="180208">Ostprignitz-Ruppin: Evangelische Schule Neuruppin Oberschule anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="180270">Ostprignitz-Ruppin: Montessori-Oberschule Neuruppin - genehmigte Ersatzschule, anerkannt in der Sekundarstufe I  (in freier Tr&auml;gerschaft)</option><option value="112963">Potsdam: Montessori-Oberschule mit Primarstufe </option><option value="113001">Potsdam: Oberschule Theodor Fontane mit Primarstufe </option><option value="130734">Potsdam: Käthe-Kollwitz-Oberschule  </option><option value="105673">Potsdam-Mittelmark: Berlin Brandenburg International School GmbH (BBIS)   (in freier Tr&auml;gerschaft)</option><option value="110498">Potsdam-Mittelmark: Thomas-Müntzer-Schulzentrum Ziesar-Görzke  </option><option value="110759">Potsdam-Mittelmark: Oberschule der Stadt Brück  </option><option value="110760">Potsdam-Mittelmark: Krause-Tschetschog-Oberschule  </option><option value="112008">Potsdam-Mittelmark: Grund- und Oberschule Wilhelmshorst  </option><option value="112069">Potsdam-Mittelmark: Solar-Oberschule Beelitz  </option><option value="113384">Potsdam-Mittelmark: KARIBU-Oberschule Geltow anerkannte Ersatzschule  (in freier Tr&auml;gerschaft)</option><option value="130539">Potsdam-Mittelmark: Carl-von-Ossietzky-Oberschule mit angegliederter Primarstufe  </option><option value="190160">Potsdam-Mittelmark: Schule des Lebens Potsdam, Oberschule mit integrierter Grundschule als genehmigte Ersatzschule in freier Trägerschaft (in freier Tr&auml;gerschaft)</option><option value="113300">Prignitz: Oberschule mit Grundschule Glöwen  </option><option value="130461">Prignitz: Freiherr-von-Rochow-Schule - Oberschule - </option><option value="180282">Prignitz: IBiS-Oberschule "Maria Montessori" Wittenberge - genehmigte Ersatzschule - anerkannt in der Sekundarstufe I (in freier Tr&auml;gerschaft)</option><option value="800132">Prignitz: Oberschule Wittenberge  </option><option value="800211">Prignitz: Friedrich-Gedike-Oberschule Perleberg  </option><option value="110012">Spree-Neiße: Gutenberg Oberschule Forst  </option><option value="110024">Spree-Neiße: Praxisorientierte Grund- und Oberschule Germanus Theiss  </option><option value="110942">Spree-Neiße: Oberschule Peitzer Land  </option><option value="110954">Spree-Neiße: Grund- und Oberschule "Mina Witkojc" Burg (Spreewald)</option><option value="110991">Spree-Neiße: Europaschule "Marie & Pierre Curie" Oberschule </option><option value="130187">Spree-Neiße: Berufsorientierende Oberschule Spremberg  </option><option value="110346">Teltow-Fläming: Otfried-Preußler-Schule Grund- und Oberschule Großbeeren </option><option value="110358">Teltow-Fläming: Gottlieb-Daimler-Schule Ludwigsfelde </option><option value="110360">Teltow-Fläming: Oberschule "Herbert Tschäpe" Blankenfelde-Mahlow  </option><option value="111934">Teltow-Fläming: Wiesenschule Oberschule Jüterbog  </option><option value="111995">Teltow-Fläming: Friedrich-Ludwig-Jahn-Oberschule "Oberschule mit Sportbetonung" </option><option value="112495">Teltow-Fläming: Otto-Unverdorben-Oberschule Dahme/Mark </option><option value="113347">Teltow-Fläming: Goetheoberschule Trebbin  </option><option value="130059">Teltow-Fläming: Oberschule Rangsdorf  </option><option value="130060">Teltow-Fläming: COMENIUS-SCHULE berufsorientierende Oberschule Wünsdorf </option><option value="180038">Teltow-Fläming: Freie Oberschule Baruth anerkannte Ersatzschule  (in freier Tr&auml;gerschaft)</option><option value="180210">Teltow-Fläming: Seeoberschule Rangsdorf anerkannte Ersatzschule  (in freier Tr&auml;gerschaft)</option><option value="110449">Uckermark: Ehm Welk - Oberschule Schule für gemeinsames Lernen </option><option value="110851">Uckermark: Dreiklang Oberschule  </option><option value="112185">Uckermark: Oberschule Templin  </option><option value="113311">Uckermark: Oberschule mit Grundschule Carl Friedrich Grabow </option><option value="130837">Uckermark: Oberschule "Philipp Hackert"  </option><option value="130874">Uckermark: Aktive Naturschule Prenzlau Grund- und Oberschule Oberschule mit angegliedertem Grundschulteil -anerkannte Ersatzschule- (in freier Tr&auml;gerschaft)</option><option value="180180">Uckermark: Freie Schule Angermünde Oberschule anerkannte Ersatzschule (in freier Tr&auml;gerschaft)</option><option value="401481">Uckermark: Ev. Schulzentrum TABALUGA Oberschule mit koop.-integr. Förderklassen  (in freier Tr&auml;gerschaft)</option>			</select>
+			  <input type="submit" style="border: 0pt none ; padding: 0px; font-size: 0.9em; color: black; margin-left: 0.2em;" value="GO" name="GO" id="aGO" />
+			  <input type="hidden" value="2020" name="schuljahr" />
+			  <input type="hidden" value="6" name="id" />
+			</form>
+			
+			<script type="text/javascript">
+			<!--  
+			if (document.getElementById)document.getElementById("aGO").style.visibility = "hidden";
+			// --> 
+			</script>			
+			</div></div>
+	</div>
+	
+	<!-- END: Content of extension "wmdb_sql", plugin "tx_wmdbsql_pi1" -->
+
+	
+					<p style="font-size:80%;"><em>* Zur Vermeidung von Werbemails steht &#124;at&#124; für das Symbol &#64;</em></p>
+				</div>
+
+				<div class="boxRight">
+					
+				</div>
+
+				<!--TYPO3SEARCH_end-->
+
+			</div>
+
+			<div id="boxBottomSpace">
+				<a href="index.php?id=impressum&amp;schuljahr=2020&amp;schulnr=130060">Impressum</a> | <a href="index.php?id=473&amp;schuljahr=2020&amp;schulnr=130060">Datenschutz</a> | <a href="index.php?id=stammdaten&amp;schuljahr=2020&amp;schulnr=130060&amp;id=stammdaten&amp;cHash=a8780d00d46407fdd5dff0c7bc52d798&amp;type=99" target="_blank">Druckversion</a>
+			</div>
+
+		</div>
+
+
+
+
+</body>
+</html>

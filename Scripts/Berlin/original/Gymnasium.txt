@@ -1,0 +1,1287 @@
+
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+<!-- TITLE ersetzen --><title>Schulverzeichnis</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1484664807"/>
+<!-- theme switch begin -->
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1484664807"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1484664807"/>
+    <link rel="shortcut icon" href="//www.berlin.de/i9f/images/favicon.ico" type="image/x-icon"/>
+    <link rel="apple-touch-icon" href="//www.berlin.de/i9f/images/iphone.png" type="image/png"/>
+<!-- theme switch end -->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie7.css?ts=1484664807" />
+<![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie8.css?ts=1484664807" />
+<![endif]-->
+<!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/berlin_ie9.css?ts=1484664807" />
+<![endif]-->
+
+    <!-- "property" validiert nicht, nimm "name" -->
+    <meta name="og:image" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png"/>
+    <meta name="og:image:secure_url" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png"/>
+    <script type="text/javascript" src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1484664807"></script>
+
+
+
+<!--
+  layout: std
+  created on: Wed, 18 Jan 2017 13:40:39 +0100
+-->
+
+
+
+</head>
+<body class="locale_de">
+
+
+                <div class="container-wrapper container-portal-header">
+<!-- Werbung -->
+<div class="skyscraper hidden-phone">
+<!-- werbe einheit: beberlin -->
+</div>
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                                                    
+                <!-- NAVIGATION BEGIN: portal -->
+
+                <div class="html5-header portal-header hidden-phone">
+                    <div class="red-line"></div>
+                    <div class="html5-figure main-image">
+                        <a href="https://www.berlin.de/">
+                            <img class="portal-logo hide-mobile" src="//www.berlin.de/i9f/images/berlin_de.png" alt="Zur Homepage von Berlin.de" />
+                        </a>
+                    </div><!-- /html5-figure -->
+
+                    <p class="navSkip hidden-phone osvnp">Navigiere direkt zu:</p>
+                    <ul class="navSkip hidden-phone">
+                        <li><a href="#aural_institutionssuche">Suche</a></li>
+                        <li><a href="#aural_maincontent">Inhalt</a></li>
+                    </ul>
+
+                    <nav aria-label="Portal Navigation">
+                        <h6 class="aural">Portal Navigation</h6>
+                        <p class="aural" id="bo-portalnavilinkslabel">Besuchen Sie auch unsere anderen Themen-Bereiche:</p>
+                        <ul class="portal-navi" id="bo-portalnavilinks" aria-labelledby="bo-portalnavilinkslabel">
+                            <li class="active"><a href="https://www.berlin.de/politik-verwaltung-buerger/">Politik, Verwaltung, Bürger</a></li>
+                            <li><a href="https://www.berlin.de/kultur-und-tickets/">Kultur &#38; Ausgehen</a></li>
+                            <li><a href="https://www.berlin.de/tourismus/">Tourismus</a></li>
+                            <li><a href="https://www.berlin.de/wirtschaft/">Wirtschaft</a></li>
+                            <li><a href="https://www.berlin.de/special/">Themen</a></li>
+                            <li><a href="https://www.berlin.de/adressen/">BerlinFinder</a></li>
+                            <li><a href="https://www.berlin.de/stadtplan/">Stadtplan</a></li>
+                        </ul>
+                    </nav><!-- /html5-nav -->
+                </div><!-- /html5-header -->
+                <!-- NAVIGATION END: portal -->
+                                            </div>
+                </div>
+            </div>
+        </div>
+        
+                <div id="top" class="container-wrapper container-content template-land_overview">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+
+                                                <!-- NAVIGATION BEGIN: horizontal-->
+<div class="row">
+    <div class="span12">
+<!--NAVIGATION BEGIN: meta-->
+<div class="html5-header content-header ">
+    <div class="row">
+        <div class="span5">
+            <div class="html5-section section-logo without-logo">
+                                <div class="html5-section text">
+                                        <a href="https://www.berlin.de/sen/bjf/" title="Link zu: Startseite von Senatsverwaltung für Bildung, Jugend und Familie"><span class="institution">Senatsverwaltung für</span>
+                <span class="title">Bildung, Jugend und Familie</span></a>                </div>
+            </div>
+        </div>
+
+        <div class="span7">
+                            <div class="html5-nav meta-navi">
+                    <ul class="nav">
+                        <li class="odd pos0"><a href="https://www.berlin.de/sen/bjf/a-bis-z/index.php" >A bis Z</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" >Impressum</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bjf/service/newsletter/index.php" >Newsletter</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bjf/service/presse/index.php" >Presse</a></li><li class="odd pos4"><a href="https://www.facebook.com/senbjw" class="social_media icon_facebook extern" target="_blank" title="auf Facebook folgen (Öffnet in neuem Fenster)">https://www.facebook.com/senbjw</a></li>                    </ul>
+                </div>
+                                        <!--META BEGIN: SEARCH-->
+                <div class="html5-section search navbar">
+                    <div class="navbar-inner">
+                        <div class="nav-collapse search-collapse collapse">
+                            <form class="institutionssuche" method="get" action="https://www.berlin.de/sen/bildung/suche.php">
+    <div class="control-group searchform " role="search">
+        <label class="aural" id="aural_institutionssuche">
+            Suche auf der Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie':        </label>
+        <input type="search" placeholder="Suchbegriff"
+            name="q" aria-labelledby="aural_institutionssuche"
+            maxlength="255"
+            title="Hier können Sie einen Text eingeben, um die Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie' zu durchsuchen"
+        />
+        <button class="btn global-search-submit" type="submit">
+            <span class="hidden-phone">Suchen</span>
+        </button>
+    </div>
+</form>
+                        </div>
+                    </div>
+                </div>
+                <!--META END: SEARCH-->
+                    </div>
+    </div>
+</div>
+<!-- NAVIGATION END: meta-->
+    </div>
+</div>
+<div class="row">
+    <div class="span12">
+        <span class="mobile-blue-line hidden-desktop hidden-tablet"></span>
+        <div class="content-navi-wrapper navbar hidden-phone">
+            <div class="html5-nav content-navi-top navbar-inner smallfontsize">
+                <nav class="nav-collapse mainnav-collapse collapse" aria-label="Hauptnavigation">
+                    <h6 class="aural">Hauptnavigation</h6>
+                    <ul class="nav level1"  >
+                                <li class=" active has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/schule/" >Schule</a>            <ul class="nav"><li class=" active">
+            <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bildungswege/" >Bildungswege</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/" >Prüfungen und Abschlüsse</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/besondere-schulangebote/" >Besondere Schulangebote</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjf/inklusion/" >Inklusion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/foerderung/" >Förderung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/ganztaegiges-lernen/ganztagsschulen/index.php" >Ganztägiges Lernen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/gute-schule/" >Gute Schule</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/rechtsvorschriften/" >Rechts&shy;vorschriften</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/schulentwicklungsplanung/" >Schulentwick&shy;lungsplanung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bauen-und-sanieren/" >Bauen und Sanieren</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/bildungsstatistik/" >Bildungs&shy;statistik</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/" >Unterricht</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/faecher-rahmenlehrplaene/" >Fächer / Rahmen&shy;lehrpläne</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/individuelles-lernen/" >Individuelles Lernen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule/foerderung/sprachfoerderung/" >Sprachbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/kulturelle-bildung/" >Kulturelle Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/politische-bildung/" >Politische Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/schulqualitaet/" >Schulqualität</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/kooperationen/" >Kooperationen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/wettbewerbe/" >Wettbewerbe</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/medien/" >Medien</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/reisende/" >Reisende</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/" >Schule und Beruf</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/berufliche-bildung/" >Berufliche Bildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/jugendberufsagentur/" >Jugend&shy;berufsagentur</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/berufs-und-studienorientierung/" >Berufs- und Studien&shy;orientierung</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/" >Fachkräfte</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/lehrerausbildung/" >Lehrer&shy;ausbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/einstellungen/" >Einstellungen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/qualifizierung/" >Qualifizierung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/personalverwaltung/" >Personal&shy;verwaltung</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/" >Unterstützung</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/schulpsychologie/" >Schul&shy;psychologie</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/gewalt-und-notfaelle/" >Gewalt und Notfälle&shy;</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/praevention-in-der-schule/" >Prävention in der Schule</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjf/inklusion/index.php#beratung" >Beratung für Inklusion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/bonus-programm/" >Bonus-Programm</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/verfuegungsfonds/" >Verfügungsfonds</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/jugend/jugend/jugendsozialarbeit/artikel.340995.php" >Schul&shy;sozial&shy;arbeit</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/proschul/" >proSchul</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/schulinspektion/" >Schulinspektion</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bjw/ueber-uns/adressen/#schulaufsicht" >Schulaufsicht</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/egovernment/" >eGovernment</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/" >Lebenslanges Lernen</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/vhs/" >VHS</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/musikschulen/" >Musikschulen</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/zweiter-bildungsweg/" >Zweiter Bildungsweg</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/alphabetisierung-und-grundbildung/" >Alpha&shy;betisierung und Grundbildung</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/fortbildung-fuer-weiterbildner/" >Fortbildung für Weiterbildner</a>                    </li>
+        <li class="">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/lernorte/" >Lernorte</a>                    </li></ul>        </li>
+        <li class=" has-submenu">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/index.php" >Politik</a>            <ul class="nav"><li class="">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/" >Bildungspolitik</a>                    </li></ul>        </li>
+                                            </ul>
+                                        <div class="beberlin"><img alt="Logo beBerlin" title="beBerlin" src="//www.berlin.de/i9f/v4/css/images/logo_beberlin_darkblue.png" /></div>
+                                    </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--NAVIGATION END: horizontal-->
+
+<!-- content start -->
+<!-- row - span12 -->
+
+
+                        <!-- NAVIGATION BEGIN: breadcrumb -->
+<div class="row row-breadcrumb">
+  <div class="span10">
+
+    <nav class="html5-section breadcrumb" aria-label="Breadcrumb">
+      <p id="aural_breadcrumblabel" class="aural">Sie befinden sich hier:</p>
+      <ul aria-labelledby="aural_breadcrumblabel">
+        <li class="odd pos0"><a href="https://www.berlin.de/sen/bildung/" class="homehaus">Senats&shy;verwaltung Abteilung Bildung</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bildung/schule/" >Schule</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" >Schul&shy;verzeichnis</a></li>        <li class="aural">SCHULVERZEICHNIS</li>
+      </ul>
+    </nav>
+  </div>
+  <div class="span2"></div>
+</div>
+<!-- NAVIGATION END: breadcrumb -->
+
+<div class="row">
+    <div class="span2 column-left">
+        <!-- NAVIGATION BEGIN: vertical -->
+<div class="html5-nav content-navigation-left navbar">
+    <div class="navbar-inner">
+        <nav class="hidden-phone nav-collapse collapse" aria-label="Sekundäre Navigation">
+            <h6 class="aural">Sekundäre Navigation</h6>
+            <ul class="nav level-0">
+                <li class="active"><a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" >Berliner Schulen</a>                    <ul class="level-1" ><li class="active">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" >Schul&shy;verzeichnis</a>    </li>
+<li >
+    <a href="https://www.bildung.berlin.de/Umkreissuche/" target="_blank" title=" (Öffnet in neuem Fenster)">Schulen/Kitas in der Nähe</a>    </li>
+<li >
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulwechsel-nach-berlin/" >Schulwechsel nach Berlin</a>    </li>
+</ul>                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<!-- NAVIGATION END: vertical -->
+    </div>
+
+    <div class="span7 column-content">
+        <h6 class="aural" id="aural_maincontent">Inhaltsspalte</h6>
+        <div class="html5-section article" role="main">
+
+<!--anker:allris-->
+
+
+<!-- Hier den Applikations-Content einfügen -->
+<!-- CONTENT -->
+
+
+
+
+
+
+
+    <form method="post" action="./SchulListe.aspx" id="frmSchulListe">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="88BBF1AF" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+         <h1><span id="lblUeberschrift1" class="Ueberschrift">Berliner Schulen</span>
+            &nbsp;</h1>
+        <p>
+            <table cellspacing="0" id="FormViewUeberschrift" style="font-weight:bold;border-collapse:collapse;">
+	<tr>
+		<td colspan="2">
+<span id="FormViewUeberschrift_UeberschriftLabel" style="font-weight:normal;"><b>Suchergebnis</b> (<b>Schulart:</b> Gymnasien )</span> 
+</td>
+	</tr>
+</table>
+            <a id="HLinkStadtplan" title="Liste der Schulen in Kartenansicht" href="SchulVerzKarte.aspx" target="_blank"><img title="Liste der Schulen in Kartenansicht" src="stadtplan.gif" alt="Kartenansicht" /></a><span id="lblAnsicht">Kartenansicht</span><br /><br />
+
+            Sortieren nach:&nbsp;<a id="HLink" href="SchulListe.aspx?Sort=Schulname">SchulName</a>&nbsp;&nbsp;&nbsp;<a id="HLinkBSN" href="SchulListe.aspx?Sort=BSN">SchulNr</a>&nbsp;&nbsp;&nbsp;<a id="HLinkSchulart" href="SchulListe.aspx?Sort=Schulzweig">Schulart</a>&nbsp;&nbsp;&nbsp;<a id="HLinkOrtsteil" href="SchulListe.aspx?Sort=Ortsteil">Ortsteil</a><br /><br />
+            <table id="DataListSchulen" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_0" href="Schulportrait.aspx?IDSchulzweig= 21272" style="font-weight:bold;">04P11</a>&nbsp;<span id="DataListSchulen_lblSchulName_0" style="font-weight:bold;">Evangelisches Gymnasium zum Grauen Kloster</span><br />
+                        <span id="DataListSchulen_lblSchulart_0">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_0">Schmargendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_0">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_1" href="Schulportrait.aspx?IDSchulzweig= 21281" style="font-weight:bold;">06Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_1" style="font-weight:bold;">Schadow-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_1">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_1">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_1">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_2" href="Schulportrait.aspx?IDSchulzweig= 21282" style="font-weight:bold;">06Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_2" style="font-weight:bold;">Droste-Hülshoff-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_2">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_2">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_2">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_3" href="Schulportrait.aspx?IDSchulzweig= 21283" style="font-weight:bold;">06Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_3" style="font-weight:bold;">Arndt-Gymnasium Dahlem</span><br />
+                        <span id="DataListSchulen_lblSchulart_3">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_3">Dahlem</span>&nbsp;(<span id="DataListSchulen_lblBezirk_3">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_4" href="Schulportrait.aspx?IDSchulzweig= 21299" style="font-weight:bold;">06Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_4" style="font-weight:bold;">Dreilinden-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_4">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_4">Nikolassee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_4">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_5" href="Schulportrait.aspx?IDSchulzweig= 21300" style="font-weight:bold;">06Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_5" style="font-weight:bold;">Werner-von-Siemens-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_5">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_5">Nikolassee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_5">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_6" href="Schulportrait.aspx?IDSchulzweig= 21309" style="font-weight:bold;">02Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_6" style="font-weight:bold;">Heinrich-Hertz-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_6">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_6">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_6">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_7" href="Schulportrait.aspx?IDSchulzweig= 21318" style="font-weight:bold;">06P06</a>&nbsp;<span id="DataListSchulen_lblSchulName_7" style="font-weight:bold;">Königin-Luise-Stiftung</span><br />
+                        <span id="DataListSchulen_lblSchulart_7">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_7">Dahlem</span>&nbsp;(<span id="DataListSchulen_lblBezirk_7">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_8" href="Schulportrait.aspx?IDSchulzweig= 21322" style="font-weight:bold;">01P22</a>&nbsp;<span id="DataListSchulen_lblSchulName_8" style="font-weight:bold;">Berlin Cosmopolitan School</span><br />
+                        <span id="DataListSchulen_lblSchulart_8">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_8">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_8">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_9" href="Schulportrait.aspx?IDSchulzweig= 21334" style="font-weight:bold;">12P07</a>&nbsp;<span id="DataListSchulen_lblSchulName_9" style="font-weight:bold;">Private Goethe-Schulen</span><br />
+                        <span id="DataListSchulen_lblSchulart_9">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_9">Wittenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_9">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_10" href="Schulportrait.aspx?IDSchulzweig= 21338" style="font-weight:bold;">07Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_10" style="font-weight:bold;">Robert-Blum-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_10">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_10">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_10">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_11" href="Schulportrait.aspx?IDSchulzweig= 21339" style="font-weight:bold;">07Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_11" style="font-weight:bold;">Rückert-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_11">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_11">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_11">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_12" href="Schulportrait.aspx?IDSchulzweig= 21340" style="font-weight:bold;">07Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_12" style="font-weight:bold;">Rheingau-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_12">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_12">Friedenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_12">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_13" href="Schulportrait.aspx?IDSchulzweig= 21363" style="font-weight:bold;">06Y13</a>&nbsp;<span id="DataListSchulen_lblSchulName_13" style="font-weight:bold;">Gymnasium Steglitz</span><br />
+                        <span id="DataListSchulen_lblSchulart_13">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_13">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_13">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_14" href="Schulportrait.aspx?IDSchulzweig= 21386" style="font-weight:bold;">07Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_14" style="font-weight:bold;">Luise-Henriette-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_14">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_14">Mariendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_14">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_15" href="Schulportrait.aspx?IDSchulzweig= 21425" style="font-weight:bold;">09P09</a>&nbsp;<span id="DataListSchulen_lblSchulName_15" style="font-weight:bold;">BEST-Sabel-Oberschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_15">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_15">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_15">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_16" href="Schulportrait.aspx?IDSchulzweig= 21457" style="font-weight:bold;">08P04</a>&nbsp;<span id="DataListSchulen_lblSchulName_16" style="font-weight:bold;">Katholische Schule Sankt Marien</span><br />
+                        <span id="DataListSchulen_lblSchulart_16">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_16">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_16">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_17" href="Schulportrait.aspx?IDSchulzweig= 21469" style="font-weight:bold;">09Y10</a>&nbsp;<span id="DataListSchulen_lblSchulName_17" style="font-weight:bold;">Gebrüder-Montgolfier-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_17">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_17">Johannisthal</span>&nbsp;(<span id="DataListSchulen_lblBezirk_17">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_18" href="Schulportrait.aspx?IDSchulzweig= 21471" style="font-weight:bold;">09Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_18" style="font-weight:bold;">Archenhold-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_18">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_18">Niederschöneweide</span>&nbsp;(<span id="DataListSchulen_lblBezirk_18">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_19" href="Schulportrait.aspx?IDSchulzweig= 21472" style="font-weight:bold;">09Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_19" style="font-weight:bold;">Anne-Frank-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_19">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_19">Altglienicke</span>&nbsp;(<span id="DataListSchulen_lblBezirk_19">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_20" href="Schulportrait.aspx?IDSchulzweig= 21486" style="font-weight:bold;">04Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_20" style="font-weight:bold;">Hildegard-Wegscheider-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_20">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_20">Grunewald</span>&nbsp;(<span id="DataListSchulen_lblBezirk_20">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_21" href="Schulportrait.aspx?IDSchulzweig= 21487" style="font-weight:bold;">04Y09</a>&nbsp;<span id="DataListSchulen_lblSchulName_21" style="font-weight:bold;">Walther-Rathenau-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_21">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_21">Grunewald</span>&nbsp;(<span id="DataListSchulen_lblBezirk_21">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_22" href="Schulportrait.aspx?IDSchulzweig= 21488" style="font-weight:bold;">04Y10</a>&nbsp;<span id="DataListSchulen_lblSchulName_22" style="font-weight:bold;">Marie-Curie-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_22">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_22">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_22">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_23" href="Schulportrait.aspx?IDSchulzweig= 21489" style="font-weight:bold;">04Y11</a>&nbsp;<span id="DataListSchulen_lblSchulName_23" style="font-weight:bold;">Goethe-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_23">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_23">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_23">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_24" href="Schulportrait.aspx?IDSchulzweig= 21518" style="font-weight:bold;">07Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_24" style="font-weight:bold;">Ulrich-von-Hutten-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_24">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_24">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_24">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_25" href="Schulportrait.aspx?IDSchulzweig= 21520" style="font-weight:bold;">06Y07</a>&nbsp;<span id="DataListSchulen_lblSchulName_25" style="font-weight:bold;">Paulsen-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_25">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_25">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_25">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_26" href="Schulportrait.aspx?IDSchulzweig= 21529" style="font-weight:bold;">06Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_26" style="font-weight:bold;">Beethoven-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_26">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_26">Lankwitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_26">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_27" href="Schulportrait.aspx?IDSchulzweig= 21531" style="font-weight:bold;">06Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_27" style="font-weight:bold;">Hermann-Ehlers-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_27">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_27">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_27">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_28" href="Schulportrait.aspx?IDSchulzweig= 21569" style="font-weight:bold;">07Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_28" style="font-weight:bold;">Paul-Natorp-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_28">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_28">Friedenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_28">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_29" href="Schulportrait.aspx?IDSchulzweig= 21578" style="font-weight:bold;">04Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_29" style="font-weight:bold;">Herder-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_29">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_29">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_29">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_30" href="Schulportrait.aspx?IDSchulzweig= 21579" style="font-weight:bold;">02Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_30" style="font-weight:bold;">Georg-Friedrich-Händel-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_30">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_30">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_30">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_31" href="Schulportrait.aspx?IDSchulzweig= 21580" style="font-weight:bold;">02Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_31" style="font-weight:bold;">Dathe-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_31">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_31">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_31">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_32" href="Schulportrait.aspx?IDSchulzweig= 21587" style="font-weight:bold;">08Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_32" style="font-weight:bold;">Hannah-Arendt-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_32">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_32">Rudow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_32">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_33" href="Schulportrait.aspx?IDSchulzweig= 21610" style="font-weight:bold;">04Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_33" style="font-weight:bold;">Heinz-Berggruen-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_33">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_33">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_33">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_34" href="Schulportrait.aspx?IDSchulzweig= 21614" style="font-weight:bold;">02Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_34" style="font-weight:bold;">Leibniz-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_34">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_34">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_34">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_35" href="Schulportrait.aspx?IDSchulzweig= 21647" style="font-weight:bold;">11Y10</a>&nbsp;<span id="DataListSchulen_lblSchulName_35" style="font-weight:bold;">Manfred-von-Ardenne-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_35">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_35">Alt-Hohenschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_35">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_36" href="Schulportrait.aspx?IDSchulzweig= 21654" style="font-weight:bold;">04P23</a>&nbsp;<span id="DataListSchulen_lblSchulName_36" style="font-weight:bold;">Jüdische Traditionsschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_36">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_36">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_36">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_37" href="Schulportrait.aspx?IDSchulzweig= 21667" style="font-weight:bold;">04P24</a>&nbsp;<span id="DataListSchulen_lblSchulName_37" style="font-weight:bold;">Moser-Schule - Schweizer Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_37">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_37">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_37">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_38" href="Schulportrait.aspx?IDSchulzweig= 21670" style="font-weight:bold;">01Y11</a>&nbsp;<span id="DataListSchulen_lblSchulName_38" style="font-weight:bold;">Max-Planck-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_38">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_38">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_38">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_39" href="Schulportrait.aspx?IDSchulzweig= 21671" style="font-weight:bold;">01Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_39" style="font-weight:bold;">John-Lennon-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_39">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_39">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_39">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_40" href="Schulportrait.aspx?IDSchulzweig= 21679" style="font-weight:bold;">01Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_40" style="font-weight:bold;">Musikgymnasium Carl Philipp Emanuel Bach</span><br />
+                        <span id="DataListSchulen_lblSchulart_40">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_40">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_40">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_41" href="Schulportrait.aspx?IDSchulzweig= 21694" style="font-weight:bold;">01P03</a>&nbsp;<span id="DataListSchulen_lblSchulName_41" style="font-weight:bold;">Jüdisches Gymnasium Moses Mendelssohn</span><br />
+                        <span id="DataListSchulen_lblSchulart_41">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_41">Mitte</span>&nbsp;(<span id="DataListSchulen_lblBezirk_41">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_42" href="Schulportrait.aspx?IDSchulzweig= 21736" style="font-weight:bold;">01Y07</a>&nbsp;<span id="DataListSchulen_lblSchulName_42" style="font-weight:bold;">Französisches Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_42">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_42">Tiergarten</span>&nbsp;(<span id="DataListSchulen_lblBezirk_42">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_43" href="Schulportrait.aspx?IDSchulzweig= 21785" style="font-weight:bold;">01P18</a>&nbsp;<span id="DataListSchulen_lblSchulName_43" style="font-weight:bold;">Bilinguale Schule Phorms Berlin Mitte</span><br />
+                        <span id="DataListSchulen_lblSchulart_43">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_43">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_43">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_44" href="Schulportrait.aspx?IDSchulzweig= 21799" style="font-weight:bold;">01Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_44" style="font-weight:bold;">Lessing-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_44">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_44">Wedding</span>&nbsp;(<span id="DataListSchulen_lblBezirk_44">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_45" href="Schulportrait.aspx?IDSchulzweig= 21831" style="font-weight:bold;">05P13</a>&nbsp;<span id="DataListSchulen_lblSchulName_45" style="font-weight:bold;">Wilhelmstadt Schulen</span><br />
+                        <span id="DataListSchulen_lblSchulart_45">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_45">Wilhelmstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_45">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_46" href="Schulportrait.aspx?IDSchulzweig= 21861" style="font-weight:bold;">08Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_46" style="font-weight:bold;">Albert-Einstein-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_46">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_46">Britz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_46">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_47" href="Schulportrait.aspx?IDSchulzweig= 21876" style="font-weight:bold;">02Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_47" style="font-weight:bold;">Andreas-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_47">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_47">Friedrichshain</span>&nbsp;(<span id="DataListSchulen_lblBezirk_47">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_48" href="Schulportrait.aspx?IDSchulzweig= 21878" style="font-weight:bold;">03Y13</a>&nbsp;<span id="DataListSchulen_lblSchulName_48" style="font-weight:bold;">Felix-Mendelssohn-Bartholdy-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_48">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_48">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_48">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_49" href="Schulportrait.aspx?IDSchulzweig= 21883" style="font-weight:bold;">03Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_49" style="font-weight:bold;">Käthe-Kollwitz-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_49">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_49">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_49">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_50" href="Schulportrait.aspx?IDSchulzweig= 21884" style="font-weight:bold;">03Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_50" style="font-weight:bold;">Heinrich-Schliemann-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_50">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_50">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_50">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_51" href="Schulportrait.aspx?IDSchulzweig= 21907" style="font-weight:bold;">04Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_51" style="font-weight:bold;">Gottfried-Keller-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_51">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_51">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_51">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_52" href="Schulportrait.aspx?IDSchulzweig= 21915" style="font-weight:bold;">01Y09</a>&nbsp;<span id="DataListSchulen_lblSchulName_52" style="font-weight:bold;">Diesterweg-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_52">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_52">Gesundbrunnen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_52">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_53" href="Schulportrait.aspx?IDSchulzweig= 21934" style="font-weight:bold;">10Y11</a>&nbsp;<span id="DataListSchulen_lblSchulName_53" style="font-weight:bold;">Melanchthon-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_53">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_53">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_53">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_54" href="Schulportrait.aspx?IDSchulzweig= 21945" style="font-weight:bold;">09Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_54" style="font-weight:bold;">Alexander-von-Humboldt-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_54">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_54">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_54">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_55" href="Schulportrait.aspx?IDSchulzweig= 21946" style="font-weight:bold;">09Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_55" style="font-weight:bold;">Gerhart-Hauptmann-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_55">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_55">Friedrichshagen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_55">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_56" href="Schulportrait.aspx?IDSchulzweig= 21959" style="font-weight:bold;">02Y07</a>&nbsp;<span id="DataListSchulen_lblSchulName_56" style="font-weight:bold;">Robert-Koch-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_56">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_56">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_56">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_57" href="Schulportrait.aspx?IDSchulzweig= 21989" style="font-weight:bold;">03Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_57" style="font-weight:bold;">Carl-von-Ossietzky-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_57">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_57">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_57">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_58" href="Schulportrait.aspx?IDSchulzweig= 21993" style="font-weight:bold;">01P06</a>&nbsp;<span id="DataListSchulen_lblSchulName_58" style="font-weight:bold;">Canisius-Kolleg</span><br />
+                        <span id="DataListSchulen_lblSchulart_58">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_58">Tiergarten</span>&nbsp;(<span id="DataListSchulen_lblBezirk_58">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_59" href="Schulportrait.aspx?IDSchulzweig= 22010" style="font-weight:bold;">11Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_59" style="font-weight:bold;">Johann-Gottfried-Herder-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_59">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_59">Fennpfuhl</span>&nbsp;(<span id="DataListSchulen_lblBezirk_59">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_60" href="Schulportrait.aspx?IDSchulzweig= 22011" style="font-weight:bold;">11Y11</a>&nbsp;<span id="DataListSchulen_lblSchulName_60" style="font-weight:bold;">Immanuel-Kant-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_60">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_60">Rummelsburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_60">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_61" href="Schulportrait.aspx?IDSchulzweig= 22016" style="font-weight:bold;">11Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_61" style="font-weight:bold;">Hans-und-Hilde-Coppi-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_61">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_61">Karlshorst</span>&nbsp;(<span id="DataListSchulen_lblBezirk_61">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_62" href="Schulportrait.aspx?IDSchulzweig= 22024" style="font-weight:bold;">07P11</a>&nbsp;<span id="DataListSchulen_lblSchulName_62" style="font-weight:bold;">Privates Europa-Gymnasium Berlin</span><br />
+                        <span id="DataListSchulen_lblSchulart_62">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_62">Schöneberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_62">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_63" href="Schulportrait.aspx?IDSchulzweig= 22025" style="font-weight:bold;">02Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_63" style="font-weight:bold;">Hermann-Hesse-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_63">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_63">Kreuzberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_63">Friedrichshain-Kreuzberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_64" href="Schulportrait.aspx?IDSchulzweig= 22026" style="font-weight:bold;">03Y15</a>&nbsp;<span id="DataListSchulen_lblSchulName_64" style="font-weight:bold;">Max-Delbrück-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_64">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_64">Niederschönhausen</span>&nbsp;(<span id="DataListSchulen_lblBezirk_64">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_65" href="Schulportrait.aspx?IDSchulzweig= 22027" style="font-weight:bold;">03Y10</a>&nbsp;<span id="DataListSchulen_lblSchulName_65" style="font-weight:bold;">Rosa-Luxemburg-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_65">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_65">Pankow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_65">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_66" href="Schulportrait.aspx?IDSchulzweig= 22033" style="font-weight:bold;">03P10</a>&nbsp;<span id="DataListSchulen_lblSchulName_66" style="font-weight:bold;">Katholische Theresienschule (Gymnasium)</span><br />
+                        <span id="DataListSchulen_lblSchulart_66">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_66">Weißensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_66">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_67" href="Schulportrait.aspx?IDSchulzweig= 22062" style="font-weight:bold;">05Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_67" style="font-weight:bold;">Hans-Carossa-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_67">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_67">Kladow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_67">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_68" href="Schulportrait.aspx?IDSchulzweig= 22064" style="font-weight:bold;">12P04</a>&nbsp;<span id="DataListSchulen_lblSchulName_68" style="font-weight:bold;">Katholische Schule Salvator</span><br />
+                        <span id="DataListSchulen_lblSchulart_68">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_68">Waidmannslust</span>&nbsp;(<span id="DataListSchulen_lblBezirk_68">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_69" href="Schulportrait.aspx?IDSchulzweig= 22089" style="font-weight:bold;">09P07</a>&nbsp;<span id="DataListSchulen_lblSchulName_69" style="font-weight:bold;">Evangelische Schule Köpenick (Gymnasium)</span><br />
+                        <span id="DataListSchulen_lblSchulart_69">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_69">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_69">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_70" href="Schulportrait.aspx?IDSchulzweig= 22120" style="font-weight:bold;">06P18</a>&nbsp;<span id="DataListSchulen_lblSchulName_70" style="font-weight:bold;">Bilinguale Schule Phorms Berlin Süd</span><br />
+                        <span id="DataListSchulen_lblSchulart_70">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_70">Lichterfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_70">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_71" href="Schulportrait.aspx?IDSchulzweig= 22132" style="font-weight:bold;">04P04</a>&nbsp;<span id="DataListSchulen_lblSchulName_71" style="font-weight:bold;">Katholische Schule Liebfrauen (Gymnasium)</span><br />
+                        <span id="DataListSchulen_lblSchulart_71">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_71">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_71">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_72" href="Schulportrait.aspx?IDSchulzweig= 22136" style="font-weight:bold;">04Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_72" style="font-weight:bold;">Schiller-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_72">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_72">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_72">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_73" href="Schulportrait.aspx?IDSchulzweig= 22137" style="font-weight:bold;">04Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_73" style="font-weight:bold;">Wald-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_73">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_73">Westend</span>&nbsp;(<span id="DataListSchulen_lblBezirk_73">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_74" href="Schulportrait.aspx?IDSchulzweig= 22138" style="font-weight:bold;">04Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_74" style="font-weight:bold;">Sophie-Charlotte-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_74">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_74">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_74">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_75" href="Schulportrait.aspx?IDSchulzweig= 22141" style="font-weight:bold;">11Y09</a>&nbsp;<span id="DataListSchulen_lblSchulName_75" style="font-weight:bold;">Barnim-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_75">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_75">Falkenberg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_75">Lichtenberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_76" href="Schulportrait.aspx?IDSchulzweig= 22155" style="font-weight:bold;">12Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_76" style="font-weight:bold;">Friedrich-Engels-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_76">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_76">Reinickendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_76">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_77" href="Schulportrait.aspx?IDSchulzweig= 22156" style="font-weight:bold;">12Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_77" style="font-weight:bold;">Europäisches Gymnasium Bertha-von-Suttner</span><br />
+                        <span id="DataListSchulen_lblSchulart_77">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_77">Reinickendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_77">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_78" href="Schulportrait.aspx?IDSchulzweig= 22158" style="font-weight:bold;">12Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_78" style="font-weight:bold;">Gabriele-von-Bülow-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_78">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_78">Tegel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_78">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_79" href="Schulportrait.aspx?IDSchulzweig= 22159" style="font-weight:bold;">12Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_79" style="font-weight:bold;">Georg-Herwegh-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_79">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_79">Hermsdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_79">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_80" href="Schulportrait.aspx?IDSchulzweig= 22163" style="font-weight:bold;">03Y14</a>&nbsp;<span id="DataListSchulen_lblSchulName_80" style="font-weight:bold;">Primo-Levi-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_80">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_80">Weißensee</span>&nbsp;(<span id="DataListSchulen_lblBezirk_80">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_81" href="Schulportrait.aspx?IDSchulzweig= 22164" style="font-weight:bold;">09Y11</a>&nbsp;<span id="DataListSchulen_lblSchulName_81" style="font-weight:bold;">Emmy-Noether-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_81">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_81">Köpenick</span>&nbsp;(<span id="DataListSchulen_lblBezirk_81">Treptow-Köpenick</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_82" href="Schulportrait.aspx?IDSchulzweig= 22179" style="font-weight:bold;">10Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_82" style="font-weight:bold;">Tagore-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_82">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_82">Marzahn</span>&nbsp;(<span id="DataListSchulen_lblBezirk_82">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_83" href="Schulportrait.aspx?IDSchulzweig= 22180" style="font-weight:bold;">10Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_83" style="font-weight:bold;">Otto-Nagel-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_83">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_83">Biesdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_83">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_84" href="Schulportrait.aspx?IDSchulzweig= 22220" style="font-weight:bold;">07Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_84" style="font-weight:bold;">Askanisches Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_84">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_84">Tempelhof</span>&nbsp;(<span id="DataListSchulen_lblBezirk_84">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_85" href="Schulportrait.aspx?IDSchulzweig= 22221" style="font-weight:bold;">07Y07</a>&nbsp;<span id="DataListSchulen_lblSchulName_85" style="font-weight:bold;">Eckener-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_85">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_85">Mariendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_85">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_86" href="Schulportrait.aspx?IDSchulzweig= 22222" style="font-weight:bold;">07Y09</a>&nbsp;<span id="DataListSchulen_lblSchulName_86" style="font-weight:bold;">Georg-Büchner-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_86">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_86">Lichtenrade</span>&nbsp;(<span id="DataListSchulen_lblBezirk_86">Tempelhof-Schöneberg</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_87" href="Schulportrait.aspx?IDSchulzweig= 22227" style="font-weight:bold;">10Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_87" style="font-weight:bold;">Sartre-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_87">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_87">Hellersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_87">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_88" href="Schulportrait.aspx?IDSchulzweig= 22243" style="font-weight:bold;">12P03</a>&nbsp;<span id="DataListSchulen_lblSchulName_88" style="font-weight:bold;">Evangelische Schule Frohnau</span><br />
+                        <span id="DataListSchulen_lblSchulart_88">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_88">Frohnau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_88">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_89" href="Schulportrait.aspx?IDSchulzweig= 22245" style="font-weight:bold;">12Y06</a>&nbsp;<span id="DataListSchulen_lblSchulName_89" style="font-weight:bold;">Schulfarm Insel Scharfenberg</span><br />
+                        <span id="DataListSchulen_lblSchulart_89">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_89">Tegel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_89">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_90" href="Schulportrait.aspx?IDSchulzweig= 22246" style="font-weight:bold;">12Y08</a>&nbsp;<span id="DataListSchulen_lblSchulName_90" style="font-weight:bold;">Thomas-Mann-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_90">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_90">Märkisches Viertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_90">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_91" href="Schulportrait.aspx?IDSchulzweig= 22252" style="font-weight:bold;">12Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_91" style="font-weight:bold;">Humboldt-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_91">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_91">Tegel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_91">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_92" href="Schulportrait.aspx?IDSchulzweig= 22253" style="font-weight:bold;">12Y07</a>&nbsp;<span id="DataListSchulen_lblSchulName_92" style="font-weight:bold;">Romain-Rolland-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_92">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_92">Wittenau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_92">Reinickendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_93" href="Schulportrait.aspx?IDSchulzweig= 22314" style="font-weight:bold;">06Y09</a>&nbsp;<span id="DataListSchulen_lblSchulName_93" style="font-weight:bold;">Fichtenberg-Oberschule</span><br />
+                        <span id="DataListSchulen_lblSchulart_93">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_93">Steglitz</span>&nbsp;(<span id="DataListSchulen_lblBezirk_93">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_94" href="Schulportrait.aspx?IDSchulzweig= 22315" style="font-weight:bold;">06Y10</a>&nbsp;<span id="DataListSchulen_lblSchulName_94" style="font-weight:bold;">Lilienthal-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_94">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_94">Lichterfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_94">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_95" href="Schulportrait.aspx?IDSchulzweig= 22316" style="font-weight:bold;">06Y11</a>&nbsp;<span id="DataListSchulen_lblSchulName_95" style="font-weight:bold;">Goethe-Gymnasium Lichterfelde</span><br />
+                        <span id="DataListSchulen_lblSchulart_95">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_95">Lichterfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_95">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_96" href="Schulportrait.aspx?IDSchulzweig= 22317" style="font-weight:bold;">06Y12</a>&nbsp;<span id="DataListSchulen_lblSchulName_96" style="font-weight:bold;">Willi-Graf-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_96">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_96">Lichterfelde</span>&nbsp;(<span id="DataListSchulen_lblBezirk_96">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_97" href="Schulportrait.aspx?IDSchulzweig= 22373" style="font-weight:bold;">10Y03</a>&nbsp;<span id="DataListSchulen_lblSchulName_97" style="font-weight:bold;">Wilhelm-von-Siemens-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_97">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_97">Biesdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_97">Marzahn-Hellersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_98" href="Schulportrait.aspx?IDSchulzweig= 22420" style="font-weight:bold;">08Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_98" style="font-weight:bold;">Ernst-Abbe-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_98">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_98">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_98">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_99" href="Schulportrait.aspx?IDSchulzweig= 22421" style="font-weight:bold;">08Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_99" style="font-weight:bold;">Leonardo-da-Vinci-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_99">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_99">Buckow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_99">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_100" href="Schulportrait.aspx?IDSchulzweig= 22433" style="font-weight:bold;">03Y16</a>&nbsp;<span id="DataListSchulen_lblSchulName_100" style="font-weight:bold;">Robert-Havemann-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_100">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_100">Karow</span>&nbsp;(<span id="DataListSchulen_lblBezirk_100">Pankow</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_101" href="Schulportrait.aspx?IDSchulzweig= 22435" style="font-weight:bold;">08Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_101" style="font-weight:bold;">Albrecht-Dürer-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_101">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_101">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_101">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_102" href="Schulportrait.aspx?IDSchulzweig= 22436" style="font-weight:bold;">08Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_102" style="font-weight:bold;">Albert-Schweitzer-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_102">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_102">Neukölln</span>&nbsp;(<span id="DataListSchulen_lblBezirk_102">Neukölln</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_103" href="Schulportrait.aspx?IDSchulzweig= 22444" style="font-weight:bold;">05Y01</a>&nbsp;<span id="DataListSchulen_lblSchulName_103" style="font-weight:bold;">Freiherr-vom-Stein-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_103">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_103">Spandau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_103">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_104" href="Schulportrait.aspx?IDSchulzweig= 22445" style="font-weight:bold;">05Y02</a>&nbsp;<span id="DataListSchulen_lblSchulName_104" style="font-weight:bold;">Kant-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_104">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_104">Spandau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_104">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_105" href="Schulportrait.aspx?IDSchulzweig= 22446" style="font-weight:bold;">05Y04</a>&nbsp;<span id="DataListSchulen_lblSchulName_105" style="font-weight:bold;">Carl-Friedrich-von-Siemens-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_105">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_105">Siemensstadt</span>&nbsp;(<span id="DataListSchulen_lblBezirk_105">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_106" href="Schulportrait.aspx?IDSchulzweig= 22447" style="font-weight:bold;">05Y05</a>&nbsp;<span id="DataListSchulen_lblSchulName_106" style="font-weight:bold;">Lily-Braun-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_106">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_106">Spandau</span>&nbsp;(<span id="DataListSchulen_lblBezirk_106">Spandau</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_107" href="Schulportrait.aspx?IDSchulzweig= 22463" style="font-weight:bold;">04Y07</a>&nbsp;<span id="DataListSchulen_lblSchulName_107" style="font-weight:bold;">Friedrich-Ebert-Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_107">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_107">Wilmersdorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_107">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_108" href="Schulportrait.aspx?IDSchulzweig= 22676" style="font-weight:bold;">04P35</a>&nbsp;<span id="DataListSchulen_lblSchulName_108" style="font-weight:bold;">Mentora Gymnasium</span><br />
+                        <span id="DataListSchulen_lblSchulart_108">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_108">Charlottenburg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_108">Charlottenburg-Wilmersdorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_109" href="Schulportrait.aspx?IDSchulzweig= 22473" style="font-weight:bold;">06P20</a>&nbsp;<span id="DataListSchulen_lblSchulName_109" style="font-weight:bold;">Freie Schule Anne-Sophie Berlin</span><br />
+                        <span id="DataListSchulen_lblSchulart_109">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_109">Zehlendorf</span>&nbsp;(<span id="DataListSchulen_lblBezirk_109">Steglitz-Zehlendorf</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_110" href="Schulportrait.aspx?IDSchulzweig= 22490" style="font-weight:bold;">01Y12</a>&nbsp;<span id="DataListSchulen_lblSchulName_110" style="font-weight:bold;">Gymnasium Tiergarten</span><br />
+                        <span id="DataListSchulen_lblSchulart_110">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_110">Hansaviertel</span>&nbsp;(<span id="DataListSchulen_lblBezirk_110">Mitte</span>)<br />
+                </td>
+	</tr><tr>
+		<td>
+                        <a id="DataListSchulen_HLinkSchulNr_111" href="Schulportrait.aspx?IDSchulzweig= 22596" style="font-weight:bold;">03Y17</a>&nbsp;<span id="DataListSchulen_lblSchulName_111" style="font-weight:bold;">Gymnasium am Europasportpark</span><br />
+                        <span id="DataListSchulen_lblSchulart_111">Gymnasien</span><br />
+                        <span id="DataListSchulen_lblOrtsteil_111">Prenzlauer Berg</span>&nbsp;(<span id="DataListSchulen_lblBezirk_111">Pankow</span>)<br />
+                </td>
+	</tr>
+</table>
+        </p>
+    <a id="HyperLinkNeueAbfrage" href="Index.aspx">Neue Abfrage</a>
+    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <a href="javascript:history.back()">Zurück</a>
+    </div>
+    </form>
+
+        
+            
+
+        </div><!-- /html5-section -->
+
+            </div>
+    
+    <!-- INCLUDE BEGIN: Infocolumn -->
+
+<div class="span3 column-right html5-aside" role="complementary">
+    <h2 class="aural">Es folgen die Inhalte der rechten Seitenspalte</h2>
+    <div class="html5-section content-marginal">
+
+
+            
+<!-- FLEX BEGIN: Contact -->
+<div class="html5-section modul-contact block boxmerge">
+    <div class="html5-header header">
+        <h3 class="title">Senatsverwaltung für Bildung, Jugend und Familie</h3>    </div>
+    <div class="html5-section body">
+                <div class="loc"><span class="icon icon-pin_filled_32 pull-left"></span><a href="https://www.Berlin.de/stadtplan/?ADR_ZIP=10178&#38;ADR_CITY=Berlin&#38;ADR_STREET=Bernhard-Wei%C3%9F-Str.&#38;ADR_HOUSE=6" target="_blank">Bernhard-Weiß-Str. 6<br />10178 Berlin</a></div>                    <dl class="telefon">
+                                                    <dt>Tel.:</dt>
+                    <dd>(030) 90227 - 5050</dd>
+                                            </dl>
+                <ul class="list contact-info">
+                <li class="">
+        <a href="mailto:post@senbjf.berlin.de" >E-Mail</a>          </li>
+                        </ul>
+                            </div>
+</div>
+<!-- FLEX END: Contact -->
+
+<!--FLEX BEGIN: Text/Bild-->
+<div class="html5-section block modul-text_bild">    <div class="html5-section body">
+                <div class="text textalignleft">
+            <div class="textile">
+  <ul>
+    <li>
+      <a href=
+      "https://www.berlin.de/sen/bjf/service/ihre-ansprechpartner/index.php">
+      Ihre Ansprechpartner</a>
+    </li>
+  </ul>
+  <p>
+    <a href=
+    "/sen/bjf/ueber-uns/audit-berufundfamilie/artikel.501812.php"><img alt="Beruf und Familie"
+    class="misc-icon" src=
+    "https://www.berlin.de/i9f/v4/css/images/misc/audit.svg" title=
+    "Beruf und Familie" /></a>
+  </p>
+</div>        </div>
+               </div>
+</div>
+<!--FLEX END: Text/Bild-->
+
+    </div>
+</div>
+
+<!-- INCLUDE END: Infocolumn -->
+</div>
+
+<!--    container-wrapper + container + row + span12 -->
+
+                                                <div class="row">
+                            <div class="span12">
+                                <div class="html5-footer content-footer" role="contentinfo">
+                                                                        <!-- NAVIGATION BEGIN: footer -->
+
+    <div class="html5-nav">
+        <ul class="nav">
+            <li><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" class="ic-fa-impressum">Impressum</a></li>
+            <li><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" class="ic-fa-info">Geschlechtergerechte Sprache</a></li>
+            <li><a href="https://www.berlin.de/sen/bjf/service/ihre-ansprechpartner/index.php" class="ic-fa-mail">Ansprechpartner</a></li>
+            <li class="right"><a class="ic-fa-print" href="javascript:window.print();">Druckversion</a></li>
+            <li class="right"><a class="ic-fa-totop" href="#top">zum Seitenanfang</a></li>
+        </ul>
+    </div>
+
+<!-- NAVIGATION END: footer -->
+                                                                        <div class="section_splitter hidden-desktop hidden-tablet"></div>
+                                    <div class="html5-nav meta-navi hidden-desktop hidden-tablet">
+                                        <ul class="nav">
+                                            <li class="odd pos0"><a href="https://www.berlin.de/sen/bjf/a-bis-z/index.php" >A bis Z</a></li><li class="even pos1"><a href="https://www.berlin.de/sen/bjf/service/impressum/index.php" >Impressum</a></li><li class="odd pos2"><a href="https://www.berlin.de/sen/bjf/service/newsletter/index.php" >Newsletter</a></li><li class="even pos3"><a href="https://www.berlin.de/sen/bjf/service/presse/index.php" >Presse</a></li><li class="odd pos4"><a href="https://www.facebook.com/senbjw" class="social_media icon_facebook extern extern" target="_blank" title="auf Facebook folgen (Öffnet in neuem Fenster)">https://www.facebook.com/senbjw</a></li>                                        </ul>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                        <div class="container-wrapper container-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        
+<!-- template start: portal-footer -->
+<div class="html5-footer portal-footer">
+    <div>
+                <p>
+            Berlin.de ist ein Angebot des Landes Berlin und der BerlinOnline Stadtportal GmbH & Co. KG.            Weitere Informationen hierzu finden Sie im <a href="https://www.berlin.de/wir-ueber-uns-be/impressum/">Impressum</a>.        </p>
+    </div>
+    <div class="html5-nav">
+        <ul class="nav">
+            <li>Weitere Metropol-Webseiten:</li>
+            <li><a href="https://www.hamburg.de/">Hamburg</a></li>
+            <li><a href="https://www.muenchen.de/">München</a></li>
+            <li><a href="https://www.koeln.de/">Köln</a></li>
+        </ul>
+    </div><!-- /html5-nav -->
+</div><!-- /html5-footer -->
+<!-- /template end: portal-footer -->
+                    </div>
+                </div>
+            </div>
+        </div>
+                                <!-- MOBILE NAVIGATION START -->
+        <div class="navigation-mobile hidden-desktop hidden-tablet" role="navigation">
+            <p class="navSkip">Navigiere direkt zu:</p>
+            <ul class="navSkip">
+                <li><a href="#mobile-nav-toggle" tabindex="1" id="hiddenNavToggler">Navigation <!-- append text per css here --></a></li>
+            </ul>
+            <div class="sticky-header bde-gradient">
+                <div class="red-line"></div>
+                                <div class="portal-logo">
+                    <a title="Link führt zur Startseite von Berlin.de" href="https://www.berlin.de" >
+                        <img title="Link führt zur Startseite von Berlin.de" alt="Bild zeigt: Berlin.de Logo" src="//www.berlin.de/i9f/images/berlin_de.png" />
+                    </a>
+                </div>
+                                <button class="btn nav-toggle" id="mobile-nav-toggle" title="Mobile Navigation" aria-labelledby="hiddenNavToggler">
+                    <span class="aural">Öffnet und schließt die mobile Navigation</span>
+                    <span class="icon-menu"> 
+                        <span class="line line-1"></span>
+                        <span class="line line-2"></span>
+                        <span class="line line-3"></span>
+                    </span>
+                </button>
+            </div>
+            <div class="wrapper">
+                <div class="sticky-container-head">
+                    <div class="offcanvas-search">
+                    <form class="institutionssuche institutionssuche-mobile" method="get" action="https://www.berlin.de/sen/bildung/suche.php">
+    <div class="control-group searchform mobile" role="search">
+        <label class="aural" id="aural_institutionssuche_mobile">
+            Suche auf der Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie':        </label>
+        <input type="search" placeholder="Suchbegriff"
+            name="q" aria-labelledby="aural_institutionssuche_mobile"
+            maxlength="255"
+            title="Hier können Sie einen Text eingeben, um die Internetseite 'Senatsverwaltung für Bildung, Jugend und Familie' zu durchsuchen"
+        />
+        <button class="btn global-search-submit" type="submit">
+            <span class="hidden-phone">Suchen</span>
+        </button>
+    </div>
+</form>
+                    </div>
+                </div>
+                <div class="nav-container">
+                    <div class="nav-container-body">
+                        <ul class="nav-menu menu">
+                            <li class="menu-item has-dropdown ">
+                                <a href="#!" class="menu-link">
+                                    Senatsverwaltung für Bildung, Jugend und Familie                                </a>
+                                <ul class="nav-dropdown menu ">
+                                    <li class="menu-item">
+                                        <a href="https://www.berlin.de/sen/bjf/" class="menu-link" title="Link zu: Startseite von Senatsverwaltung für Bildung, Jugend und Familie">Senatsverwaltung für Bildung, Jugend und Familie: Startseite</a>                                        <ul class="nav"><li class=" menu-item active">
+            <a href="https://www.berlin.de/sen/bildung/schule/" class=" menu-link">Schule</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/unterricht/" class=" menu-link">Unterricht</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/schule-und-beruf/" class=" menu-link">Schule und Beruf</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/fachkraefte/" class=" menu-link">Fachkräfte</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/unterstuetzung/" class=" menu-link">Unterstützung</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/lebenslanges-lernen/" class=" menu-link">Lebenslanges Lernen</a>                    </li>
+        <li class=" menu-item">
+            <a href="https://www.berlin.de/sen/bildung/politik/bildungspolitik/index.php" class=" menu-link">Politik</a>                    </li></ul>                                    </li>
+                                </ul>
+<!-- HIER 1 -->
+                                
+		<ul class="sub crumbs1">
+			<li class="menu-item has-no-dropdown">
+<a href="https://www.berlin.de/sen/bildung/schule/" class="menu-link">Schule</a>
+			<ul class="sub crumbs2">
+				<li class="menu-item has-no-dropdown">
+<a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/" class="menu-link">Berliner Schulen</a><ul class="sub level-1">
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/" class="menu-link active">Schul&shy;verzeichnis</a>
+    </li>
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.bildung.berlin.de/Umkreissuche/" class="menu-link" target="_blank" title=" (Öffnet in neuem Fenster)">Schulen/Kitas in der Nähe</a>
+    </li>
+<li class="menu-item has-no-dropdown">
+    <a href="https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulwechsel-nach-berlin/" class="menu-link">Schulwechsel nach Berlin</a>
+    </li>
+</ul><!-- class="sub level-1" -->
+			</li>
+		</ul><!-- crumbs1 -->
+				</li>
+			</ul><!-- crumbs2 -->
+<!-- HIER 2 -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- MOBILE NAVIGATION END -->
+
+        <script type="text/javascript" src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1484664807"></script>
+
+
+<!-- Zählpixel -->
+
+<div id="cp">
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof (DartIvwKategorie) == "undefined") DartIvwKategorie = "beberlin";
+
+
+    var CP = location.protocol + "//boss.berlinonline.de/cp.php?a=berlin&amp;r=" + escape(document.referrer) + "&amp;cat=" + DartIvwKategorie + "&amp;p=" + escape(document.location) + "&amp;d=" + (Math.random() * 100000);
+    document.write("<img src=\"" + CP + "\" width=\"1\" height=\"1\" alt=\"\" id=\"cp_pixel\" style=\"position:absolute;width:1px;height:1px;\" />");
+    /*]]>*/</script>
+<noscript><img src="https://boss.berlinonline.de/cp.php?a=berlin&amp;p=http%3A%2F%2Fwww.berlin.de%2Fsen%2Fbildung%2Fschule%2Fberliner-schulen%2Fschulverzeichnis%2F__i9%2Fstd%2F&amp;r=" alt="" /></noscript>
+
+    <div id="ivw">
+
+         <!-- szm pixel desktop variante -->
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+<script type="text/javascript">
+    var iam_data = { "mg": "yes", "cp": DartIvwKategorie, "oc": DartIvwKategorie, "st": "berlin", "sv": (location.pathname == "/" ? "ke" : "in"), "co": location.hostname }
+    iom.c(iam_data, 1);
+</script>
+<!-- /SZM -->
+
+    </div>
+</div>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.berlinonline.de"]);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function () {
+        var u = (("https:" == document.location.protocol) ? "https" : "http") + "://piwik.berlinonline.de/";
+        _paq.push(["setTrackerUrl", u + "piwik.php"]);
+        _paq.push(["setSiteId", document.location.hostname.match(/service\.berlin\.de$/) ? "6" : "1"]);
+        var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0]; g.type = "text/javascript";
+        g.defer = true; g.async = true; g.src = u + "piwik.js"; s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+</body>
+</html>
+

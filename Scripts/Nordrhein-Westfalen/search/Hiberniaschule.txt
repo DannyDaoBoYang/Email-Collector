@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>SCHULE SUCHEN 2.0 - SUCHE NACH NAME ODER NUMMER - ABFRAGE</title>
+<link rel="stylesheet" href="jspsrc/css/bp_style.css" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="bodyclass">
+
+<div>
+	<form method="post" action="online?action=627.7520112649837" name="suchen_name" style="display:inline">
+ 		<input type="submit" value="zurück zur Suche" title="Zurück zur Suche nach Namen oder Schulnummer" name="retour" class="btn btn12Breit btnArrowLeft">
+	</form>
+	<input type="button" id="karte_an" name="kbutton" value="Kartendarstellung" target="_blank" title="Zur Kartendarstellung des Suchergebnisses - Öffnet neues Fenster" class="btn btn12Breit" style="display: none;" onclick="window.open('/BiPo/SchuleSuchen/jspsrc/Schule_suchen/geoCodingInfos.jsp');">
+</div>
+<br/>
+
+<!--  <fieldset> -->
+
+	<!-- Ergebnisanzeige -->
+	
+
+	<div>
+		<div style="float:left"><font color='blue'>&nbsp;Ergebnis der Suche: 1 Schule(n)&nbsp;<br/>&nbsp;(<font size=-1>Schulen nach Name oder Schulnummer - Schulform(en): Hiberniaschule</font></font>)</div>
+<!--
+		<div style="float:right" class='aktSchule'>
+			<input type="submit" id="karte_an" name="button" value="Kartendarstellung" title="Zur Kartendarstellung des Suchergebnisses - Öffnet neues Fenster" class="btn btn14Breit" style="display: none;" onclick="window.open('/BiPo/SchuleSuchen/jspsrc/Schule_suchen/geoCodingInfos.jsp');">
+		</div>
+-->
+<!--
+		<div style="float:left; text-align:center;" class='btn btn12Breit'><a href="/BiPo/SchuleSuchen/jspsrc/Schule_suchen/geoCodingInfos.jsp" target="_blank"><font color=white>&nbsp;Kartendarstellung&nbsp;</font></a></div>
+-->
+	</div><br/><br/>
+
+	<!-- ab hier mal neu -->
+	<div>
+	<a href='online?action=866.6927483416811&SNR=164264' target="_blank" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">
+		<div class="indexKachelSchuleSuchen bp_ergebnis_even indexKachelSchuleSuchenGroesse" id="#164264">
+			<div class="kachelBodySchuleSuchen">
+				<span class="kachelHeading" style="margin-bottom:0.75em">Hiberniaschule</span>
+				<div class="kachelBodySchuleSuchenInnen" style="font-size:90%">
+					Hiberniaschule, staatlich genehmigte
+					Gesamtschule u. Kolleg e.A. in freier
+						
+					Trägersch.d. Schulv.d. Hiberniasch. e.V.<br/>
+						
+					<br/>44652&nbsp;Herne<br/><br/>
+					<a href='online?action=866.6927483416811&SNR=164264' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a><br/>
+					<a href='mailto:164264@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a>
+<!--
+					<object><a href='online?action=866.6927483416811&SNR=164264' target="_blank" class="extern href_anzeige" title="Weitere Informationen - Link &ouml;ffnet ein neues Fenster">&nbsp;Weitere Informationen anzeigen</a></object><br/>
+					<object><a href='mailto:164264@schule.nrw.de'  class="extern href_anzeige" title="E-Mail an die Schule senden - Link &ouml;ffnet den lokalen E-Mail-Client in einem neuen Fenster">&nbsp;E-Mail an die Schule senden</a></object>
+-->
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+	<!-- bis hier mal neu -->
+
+
+	<script>
+		document.getElementById('karte_an').style.display='inline';
+	</script>
+
+
+<div class="indexClear"></div>
+
+</body>
+</html>
+
+<!--  </fieldset> -->
+</body>
+</html>
+
