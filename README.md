@@ -1,6 +1,5 @@
 # Email-Collector
-
-#Purpose
+# Purpose
 
 Created to automatcially extract German's Schools' Email address from their provincial databases. 
 
